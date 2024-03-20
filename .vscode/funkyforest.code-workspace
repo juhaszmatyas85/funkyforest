@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "..",
+      "name": "root"
+    },
+    {
+      "path": "../web/wp-content/themes",
+      "name": "themes"
+    }    {
+      "path": "../web/wp-content/plugins",
+      "name": "plugins"
+    }
+  ],
+  "settings": {
+    // PHP Sniffer & Beautifier
+    "phpsab.standard": "WordPress",
+    "phpsab.fixerEnable": true,
+    "phpsab.snifferEnable": true,
+    "phpsab.snifferShowSources": true,
+    "phpsab.executablePathCBF": "",
+    "phpsab.executablePathCS": ""
+  }
+}

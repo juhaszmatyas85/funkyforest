@@ -1,0 +1,23 @@
+# WordPress
+web/*
+!web/wp-content
+!web/wp-config.php
+
+# WP-CLI
+wp-cli.local.yml
+
+# Dotenv
+.env
+
+# Node
+node_modules
+dist
+
+# Composer
+composer.phar
+**/composer.phar
+/vendor/
+**/vendor/
+
+# Logs
+*.log

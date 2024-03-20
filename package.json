@@ -1,0 +1,17 @@
+{
+  "name": "funkyforest",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "All rights reserved!",
+  "scripts": {
+    "downloadWP": "node scripts/getWP.js"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "request": "^2.88.2",
+    "rimraf": "^5.0.5",
+    "unzipper": "^0.10.14"
+  }
+}
