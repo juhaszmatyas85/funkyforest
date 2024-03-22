@@ -2,6 +2,10 @@
 
 # Telepítés
 
+Inicializáljuk a Node-os script-eket:
+```bash
+yarn install
+```
 A WordPress letöltése és kicsomagolása a `/web` mappába úgy, hogy a `/web/wp-content` mappa és a `/web/wp-config.php` fájl érintetlenül marad, tehát nem lesz felülírva a verziókövetett tartalom:
 ```bash
 yarn downloadWP
