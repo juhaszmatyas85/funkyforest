@@ -6,7 +6,9 @@
   "author": "",
   "license": "All rights reserved!",
   "scripts": {
-    "downloadWP": "node scripts/getWP.js"
+    "downloadWP": "node scripts/getWP.js",
+    "composer:install": "composer install",
+    "composer:dump-autoload": "composer dump-autoload"
   },
   "dependencies": {
     "concurrently": "^8.2.2",
