@@ -17,7 +17,8 @@ request(wordpressURL)
     .on('entry', function (entry) {
         const fileName = entry.path;
         const type = entry.type;
-        const fullPath = path.join(extractPath, fileName);
+        const adjustedPath = fileName.replace(/^wordpress\//, '');
+        const fullPath = path.join(extractPath, adjustedPath);
 
         if (fileName.startsWith('wp-content/') || fileName === 'wp-config.php') {
             // Ha a fájl a wp-content mappában van, vagy a wp-config.php, akkor kihagyjuk
