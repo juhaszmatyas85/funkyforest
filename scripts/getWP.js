@@ -19,7 +19,7 @@ request(wordpressURL)
         const type = entry.type;
         const fullPath = path.join(extractPath, fileName);
 
-        if (fileName.startsWith('wordpress/wp-content/') || fileName === 'wordpress/wp-config.php') {
+        if (fileName.startsWith('wp-content/') || fileName === 'wp-config.php') {
             // Ha a fájl a wp-content mappában van, vagy a wp-config.php, akkor kihagyjuk
             entry.autodrain();
         } else if (type === 'File') {
