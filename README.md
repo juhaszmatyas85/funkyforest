@@ -1,5 +1,3 @@
-
-
 # Telepítés
 
 Inicializáljuk a Node-os script-eket:
@@ -11,7 +9,7 @@ A WordPress letöltése és kicsomagolása a `/web` mappába úgy, hogy a `/web/
 yarn downloadWP
 ```
 
-A `dev`es környezet indítása:
+A `dev`es környezet indítása ([ehhez szükséges telepíteni a Lando-t](https://lando.dev/download/)):
 ```bash
 lando start
 ```
