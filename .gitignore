@@ -1,8 +1,7 @@
 # WordPress
-web
+web/*
 !web/wp-config.php
 !web/wp-content/themes/generatepress_child
-web/wp-content/themes
 
 # WP-CLI
 wp-cli.local.yml
