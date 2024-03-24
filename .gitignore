@@ -1,6 +1,7 @@
 # WordPress
 web/*
 !web/wp-config.php
+web/wp-content/themes/*
 !web/wp-content/themes/generatepress_child
 
 # WP-CLI
