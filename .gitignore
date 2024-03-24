@@ -1,9 +1,7 @@
 # WordPress
 /web/*
-/web/wp-content/languages/*
-/web/wp-content/themes/*
-/web/wp-content/plugins/*
 /web/wp-content/
+!/web/wp-content/maintenance
 !/web/wp-content/themes/generatepress_child/
 
 # WP-CLI
