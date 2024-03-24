@@ -7,7 +7,6 @@ config:
   composer_version: "2.0.7"
   via: apache:2.4
   webroot: web
-  database: mysql:5.7
   xdebug: true
 
 services:
@@ -17,6 +16,12 @@ services:
         PHP_MEMORY_LIMIT: 2G
     config:
       php: ./config/php.ini
+  database:
+    type: mysql:5.7
+  phpmyadmin:
+    type: phpmyadmin
+    hosts:
+      - database
 
 proxy:
   appserver:

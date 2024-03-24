@@ -7,7 +7,8 @@
     {
       "path": "../web/wp-content/themes",
       "name": "themes"
-    }    {
+    },
+    {
       "path": "../web/wp-content/plugins",
       "name": "plugins"
     }
@@ -18,7 +19,7 @@
     "phpsab.fixerEnable": true,
     "phpsab.snifferEnable": true,
     "phpsab.snifferShowSources": true,
-    "phpsab.executablePathCBF": "",
-    "phpsab.executablePathCS": ""
+    "phpsab.executablePathCBF": "${workspaceFolder}/vendor/bin/phpcbf",
+    "phpsab.executablePathCS": "${workspaceFolder}/vendor/bin/phpcs"
   }
 }
