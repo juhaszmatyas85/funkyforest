@@ -1,0 +1,1689 @@
+# Translation of Plugins - HuCommerce | Magyar WooCommerce kiegészítések - Stable (latest release) in Hungarian
+# This file is distributed under the same license as the Plugins - HuCommerce | Magyar WooCommerce kiegészítések - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-31 11:25:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - HuCommerce | Magyar WooCommerce kiegészítések - Stable (latest release)\n"
+
+#: pages/settings-nav-modules.php:197 pages/settings-nav-modules.php:318
+msgid "Payments"
+msgstr "Fizetés"
+
+#: modules/limit-payment-methods.php:13 pages/settings-nav-modules.php:320
+msgid "Disable any Payment Methods for a particular user. The disabled Payment Method will not be shown to the Customer on the Checkout page."
+msgstr "Kapcsolj ki bármilyen Fizetési módot egy adott felhasználónál. A kikapcsolt Fizetési mód nem lesz elérhető a vásárló számára a Pénztár oldalon."
+
+#: modules/limit-payment-methods.php:12 pages/settings-nav-modules.php:319
+#: pages/settings-nav-modules.php:772
+msgid "Limit Payment Methods"
+msgstr "Fizetési módok korlátozása"
+
+#: pages/settings-nav-modules.php:166
+msgid "Price suffix on Archive pages"
+msgstr "Ár utótag az Archívum oldalakon"
+
+#: pages/settings-nav-modules.php:165
+msgid "Price prefix on Archive pages"
+msgstr "Ár előtag az Archívum oldalakon"
+
+#: pages/settings-nav-modules.php:164
+msgid "Price suffix on Product page"
+msgstr "Ár utótag a Termék oldalon"
+
+#: pages/settings-nav-modules.php:163
+msgid "Price prefix on Product page"
+msgstr "Ár előtag a Termék oldalon"
+
+#: pages/settings-nav-modules.php:75
+msgid "Custom submit button text"
+msgstr "Egyedi megrendelés gomb szöveg"
+
+#: pages/settings-nav-modules.php:66
+msgid "Hide Company and Tax number fields, if billing country is not Hungary"
+msgstr "Cégnév és Adószám mezők elrejtése, ha a számlázási ország nem Magyarország"
+
+#: pages/settings-nav-modules.php:601
+msgid "Disables all functions regarding purchasing products. Cart, Checkout and Account pages will be redirected to Shop page."
+msgstr "Kikapcsolja az értékesítéshez kapcsolódó funkciókat. A Kosár, Pénztár és Fiók oldalakat átirányítja az Üzlet oldalra."
+
+#: pages/settings-nav-modules.php:600 pages/settings-nav-modules.php:1029
+msgid "Catalog mode"
+msgstr "Katalógus mód"
+
+#: pages/settings-nav-modules.php:158
+msgid "If you would like to show a message, when minimum order amount reached. Leave empty if you do not want to show this notice to customers."
+msgstr "Ha szeretnél egy üzenetet megjeleníteni, amikor elérte a vásárló a minimális rendelési értéket. Hagyd üresen, ha nem szeretnél ilyen üzenetet megjeleníteni a vásárlóknak."
+
+#: modules-hu/product-price-history.php:344
+msgid "No product ID has been defined so far."
+msgstr "Nincs megadva a termék azonosító."
+
+#: pages/settings-select-options.php:69
+msgid "Show all shipping methods"
+msgstr "Minden Szállítási mód mutatása"
+
+#: pages/settings-nav-modules.php:200 pages/settings-nav-modules.php:332
+#: pages/settings-nav-modules.php:346 pages/settings-nav-modules.php:375
+#: pages/settings-nav-modules.php:493 pages/settings-nav-modules.php:583
+#: pages/settings-nav-modules.php:599
+msgid "Other"
+msgstr "Egyéb"
+
+#: pages/settings-nav-modules.php:199 pages/settings-nav-modules.php:211
+#: pages/settings-nav-modules.php:226 pages/settings-nav-modules.php:240
+#: pages/settings-nav-modules.php:270 pages/settings-nav-modules.php:286
+#: pages/settings-nav-modules.php:302 pages/settings-nav-modules.php:390
+#: pages/settings-nav-modules.php:405 pages/settings-nav-modules.php:420
+#: pages/settings-nav-modules.php:435 pages/settings-nav-modules.php:523
+#: pages/settings-nav-modules.php:553 pages/settings-nav-modules.php:569
+msgid "Conversion"
+msgstr "Konverzió"
+
+#: pages/settings-nav-modules.php:198 pages/settings-nav-modules.php:269
+#: pages/settings-nav-modules.php:285 pages/settings-nav-modules.php:301
+#: pages/settings-nav-modules.php:361
+msgid "Legal"
+msgstr "Jogi"
+
+#: pages/settings-nav-modules.php:196 pages/settings-nav-modules.php:210
+#: pages/settings-nav-modules.php:225 pages/settings-nav-modules.php:254
+#: pages/settings-nav-modules.php:300 pages/settings-nav-modules.php:317
+#: pages/settings-nav-modules.php:360 pages/settings-nav-modules.php:389
+#: pages/settings-nav-modules.php:404 pages/settings-nav-modules.php:434
+#: pages/settings-nav-modules.php:479 pages/settings-nav-modules.php:507
+#: pages/settings-nav-modules.php:522 pages/settings-nav-modules.php:538
+#: pages/settings-nav-modules.php:568
+msgid "Checkout"
+msgstr "Pénztár"
+
+#: pages/settings-nav-modules.php:195 pages/settings-nav-modules.php:253
+#: pages/settings-nav-modules.php:450 pages/settings-nav-modules.php:464
+#: pages/settings-nav-modules.php:478 pages/settings-nav-modules.php:521
+#: pages/settings-nav-modules.php:567
+msgid "Cart"
+msgstr "Kosár"
+
+#: pages/settings-nav-modules.php:194 pages/settings-nav-modules.php:268
+#: pages/settings-nav-modules.php:284 pages/settings-nav-modules.php:419
+#: pages/settings-nav-modules.php:449 pages/settings-nav-modules.php:537
+#: pages/settings-nav-modules.php:552 pages/settings-nav-modules.php:598
+msgid "Product"
+msgstr "Termék"
+
+#: pages/settings-nav-modules.php:188 pages/settings-nav-modules.php:345
+#: pages/settings-nav-modules.php:359 pages/settings-nav-modules.php:374
+#: pages/settings-nav-modules.php:388 pages/settings-nav-modules.php:403
+#: pages/settings-nav-modules.php:418 pages/settings-nav-modules.php:433
+#: pages/settings-nav-modules.php:448 pages/settings-nav-modules.php:463
+#: pages/settings-nav-modules.php:477 pages/settings-nav-modules.php:492
+#: pages/settings-nav-modules.php:506 pages/settings-nav-modules.php:520
+#: pages/settings-nav-modules.php:536 pages/settings-nav-modules.php:551
+#: pages/settings-nav-modules.php:566 pages/settings-nav-modules.php:582
+#: pages/settings-nav-modules.php:597
+msgid "Free"
+msgstr "Ingyenes"
+
+#: pages/settings-nav-modules.php:178
+msgid "All"
+msgstr "Összes"
+
+#: pages/settings-nav-modules.php:56
+msgid "Remove image zoom on single product pages"
+msgstr "Kép nagyítás kikapcsolása a Termék végoldalon"
+
+#: pages/settings-nav-modules.php:52
+msgid "Text before the discount, when actual sale price is the only sale price recently"
+msgstr "Kedvezmény előtti szöveg, amikor az aktuális akciós ár az egyetlen akciós ár az elmúlt időszakban"
+
+#: pages/settings-nav-modules.php:47 pages/settings-validate.php:241
+msgid "Actual sale price is our lowest price recently"
+msgstr "Az aktuális akciós ár a legalacsonyabb árunk az elmúlt időszakban"
+
+#: pages/settings-nav-modules.php:46
+msgid "Text when actual sale price is the only sale price recently"
+msgstr "Szöveg, amikor az aktuális akciós ár az egyetlen akciós ár az elmúlt időszakban"
+
+#: pages/settings-nav-modules.php:11
+msgid "This Module has no options, but it is activated and already working."
+msgstr "Ennek a modulnak nincsenek további beállításai, de aktív és rendben működik."
+
+#: pages/page-modules.php:21
+msgid "Manage and configure HuCommerce modules"
+msgstr "HuCommerce modulok kezelése és beállításai"
+
+#: pages/page-globals.php:18
+msgid "All modules"
+msgstr "Minden modul"
+
+#: modules-hu/product-price-history.php:349
+msgid "The product_id parameter is not a valid product ID."
+msgstr "A megadott product_id paraméter nem valós termék azonosító."
+
+#: modules-hu/product-price-history.php:325 pages/settings-nav-modules.php:53
+#: pages/settings-validate.php:244
+msgid "Actual discount"
+msgstr "Aktuális kedvezmény"
+
+#: modules-hu/product-price-history.php:314
+msgid "The product_id parameter is not valid."
+msgstr "A megadott product_id paraméter nem megfelelő formátumú."
+
+#: modules-hu/product-price-history.php:314
+#: modules-hu/product-price-history.php:344
+#: modules-hu/product-price-history.php:349
+msgid "Error with [hc-termekartortenet] shortcode"
+msgstr "Hiba a [hc-termekartortenet] rövidkóddal"
+
+#: modules-hu/product-price-history.php:219
+#: modules-hu/product-price-history.php:281
+msgid "With this option, you can overwrite the global setting for advanced statistics display."
+msgstr "Ezzel az opcióval felül lehet írni a részletes statisztika megjelenésének a globális beállításait."
+
+#: modules-hu/product-price-history.php:216
+#: modules-hu/product-price-history.php:278
+#: pages/settings-select-options.php:175
+msgid "Hide advanced statistics"
+msgstr "Részletes statisztika elrejtése"
+
+#: modules-hu/product-price-history.php:215
+#: modules-hu/product-price-history.php:277
+#: pages/settings-select-options.php:171
+msgid "Always show advanced statistics"
+msgstr "Részletes statisztika megjelenítése minden esetben"
+
+#: modules-hu/product-price-history.php:214
+#: modules-hu/product-price-history.php:276
+#: pages/settings-select-options.php:167
+msgid "Show advanced statistics, when Product is on Sale"
+msgstr "Részletes statisztika megjelenítése, amikor a Termék akciós"
+
+#: modules-hu/product-price-history.php:213
+#: modules-hu/product-price-history.php:275
+msgid "Use the global setting"
+msgstr "Globális beállítás használata"
+
+#: modules-hu/product-price-history.php:211
+#: modules-hu/product-price-history.php:273
+msgid "Advanced statistics display settings"
+msgstr "Részletes statisztika megjelenítésének a beállításai"
+
+#: lib/admin.php:100
+msgid "HuCommerce Informations"
+msgstr "HuCommerce információk"
+
+#: lib/admin.php:92 pages/page-globals.php:93 pages/page-license.php:20
+msgid "License management"
+msgstr "Licensz kezelés"
+
+#: lib/admin.php:91
+msgid "HuCommerce License Management"
+msgstr "HuCommerce licensz kezelés"
+
+#: lib/admin.php:71
+msgid "HuCommerce Directory"
+msgstr "HuCommerce katalógus"
+
+#: lib/admin.php:52 pages/page-globals.php:14 pages/page-modules.php:20
+msgid "Modules"
+msgstr "Modulok"
+
+#: pages/settings-nav-modules.php:144
+msgid "Confirmation text"
+msgstr "Megerősítő szöveg"
+
+#: pages/settings-nav-modules.php:143
+msgid "Link text"
+msgstr "Hivatkozás szöveg"
+
+#: pages/settings-nav-modules.php:142
+msgid "Button text"
+msgstr "Gomb szöveg"
+
+#: modules/empty-cart-button.php:21 pages/settings-nav-modules.php:145
+msgid "Empty cart"
+msgstr "Kosár ürítése"
+
+#: pages/settings-select-options.php:145
+msgid "Under the Products table"
+msgstr "Termék felsorolás alatt"
+
+#: pages/settings-select-options.php:141
+msgid "Next to the Update cart button"
+msgstr "Kosár frissítése gomb mellett"
+
+#: pages/settings-select-options.php:137
+msgid "Next to the Apply coupon button"
+msgstr "Kupon beváltása gomb mellett"
+
+#: pages/settings-select-options.php:31 pages/settings-select-options.php:133
+msgid "Don't show on Cart page"
+msgstr "Ne mutasd a Kosár oldalon"
+
+#: pages/settings-nav-modules.php:288
+msgid "Set a default prefix or suffix for your prices. You can use this feature to give a unit of measure for your product prices or give a general information, that is specific for your webshop and your products. With the above settings you can give your default, global prefix and suffix, but you can customize these fields per product also. Even, you can remove it, when you edit your products."
+msgstr "Az alapértelmezett elő- és utótag beállítása. A termékekre vagy webáruházra jellemző mértékegységek vagy általános információk megjelenítése a termék ára előtt, illetve után. Ezekkel a beállításokkal az alapértelmezett, globális előtagokat és utótagokat lehet megadni, de ezeket az értékeket minden termék szerkesztésénél egyedileg meg lehet adni vagy akár ki is lehet kapcsolni."
+
+#: pages/settings-nav-modules.php:256
+msgid "It will display buttons, that can empty the entire Cart with one click. You can also add a custom link to your navigation with a special parameter, so it is possible to have an Empty Cart link in your menu. Read more about this option in our Documentation."
+msgstr "Gombokat jelenít meg, amikkel egyetlen kattintással törölhetők a Kosárban lévő termékek. Akár egy egyedi linket is megjeleníthetsz a menüben egy speciális paraméterrel, így akár lehet egy Kosár törlése linked a menüben is. A beállításokról több információt a Tudástárunkban találsz."
+
+#: pages/settings-nav-modules.php:161
+msgid "If this option is enabled, the checkbox on the Checkout page won't be required anymore."
+msgstr "Az opció aktiválásával a checkbox a Pénztár oldalon nem lesz többé kötelező."
+
+#: pages/settings-nav-modules.php:160
+msgid "Make Custom 2 checkbox optional"
+msgstr "Legyen opcionális az Egyedi 2 mező"
+
+#: pages/settings-nav-modules.php:159
+msgid "Make Custom 1 checkbox optional"
+msgstr "Legyen opcionális az Egyedi 1 mező"
+
+#: pages/settings-nav-modules.php:157
+msgid "Message when minimum order amount reached"
+msgstr "Üzenet a minimális rendelési érték elérése után"
+
+#: pages/settings-nav-modules.php:155
+msgid "Message before minimum order amount reached"
+msgstr "Üzenet a minimális rendelési érték elérése előtt"
+
+#: pages/settings-nav-modules.php:154
+msgid "If checked, free shipping would be available based on order amount exclusive of tax."
+msgstr "Az opció kiválasztásával az ingyenes szállítás összegét adó nélkül, azaz nettó áron fogja számítani."
+
+#: pages/settings-nav-modules.php:153
+msgid "Apply minimum order rule without tax"
+msgstr "Minimális rendelési érték számítása adó nélkül"
+
+#: pages/settings-nav-modules.php:152
+msgid "If checked, free shipping would be available based on pre-discount order amount."
+msgstr "Az opció kiválasztásával az ingyenes szállítás összegét a kedvezmény előtti érték alapján fogja számítani."
+
+#: pages/settings-nav-modules.php:151
+msgid "Apply minimum order rule before coupon discount"
+msgstr "Minimális rendelési érték számítása kedvezmény nélkül"
+
+#: pages/settings-nav-modules.php:150
+msgid "Users will need to spend this amount to get free shipping."
+msgstr "Ezt az összeget kell elérni a vásárlásnak az ingyenes szállításhoz."
+
+#: pages/settings-nav-modules.php:149
+msgid "Minimum order amount"
+msgstr "Minimális rendelési érték"
+
+#: modules/empty-cart-button.php:22 modules/empty-cart-button.php:43
+#: pages/settings-nav-modules.php:148 pages/settings-validate.php:236
+msgid "Are you sure you want to empty the Cart?"
+msgstr "Biztosan üríteni szeretnéd a Kosár tartalmát?"
+
+#: modules/empty-cart-button.php:42 pages/settings-nav-modules.php:147
+#: pages/settings-validate.php:235
+msgid "Empty cart & continue shopping"
+msgstr "Kosár ürítése és a vásárlás folytatása"
+
+#: modules/empty-cart-button.php:41 pages/settings-nav-modules.php:146
+#: pages/settings-validate.php:234
+msgid "Changed your mind?"
+msgstr "Meggondoltad magad?"
+
+#: pages/settings-nav-modules.php:141
+msgid "Show Empty Cart button on Checkout page"
+msgstr "Kosár ürítése gomb megjelenítése a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:140
+msgid "Show Empty Cart button on Cart page"
+msgstr "Kosár ürítése gomb megjelenítése a Kosár oldalon"
+
+#: pages/settings-nav-modules.php:255 pages/settings-nav-modules.php:660
+msgid "Empty Cart button"
+msgstr "Kosár ürítése gomb"
+
+#: modules/product-price-additions.php:80
+msgid "Disable the price suffix for this product on archive pages."
+msgstr "Termék ár utótag elrejtése ennél a terméknél az archívum oldalakon."
+
+#: modules/product-price-additions.php:72
+msgid "This text will be displayed after the Product's price on the Archive pages."
+msgstr "Ez a szöveg fog megjelenni a termék ára után az archívum oldalakon."
+
+#: modules/product-price-additions.php:70
+msgid "Suffix on Archive pages"
+msgstr "Utótag az archívum oldalakon"
+
+#: modules/product-price-additions.php:64
+msgid "Disable the price prefix for this product on archive pages."
+msgstr "Termék ár előtag elrejtése ennél a terméknél az archívum oldalakon."
+
+#: modules/product-price-additions.php:56
+msgid "This text will be displayed just before the Product's price on the Archive pages."
+msgstr "Ez a szöveg fog megjelenni a termék ára előtt az archívum oldalakon."
+
+#: modules/product-price-additions.php:54
+msgid "Prefix on Archive pages"
+msgstr "Előtag az archívum oldalakon"
+
+#: modules/product-price-additions.php:48
+msgid "Disable the price suffix for this product on product page."
+msgstr "Termék ár utótag elrejtése ennél a terméknél az archívum oldalakon."
+
+#: modules/product-price-additions.php:40
+msgid "This text will be displayed after the Product's price on the Product page."
+msgstr "Ez a szöveg fog megjelenni a termék ára után a termék végoldalon."
+
+#: modules/product-price-additions.php:38
+msgid "Suffix on Product page"
+msgstr "Utótag a termék végoldalon"
+
+#: modules/product-price-additions.php:32
+msgid "Disable the price prefix for this product on product page."
+msgstr "Termék ár előtag elrejtése ennél a terméknél a termék végoldalon."
+
+#: modules/product-price-additions.php:24
+msgid "This text will be displayed just before the Product's price on the Product page."
+msgstr "Ez a szöveg fog megjelenni a termék ára előtt a termék végoldalon."
+
+#: modules/product-price-additions.php:22
+msgid "Prefix on Product page"
+msgstr "Előtag a termék végoldalon"
+
+#: modules/product-price-additions.php:17
+msgid "Fields below will overwrite the global prefixes and suffixes set in HuCommerce settings."
+msgstr "Az alábbi mezők felülírják a HuCommerce beállításoknál megadott előtagokat és utótagokat."
+
+#: modules/product-price-additions.php:16 pages/settings-nav-modules.php:287
+#: pages/settings-nav-modules.php:714
+msgid "Product price additions"
+msgstr "Termék ár kiegészítések"
+
+#: modules/legal-checkout.php:252
+msgid "Custom 2 checkbox"
+msgstr "Egyedi 2 mező"
+
+#: modules/legal-checkout.php:251
+msgid "Custom 1 checkbox"
+msgstr "Egyedi 1 mező"
+
+#: modules-hu/product-price-history.php:202
+#: modules-hu/product-price-history.php:263
+msgid "Hide lowest price text"
+msgstr "Legalacsonyabb ár szöveg elrejtése"
+
+#: modules-hu/product-price-history.php:193
+#: modules-hu/product-price-history.php:253
+msgid "Lowest price text"
+msgstr "Legalacsonyabb ár szöveg"
+
+#: modules-hu/product-price-history.php:180
+msgid "Fields below will overwrite the global price history options set in HuCommerce settings."
+msgstr "Az alábbi mezők felülírják a HuCommerce beállításoknál megadott globális termák ár történet beállításait."
+
+#: modules-hu/product-price-history.php:179
+#: modules/limit-payment-methods.php:12 modules/product-price-additions.php:16
+msgid "HuCommerce module"
+msgstr "HuCommerce modul"
+
+#: pages/page-globals.php:157
+msgid "Test email sent."
+msgstr "Teszt üzenet elküldve."
+
+#: pages/page-globals.php:151
+msgid "API sync finished."
+msgstr "API szinkronizálás befejezve."
+
+#: pages/settings-nav-modules.php:1012
+msgid "Send test email"
+msgstr "Teszt üzenet küldése"
+
+#: pages/settings-nav-modules.php:1012
+msgid "Clicking on this button will send a test email to the actual user's email address."
+msgstr "A gomb megnyomása után egy teszt üzenetet fog küldeni az aktuális felhasználó email címére."
+
+#: lib/admin.php:10
+msgid "Congratulations! The SMTP settings are correct."
+msgstr "Gratulálunk! Az SMTP beállítások helyesek."
+
+#: lib/admin.php:9
+msgid "HuCommerce test email"
+msgstr "HuCommerce teszt üzenet"
+
+#: pages/settings-nav-modules.php:139
+msgid "Text for the advanced statistics link"
+msgstr "Részletes statisztika link szövege"
+
+#: pages/settings-nav-modules.php:138
+msgid "It will show a link also on the Product pages, where visitors can see a more detailed Product price history for the actual Product."
+msgstr "Ezzel a részletes statisztika linkje a termék végoldalakon is megjeleníthető, ahol a látogatók több adatot látnak az adott termék ár történetével kapcsolatban."
+
+#: pages/settings-nav-modules.php:137
+msgid "Show the link for advanced statistics on Product pages"
+msgstr "Részletes statisztika link megjelenítése a termék végoldalon"
+
+#: modules-hu/product-price-history.php:327 pages/settings-validate.php:246
+msgid "Advanced statistics"
+msgstr "Részletes statisztika"
+
+#: pages/settings-nav-modules.php:119
+msgid "Shipping methods to hide, when free shipping is available"
+msgstr "Szállítási módok elrejtése, amikor elérhető az ingyenes szállítás."
+
+#: pages/settings-nav-modules.php:570 pages/settings-nav-modules.php:991
+msgid "Hide shipping methods"
+msgstr "Szállítási módok elrejtése"
+
+#: pages/settings-nav-modules.php:118
+msgid "Bookable product (WooCommerce Bookings)"
+msgstr "Foglalható termék (WooCommerce Bookings)"
+
+#: pages/settings-nav-modules.php:117
+msgid "Variable subscription product (WooCommerce Subscriptions)"
+msgstr "Variálható előfizetés (WooCommerce Subscriptions)"
+
+#: pages/settings-nav-modules.php:116
+msgid "Subscription product (WooCommerce Subscriptions)"
+msgstr "Egyszerű előfizetés (WooCommerce Subscriptions)"
+
+#: pages/settings-nav-modules.php:115
+msgid "Variable product"
+msgstr "Variálható termék"
+
+#: pages/settings-nav-modules.php:114
+msgid "External/Affiliate product"
+msgstr "Külső/Partner termék"
+
+#: pages/settings-nav-modules.php:113
+msgid "Grouped product"
+msgstr "Csoportosított termék"
+
+#: pages/settings-nav-modules.php:112
+msgid "Simple product"
+msgstr "Egyszerű termék"
+
+#: pages/settings-nav-modules.php:554 pages/settings-nav-modules.php:966
+msgid "Custom Add To Cart Button"
+msgstr "Egyedi “Kosárba teszem” gombok"
+
+#: pages/settings-nav-modules.php:539 pages/settings-nav-modules.php:962
+msgid "One product per purchase"
+msgstr "Egy termék vásárlásonként"
+
+#: pages/settings-nav-modules.php:524 pages/settings-nav-modules.php:958
+msgid "Redirect Cart page to Checkout page"
+msgstr "Kosár átirányítása a Pénztár oldalra"
+
+#: pages/settings-nav-modules.php:111
+msgid "Reposition the Coupon field"
+msgstr "Kupon mező áthelyezése"
+
+#: pages/settings-nav-modules.php:110
+msgid "It will hide the Coupon field toggle and makes the Coupon field always visible for customers."
+msgstr "Elrejti a Kupon mező megjelenítése linket, így a Kupon mező mindig látható lesz a vásárlóknak."
+
+#: pages/settings-nav-modules.php:109
+msgid "Coupon field always visible on Checkout page"
+msgstr "Kupon mező mindig látható legyen a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:108
+msgid "It will hide the Coupon field completely from the Checkout page."
+msgstr "Ezzel elrejthető a Kupon mező a Pénztár oldalon."
+
+#: pages/settings-nav-modules.php:107
+msgid "Hide Coupon field on Checkout page"
+msgstr "Kupon mező elrejtése a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:106
+msgid "It will hide the Coupon field completely from the Cart page."
+msgstr "Ezzel elrejthető a Kupon mező a Kosár oldalon."
+
+#: pages/settings-nav-modules.php:105
+msgid "Hide Coupon field on Cart page"
+msgstr "Kupon mező elrejtése a Kosár oldalon"
+
+#: pages/settings-nav-modules.php:104
+msgid "Show Coupons in upper case in both admin and front-end, instead of lower case, which is the default setting for WooCommerce."
+msgstr "A kuponok mutatása nagybetűkkel az admin és a látogatói felületen, az alapértelmezett kisbetűk helyett."
+
+#: pages/settings-nav-modules.php:103
+msgid "Show Coupons in upper case"
+msgstr "Kuponok megjelenítése nagybetűkkel"
+
+#: pages/settings-nav-modules.php:508 pages/settings-nav-modules.php:946
+msgid "Coupon field customizations"
+msgstr "Kupon mező módosítások"
+
+#: pages/settings-nav-modules.php:84
+msgid "Show on Checkout page"
+msgstr "Megjelenítés a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:83
+msgid "Show on Cart page"
+msgstr "Megjelenítés a Kosár oldalon"
+
+#: pages/settings-nav-modules.php:82
+msgid "Show on Product listing pages"
+msgstr "Megjelenítés a termék listaoldalakon"
+
+#: pages/settings-nav-modules.php:70
+msgid "It will hide Order notes field also."
+msgstr "A \"Rendelés jegyzetek\" mezőt is elrejti"
+
+#: pages/settings-nav-modules.php:69
+msgid "Hide Additional information section"
+msgstr "A \"További információk\" elrejtése"
+
+#: pages/settings-nav-modules.php:64
+msgid "Related products per row on single product pages"
+msgstr "Kapcsolódó termékek száma soronként a termék végoldalakon"
+
+#: pages/settings-nav-modules.php:63
+msgid "Number of related products on single product pages"
+msgstr "Kapcsolódó termékek száma a termék végoldalakon"
+
+#: pages/settings-nav-modules.php:62
+msgid "Upsell products per row on single product pages"
+msgstr "Upsell termékek száma soronként a termék végoldalakon"
+
+#: pages/settings-nav-modules.php:61
+msgid "Number of upsell products on single product pages"
+msgstr "Upsell termékek száma a termék végoldalakon"
+
+#: pages/settings-nav-modules.php:60
+msgid "Products per row on archive pages"
+msgstr "Termékek száma soronként a termék listaoldalakon"
+
+#: pages/settings-nav-modules.php:59
+msgid "Number of products on archive pages"
+msgstr "Termékek száma a termék listaoldalakon"
+
+#: pages/settings-nav-modules.php:58
+msgid "Remove related products on single product pages"
+msgstr "Kapcsolódó termékek kikapcsolása a termék végoldalakon"
+
+#: pages/settings-nav-modules.php:55
+msgid "Product subtitle"
+msgstr "Termék alcím"
+
+#: pages/settings-nav-modules.php:51
+msgid "Text before the discount"
+msgstr "Kedvezmény előtti szöveg"
+
+#: pages/settings-nav-modules.php:50
+msgid "It will show the discount, that is calculated from the lowest price automatically."
+msgstr "Megjeleníti a kedvezmény százalékos mértékét, amit a legalacsonyabb árból számol automatikusan."
+
+#: pages/settings-nav-modules.php:49
+msgid "Show the calculated discount on Product pages"
+msgstr "Számolt kedvezmény megjelenítése a termék végoldalakon"
+
+#: pages/settings-nav-modules.php:45
+msgid "Text before the lowest price"
+msgstr "Legalacsonyabb ár előtti szöveg"
+
+#: pages/settings-nav-modules.php:44
+msgid "It will show the lowest price from the product price history log automatically."
+msgstr "Megjeleníti a termék előző időszakában elérhető legalacsonyabb árat."
+
+#: pages/settings-nav-modules.php:43
+msgid "Show lowest price on Product pages"
+msgstr "Legalacsonyabb ár megjelenítése a termék végoldalakon"
+
+#: modules-hu/product-price-history.php:179 pages/settings-nav-modules.php:271
+#: pages/settings-nav-modules.php:675
+msgid "Product price history"
+msgstr "Termék ár történet"
+
+#: pages/settings-nav-modules.php:42
+msgid "Shipping Address field"
+msgstr "Szállítási cím mező"
+
+#: pages/settings-nav-modules.php:41
+msgid "Shipping City field"
+msgstr "Szállítási város mező"
+
+#: pages/settings-nav-modules.php:40
+msgid "Must have at least one letter, one number and one space in the address."
+msgstr "A címnek legalább egy betűt, egy számot és egy szóközt kell tartalmaznia."
+
+#: pages/settings-nav-modules.php:39
+msgid "Billing Address field"
+msgstr "Számlázási cím mező"
+
+#: pages/settings-nav-modules.php:38
+msgid "Allows only letters and space."
+msgstr "Csak betűk és szóköz engedélyezett."
+
+#: pages/settings-nav-modules.php:37
+msgid "Billing City field"
+msgstr "Számlázási város mező"
+
+#: pages/settings-nav-modules.php:36
+msgid "Shipping Postcode field"
+msgstr "Szállítási irányítószám mező"
+
+#: pages/settings-nav-modules.php:35
+msgid "Billing Phone field"
+msgstr "Számlázási telefonszám mező"
+
+#: pages/settings-nav-modules.php:34
+msgid "Allows only 4 numbers."
+msgstr "Csak 4 számjegy engedélyezett."
+
+#: pages/settings-nav-modules.php:33
+msgid "Billing Postcode field"
+msgstr "Számlázási irányítószám mező"
+
+#: pages/settings-nav-modules.php:32
+msgid "Allowed formats: 00000000-0-00, 00000000000, HU00000000"
+msgstr "Engedélyezett formátumok: 00000000-0-00, 00000000000, HU00000000"
+
+#: pages/settings-nav-modules.php:31
+msgid "Billing Tax field"
+msgstr "Számlázási adószám mező"
+
+#: pages/page-globals.php:115
+msgid "WordPress.org"
+msgstr "WordPress.org"
+
+#: pages/page-globals.php:114
+msgid "Facebook group"
+msgstr "Facebook csoport"
+
+#: pages/page-globals.php:110 pages/page-globals.php:112
+msgid "Support"
+msgstr "Támogatás"
+
+#: pages/page-globals.php:108
+msgid "Newsletter"
+msgstr "Hírlevél"
+
+#: lib/admin.php:72 pages/page-directory.php:20 pages/page-globals.php:72
+msgid "Directory"
+msgstr "Katalógus"
+
+#: pages/page-globals.php:71 pages/page-offers.php:20
+msgid "Offers"
+msgstr "Ajánlatok"
+
+#: pages/settings-select-options.php:81
+msgid "Hide all shipping methods, except Free shipping, Local pickup and other Pickup methods"
+msgstr "Szállítási módok elrejtése, kivéve az Ingyenes szállítást, a Személyes átvételt és a többi \"Pont\"-os kiszállításokat"
+
+#: pages/settings-select-options.php:77
+msgid "Hide all shipping methods, except Free shipping and Local pickup"
+msgstr "Szállítási módok elrejtése, kivéve az Ingyenes szállítást és a Személyes átvételt"
+
+#: pages/settings-select-options.php:73
+msgid "Hide all shipping methods, except Free shipping"
+msgstr "Szállítási módok elrejtése, kivéve az Ingyenes szállítást"
+
+#: pages/settings-select-options.php:24
+msgid "After Checkout form"
+msgstr "Pénztár űrlap után"
+
+#: pages/settings-select-options.php:20
+msgid "Before Checkout form"
+msgstr "Pénztár űrlap előtt"
+
+#: pages/settings-nav-offers.php:47
+msgid "There is no current special offer yet."
+msgstr "Jelenleg nincs aktuális ajánlat."
+
+#: pages/settings-nav-news.php:43
+msgid "There is no blog content yet."
+msgstr "Jelenleg nincs aktuális bejegyzés."
+
+#: pages/settings-nav-news.php:38
+msgid "Check all News"
+msgstr "Összes hír megtekintése"
+
+#: pages/settings-nav-news.php:30
+msgid "Read article"
+msgstr "Cikk elolvasása"
+
+#: pages/settings-nav-modules.php:571
+msgid "It will hide all shipping methods, except free shipping, local pickup and other pickup points, when free shipping is available for customers."
+msgstr "A szállítási módok elrejthetők, kivéve az Ingyenes szállítást, a Személyes átvételt és a többi \"Pont\"-os kiszállításokat, amikor az ingyenes kiszállítás elérhető a vásárlás során."
+
+#: pages/settings-nav-modules.php:999
+msgid "Compatible shipping plugins (Pickup methods)"
+msgstr "Kompatibilis szállítási kiegészítők (\"Pont\"-os kiszállítási módok)"
+
+#: pages/settings-nav-modules.php:555
+msgid "Customize the Add to cart buttons for your webhop."
+msgstr "Módosítsd a \"Kosárba teszem\" gombot a webáruházadnál."
+
+#: pages/settings-nav-modules.php:980
+msgid "Give your custom texts to your Add to cart buttons on the product archive pages. You can set custom texts for different product types. If you leave them empty, the button texts will inherit texts from single product settings or fall back to default WooCommerce texts, if those fields are also empty."
+msgstr "Add meg a saját szövegedet a \"Kosárba teszem\" gombokhoz a termék listaoldalakon. Minden termék típushoz külön szöveg is megadható akár. Amennyiben az egyes típusokat üresen hagyod, azok az egyszerű termék beállítását öröklik vagy a WooCommerce alapértelmezett szövegét, ha minden üresen marad."
+
+#: pages/settings-nav-modules.php:971
+msgid "Give your custom texts to your Add to cart buttons on the product pages. You can set custom texts for different product types. If you leave them empty, the button texts will fall back to default WooCommerce texts."
+msgstr "Add meg a saját szövegedet a \"Kosárba teszem\" gombokhoz a termék végoldalakon. Minden termék típushoz külön szöveg is megadható akár. Amennyiben az egyes típusokat üresen hagyod, azok az egyszerű termék beállítását öröklik vagy a WooCommerce alapértelmezett szövegét, ha minden üresen marad."
+
+#: pages/settings-nav-modules.php:540
+msgid "It will allow only one product in the cart. If cart has a product already, it will be replaced by the new product."
+msgstr "Ezzel a modullal csak egy termék tehető a kosárba. Ha már van termék a kosárban, akkor ahelyett az új termék lesz a kosárban."
+
+#: pages/settings-nav-modules.php:525
+msgid "It will redirect the Cart page to Checkout page, so visitors can finish the purchase faster."
+msgstr "A Kosár oldalt automatikusan átirányítja a Pénztár oldalra, így a vásárlók gyorsabban befejezhetik a vásárlási folyamatot."
+
+#: pages/settings-nav-modules.php:509
+msgid "Useful settings for the Coupon field on the Checkout page."
+msgstr "Hasznos beállítások a Kupon mezőhöz a Pénztár oldalon."
+
+#: pages/settings-nav-modules.php:745
+msgid "Checkout settings"
+msgstr "Pénztár beállítások"
+
+#: pages/settings-nav-modules.php:740
+msgid "Registration settings"
+msgstr "Regisztráció beállítások"
+
+#: pages/settings-nav-modules.php:970
+msgid "Single product pages"
+msgstr "Termék végoldalak"
+
+#: pages/settings-nav-modules.php:979
+msgid "Product archive pages"
+msgstr "Termék listaoldalak"
+
+#: pages/settings-nav-modules.php:272
+msgid "Saves all Product price changes and can display the lowest price from the previous term. This is a Hungarian legal requirement to protect customers rights."
+msgstr "Minden termék ár módosítást naplóz, amiből képes a legalacsonyabb árat megjeleníteni az előző időszakból. Ez a 2022. május 28-án bevezetett magyar fogyasztóvédelmi rendeletre vonatkozik."
+
+#: pages/settings-nav-modules.php:228
+msgid "Checking these fields: Billing VAT number, Billing Postcode, Billing Phone, Shipping Postcode"
+msgstr "Ezeket a mezőket ellenőrzi: Számlázási adószám, Számlázási irányítószám, Számlázási telefonszám, Szállítási irányítószám"
+
+#: pages/settings-nav-modules.php:213
+msgid "Masking these fields: Billing VAT number, Billing Postcode, Billing Phone, Shipping Postcode"
+msgstr "Ezeket a mezőket maszkolja: Számlázási adószám, Számlázási irányítószám, Számlázási telefonszám, Szállítási irányítószám"
+
+#: pages/settings-nav-modules.php:711 pages/settings-nav-modules.php:769
+#: pages/settings-nav-modules.php:868
+msgid "HuCommerce modules are tools to comply with local and/or international rules and laws, but it is the webshop owner's duty to make sure to comply with all rules and laws! Developers and the owners of HuCommerce take no responsibility for any legal compliance. However our mission is to provide all necessary tools for these challenges."
+msgstr "A HuCommerce modulok olyan eszközök, amik biztosíthatják a helyi és/vagy nemzetközi jogi megfeleléseket, de az mindig a webáruház tulajdonos feladata, hogy megbizonyosodjon a jogi megfelelésről! A HuCommerce bővítmény fejlesztői és tulajdonosai nem vállalnak felelősséget ezekért a jogi megfelelésekért. Habár egyértelmű küldetésünk, hogy biztosítsuk a szükséges eszközöket ezekhez a kihívásokhoz."
+
+#: pages/settings-nav-modules.php:710 pages/settings-nav-modules.php:768
+#: pages/settings-nav-modules.php:867
+msgid "Disclaimer"
+msgstr "Felelősség kizárás"
+
+#: pages/settings-functions.php:63 pages/settings-nav-directory.php:46
+msgid "Read more"
+msgstr "Bővebben"
+
+#: pages/settings-nav-modules.php:162
+msgid "Activate module"
+msgstr "Modul aktiválása"
+
+#: pages/settings-nav-informations.php:65
+msgid "Website informations are copied"
+msgstr "Weboldal információk másolva"
+
+#: pages/settings-nav-informations.php:49
+msgid "Copy website informations"
+msgstr "Weboldal információk másolása"
+
+#: pages/settings-nav-informations.php:36
+msgid "Website informations"
+msgstr "Weboldal információk"
+
+#: pages/settings-nav-informations.php:16
+msgid "GPLv3 or later License"
+msgstr "GPLv3 vagy újabb licensz"
+
+#: pages/settings-nav-informations.php:16
+msgid "License"
+msgstr "Licensz"
+
+#: pages/settings-nav-informations.php:15
+msgid "Version"
+msgstr "Verzió"
+
+#: pages/settings-nav-informations.php:14
+msgid "Plugin"
+msgstr "Bővítmény"
+
+#: pages/settings-nav-directory.php:60
+msgid "There is no post in the HuCommerce Directory yet."
+msgstr "Jelenleg nincs bejegyzés a HuCommerce katalógusban."
+
+#: pages/settings-nav-directory.php:55
+msgid "Check all posts in HuCommerce Directory"
+msgstr "Minden bejegyzés megtekintése a HuCommerce katalógusban"
+
+#: pages/settings-nav-directory.php:28
+msgid "Lawyers"
+msgstr "Ügyvédek"
+
+#: pages/settings-nav-directory.php:27
+msgid "Courses"
+msgstr "Tanfolyamok"
+
+#: pages/settings-nav-directory.php:26
+msgid "WooCommerce Hosting"
+msgstr "WooCommerce tárhelyszolgáltatás"
+
+#: pages/settings-nav-directory.php:25
+msgid "WooCommerce Developers"
+msgstr "WooCommerce fejlesztők"
+
+#: pages/settings-nav-directory.php:24
+msgid "WooCommerce Extensions"
+msgstr "WooCommerce kiegészítők"
+
+#: pages/settings-nav-directory.php:23
+msgid "All post"
+msgstr "Minden bejegyzés"
+
+#: pages/settings-functions.php:39
+msgid "Beta"
+msgstr "Béta"
+
+#: modules/product-settings.php:45
+msgid "These settings are added by the HuCommerce plugin."
+msgstr "Ezeket a beállításokat a HuCommerce bővítmény adta hozzá."
+
+#: modules/product-settings.php:13
+msgid "Product Settings"
+msgstr "Termék beállítások"
+
+#: modules-hu/vaildate-checkout-fields.php:76
+msgid "<strong>Shipping Address</strong> field is invalid: must have at least one letter, one number and one space in the address."
+msgstr "<strong>Szállítási cím</strong> értéke nem megfelelő: legalább egy betűnek, egy számnak és egy szóköznek kell a címben lennie."
+
+#: modules-hu/vaildate-checkout-fields.php:72
+msgid "<strong>Shipping City</strong> field is invalid: only letters and space are allowed."
+msgstr "<strong>Szállítási város</strong> értéke nem megfelelő: csak betűk és szóköz lehet benne."
+
+#: modules-hu/vaildate-checkout-fields.php:60
+msgid "<strong>Billing Address</strong> field is invalid: must have at least one letter, one number and one space in the address."
+msgstr "<strong>Számlázási cím</strong> értéke nem megfelelő: legalább egy betűnek, egy számnak és egy szóköznek kell a címben lennie."
+
+#: modules-hu/vaildate-checkout-fields.php:38
+msgid "<strong>Billing VAT number</strong> field is invalid. Please check again!"
+msgstr "<strong>Számlázási adószám</strong> formátuma nem megfelelő: kérlek ellenőrizd újra!"
+
+#: modules-hu/product-price-history.php:324 pages/settings-nav-modules.php:54
+#: pages/settings-validate.php:243
+msgid "Current discount based on the lowest price"
+msgstr "Aktuális kedvezmény a legalacsonyabb ár alapján"
+
+#: modules-hu/product-price-history.php:321 pages/settings-nav-modules.php:48
+#: pages/settings-validate.php:240
+msgid "Our lowest price from previous term"
+msgstr "A legalacsonyabb árunk az elmúlt időszakból"
+
+#: modules-hu/product-price-history.php:204
+#: modules-hu/product-price-history.php:265
+msgid "With this option enabled, you can hide the lowest price text for this product."
+msgstr "Ezzel az opcióval a legalacsonyabb ár szöveg elrejthető ehhez a termékhez."
+
+#: modules-hu/product-price-history.php:195
+#: modules-hu/product-price-history.php:255
+msgid "This text will be displayed just below the Product's price. It will overwrite the automatic text generated by HuCommerce settings."
+msgstr "Ez a szöveg fog megjelenni a termék ára alatt. Ez a beállítás felülírja a HuCommerce beállításokat."
+
+#: modules-hu/product-price-history.php:186
+#: modules-hu/product-price-history.php:245
+msgid "Open on a new tab"
+msgstr "Új lapon nyílik meg"
+
+#: modules-hu/product-price-history.php:186
+#: modules-hu/product-price-history.php:245
+msgid "Show the price history of this product"
+msgstr "Mutasd a termék ár történetét"
+
+#: modules-hu/product-price-history.php:185
+#: modules-hu/product-price-history.php:244
+msgid "Price history"
+msgstr "Ár történet"
+
+#: pages/settings-nav-modules.php:136
+msgid "Password to use for SMTP authentication"
+msgstr "Jelszó az SMTP azonosításhoz"
+
+#: pages/settings-nav-modules.php:135
+msgid "Username to use for SMTP authentication"
+msgstr "Felhasználónév az SMTP azonosításhoz"
+
+#: pages/settings-nav-modules.php:134
+msgid "The hostname of the mail server"
+msgstr "Levelező szerver címe"
+
+#: pages/settings-nav-modules.php:133
+msgid "SMTP From name"
+msgstr "SMTP küldő neve"
+
+#: pages/settings-nav-modules.php:132
+msgid "Optional"
+msgstr "Nem kötelező"
+
+#: pages/settings-nav-modules.php:131
+msgid "SMTP From email address"
+msgstr "SMTP küldő email címe"
+
+#: pages/settings-nav-modules.php:130
+msgid "Encryption type"
+msgstr "Titkosítás típusa"
+
+#: pages/settings-nav-modules.php:129
+msgid "SMTP port number"
+msgstr "SMTP port száma"
+
+#: pages/settings-nav-modules.php:1016
+msgid "SMTP service is a must have for all WooCommerce webshops, as it makes your transactional email delivery more stable and secure. Register a new account at a 3rd party SMTP service and set your credentials here to enable this feature."
+msgstr "Az SMTP szolgáltatás beállítása kötelező lenne minden webáruház tulajdonosnak, mert ezáltal lesznek az értesítések biztonságosabban és stabilabban kézbesítve. Az SMTP szolgáltatás beállításához először regisztrálnod kell valamelyik szolgáltatónál saját fiókot és az ott megadott adatok alapján tudod itt megadni a szükséges azonosítókat."
+
+#: pages/settings-nav-modules.php:816
+msgid "The tel shortcode will create a clickable phone number."
+msgstr "A tel rövidkód kattintható telefonszámot fog megjeleníteni."
+
+#: pages/settings-nav-modules.php:811
+msgid "The mailto shortcode can show an email address as a link and encode the characters, so bots can not read it from the source code."
+msgstr "A mailto rövidkód az email címeket kattintható formában fogja megjeleníteni úgy, hogy azokat a botok nem tudják kiolvasni a kódból."
+
+#: pages/settings-nav-modules.php:805
+msgid "Example"
+msgstr "Példa"
+
+#: pages/settings-nav-modules.php:804
+msgid "Description"
+msgstr "Leírás"
+
+#: pages/settings-nav-modules.php:803
+msgid "Shortcode"
+msgstr "Rövidkód"
+
+#: pages/settings-nav-modules.php:798
+msgid "Extra shortcodes"
+msgstr "További rövidkódok"
+
+#: pages/settings-nav-modules.php:128
+msgid "About Us"
+msgstr "Rólunk"
+
+#: pages/settings-nav-modules.php:127
+msgid "Telephone number"
+msgstr "Telefonszám"
+
+#: pages/settings-nav-modules.php:126
+msgid "Mobile phone number"
+msgstr "Mobiltelefonszám"
+
+#: pages/settings-nav-modules.php:125
+msgid "Bank account number"
+msgstr "Bankszámlaszám"
+
+#: pages/settings-nav-modules.php:124
+msgid "Address of store"
+msgstr "Üzlet címe"
+
+#: pages/settings-nav-modules.php:123
+msgid "Company registration number"
+msgstr "Cégjegyzékszám"
+
+#: pages/settings-nav-modules.php:122
+msgid "Headquarters"
+msgstr "Székhely"
+
+#: pages/settings-nav-modules.php:121
+msgid "Company"
+msgstr "Cég"
+
+#: pages/settings-nav-modules.php:120
+msgid "Name"
+msgstr "Név"
+
+#: pages/settings-nav-modules.php:785
+msgid "Use these fields for your global informations and show them with shortcodes. Your email will be safe from bots and your phone number will be active to call you with one tap on mobiles."
+msgstr "Ezeket az adatokat globálisan tudod itt kezelni, amiket a rövidkódok segítségével tudsz megjeleníteni az oldalon bárhol. Az email címek titkosítva jelennek meg a botoknak és a telefonszámok kattinthatóak az azonnali híváshoz."
+
+#: modules/product-settings.php:34
+msgid "Product Subtitle"
+msgstr "Termék alcím"
+
+#: pages/settings-nav-modules.php:57
+msgid "Add to cart button on archive pages"
+msgstr "Kosárba tesz gomb a termék listaoldalakon"
+
+#: pages/settings-nav-modules.php:585
+msgid "Send emails from a 3rd party SMTP service, instead of using webserver's mail() function."
+msgstr "Az emailek küldése külső SMTP szolgáltatáson keresztül a webszerver mail() függvénye helyett."
+
+#: pages/settings-nav-modules.php:584 pages/settings-nav-modules.php:1005
+msgid "SMTP service"
+msgstr "SMTP szolgáltatás"
+
+#: pages/settings-nav-modules.php:334
+msgid "Use these fields for your global informations and show them with shortcodes. Your email will be safe from bots and your phone number will be active to call you with one tap on mobiles. Local data will be semantic for search engines."
+msgstr "Ezeket az adatokat globálisan tudod itt kezelni, amiket a rövidkódok segítségével tudsz megjeleníteni az oldalon bárhol. Az email címek titkosítva jelennek meg a botoknak és a telefonszámok kattinthatóak az azonnali híváshoz."
+
+#: pages/settings-nav-modules.php:333 pages/settings-nav-modules.php:779
+msgid "Global informations"
+msgstr "Globális adatok"
+
+#: pages/settings-nav-modules.php:422
+msgid "Extra fields and other customizations for Products."
+msgstr "Extra mezők és további lehetőségek a Termékekhez."
+
+#: pages/settings-nav-modules.php:421 pages/settings-nav-modules.php:885
+msgid "Product customizations"
+msgstr "Termék módosítások"
+
+#: pages/settings-functions.php:38 pages/settings-functions.php:116
+#: pages/settings-functions.php:175 pages/settings-functions.php:235
+#: pages/settings-functions.php:289 pages/settings-functions.php:343
+#: pages/settings-functions.php:397 pages/settings-nav-modules.php:183
+#: pages/settings-nav-modules.php:315 pages/settings-nav-modules.php:596
+msgid "New"
+msgstr "Új"
+
+#: pages/settings-select-options.php:118
+msgid "Default encryption"
+msgstr "Alapértelmezett titkosítás"
+
+#: lib/admin.php:387
+msgid "HuCommerce Community"
+msgstr "HuCommerce közösség"
+
+#: lib/admin.php:379
+msgid "More about HuCommerce Pro"
+msgstr "HuCommerce Pro megismerése"
+
+#: lib/admin.php:381
+msgid "Get HuCommerce Pro"
+msgstr "HuCommerce Pro megvásárlása"
+
+#: lib/admin.php:292
+msgid "This notification will never show up again after you close it."
+msgstr "Ez az értesítés a lezárást követően nem jelenik meg újra."
+
+#: lib/admin.php:292 pages/settings-nav-modules.php:11
+msgid "IMPORTANT!"
+msgstr "FIGYELEM!"
+
+#: lib/admin.php:284
+msgid "HuCommerce Settings"
+msgstr "HuCommerce beállítások"
+
+#: pages/page-globals.php:73 pages/page-news.php:20
+msgid "Latest News"
+msgstr "Legújabb hírek"
+
+#: pages/settings-nav-offers.php:42
+msgid "Check all offers"
+msgstr "Minden ajánlat megtekintése"
+
+#: pages/settings-nav-offers.php:34
+msgid "View offer"
+msgstr "Ajánlat megtekintése"
+
+#: lib/admin.php:377
+msgid "HuCommerce Pro"
+msgstr "HuCommerce Pro"
+
+#: modules-hu/vaildate-checkout-fields.php:56
+msgid "<strong>Billing City</strong> field is invalid: only letters and space are allowed."
+msgstr "<strong>Számlázási város</strong> mező hibás: csak betűk és szóköz lehet benne."
+
+#. Author of the plugin
+msgid "HuCommerce.hu"
+msgstr "HuCommerce.hu"
+
+#: pages/settings-nav-modules.php:98
+msgid "Custom 2 checkbox text on Checkout page"
+msgstr "Egyedi 2 mező szövege a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:97
+msgid "Custom 2 checkbox label on Checkout page"
+msgstr "Egyedi 2 mező elnevezése a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:96
+msgid "Custom 1 checkbox text on Checkout page"
+msgstr "Egyedi 1 mező szövege a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:95
+msgid "The label of the custom checkbox field. Used by the error message, if checkbox is not accepted. If empty, then no error message will be displayed."
+msgstr "Az egyedi mező elnevezése. Ezt a hibaüzenetben használja, ha a mező nincs bepipálva. Ha üres, akkor nem lesz hibaüzenet megjelenítve."
+
+#: pages/settings-nav-modules.php:94
+msgid "Custom 1 checkbox label on Checkout page"
+msgstr "Egyedi 1 mező elnevezése a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:93
+msgid "Privacy Policy checkbox text on Checkout page"
+msgstr "Adatkezelési tájékoztató mező szövege a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:92
+msgid "Terms of Service checkbox text on Checkout page"
+msgstr "Általános Szerződési Feltételek mező szövege a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:89
+msgid "Legal confirmation checkboxes position on Checkout page"
+msgstr "A Jogi megfeleléshez kapcsolódó mezők pozíciója a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:87
+msgid "Privacy Policy checkbox text on Registration form"
+msgstr "Adatkezelési tájékoztató mező szövege a Regisztrációs űrlapnál"
+
+#: pages/settings-select-options.php:92
+msgid "After Order notes field"
+msgstr "Rendelés jegyzetek mező után"
+
+#: pages/settings-select-options.php:88
+msgid "Before Place order button"
+msgstr "Megrendelés gomb fölött"
+
+#: modules/legal-checkout.php:218 modules/legal-checkout.php:223
+msgid "is a required field."
+msgstr "kitöltése kötelező."
+
+#: modules/legal-checkout.php:204 modules/legal-checkout.php:260
+msgid "Terms of Service"
+msgstr "Általános Szerződési Feltételek"
+
+#: modules/legal-checkout.php:104
+msgid "These fields are read-only, you can not modify them."
+msgstr "Ezek az információk tájékoztató jellegűek, módosítani nem lehet őket."
+
+#: modules/legal-checkout.php:82 modules/legal-checkout.php:114
+msgid "Registration IP address"
+msgstr "Regisztrációs IP cím"
+
+#: modules/legal-checkout.php:81 modules/legal-checkout.php:110
+msgid "Registration date"
+msgstr "Regisztráció időpontja"
+
+#: modules/legal-checkout.php:29 modules/legal-checkout.php:80
+#: modules/legal-checkout.php:106 modules/legal-checkout.php:211
+#: modules/legal-checkout.php:263
+msgid "Privacy Policy"
+msgstr "Adatkezelési tájékoztató"
+
+#: modules/legal-checkout.php:78 modules/legal-checkout.php:103
+msgid "Registration informations"
+msgstr "Regisztrációs adatok"
+
+#: modules/legal-checkout.php:74 modules/legal-checkout.php:100
+msgid "IP address is not available"
+msgstr "Nincs IP cím eltárolva"
+
+#: modules/legal-checkout.php:73 modules/legal-checkout.php:99
+msgid "Date is not available"
+msgstr "Nincs dátum eltárolva"
+
+#: modules/legal-checkout.php:72 modules/legal-checkout.php:98
+msgid "Not accepted"
+msgstr "Nincs elfogadva"
+
+#: modules/legal-checkout.php:72 modules/legal-checkout.php:98
+#: modules/legal-checkout.php:254 modules/legal-checkout.php:255
+#: modules/legal-checkout.php:256 modules/legal-checkout.php:257
+msgid "Accepted"
+msgstr "Elfogadva"
+
+#: lib/admin.php:390
+msgid "Facebook Group"
+msgstr "Facebook csoport"
+
+#: lib/admin.php:392
+msgid "Subscribe"
+msgstr "Hírlevél feliratkozás"
+
+#: lib/admin.php:388
+msgid "Please join our Facebook Group and subscribe to our HuCommerce newsletter!"
+msgstr "Kérünk, hogy csatlakozz a Facebook csoportunkhoz és iratkozz fel a HuCommerce hírlevelünkre!"
+
+#: lib/admin.php:283
+msgid "To activate Modules and adjust settings, go to this page"
+msgstr "A HuCommerce modulok aktiválásához és beállításaihoz kattints a következő menüpontra"
+
+#: lib/admin.php:282
+msgid "First step is to activate the Modules you need and set the individual Module settings."
+msgstr "Első lépésként aktiváld a szükséges modulokat és nézd meg az egyes modulok egyedi beállításait!"
+
+#: pages/settings-nav-informations.php:19
+msgid "Plugin links"
+msgstr "Bővítmény linkek"
+
+#: lib/admin.php:101 pages/page-globals.php:94 pages/page-informations.php:20
+msgid "Informations"
+msgstr "Információk"
+
+#: modules-hu/vaildate-checkout-fields.php:68
+msgid "<strong>Billing Phone</strong> field is invalid: wrong format."
+msgstr "<strong>Számlázási Telefonszám</strong> mező nincs jól kitöltve: hibás formátum."
+
+#: modules-hu/vaildate-checkout-fields.php:64
+msgid "<strong>Billing Phone</strong> field is invalid: too few characters."
+msgstr "<strong>Számlázási Telefonszám</strong> mező nincs jól kitöltve: túl kevés karakter."
+
+#: surbma-magyar-woocommerce.php:48
+msgid "Plugins"
+msgstr "Bővítmények"
+
+#: surbma-magyar-woocommerce.php:47
+msgid "If you don't want to use WooCommerce, please deactivate HuCommerce plugin!"
+msgstr "Ha nem szeretnéd használni a WooCommerce bővítményt, akkor kapcsold ki a HuCommerce bővítményt is!"
+
+#: surbma-magyar-woocommerce.php:46
+msgid "To use HuCommerce plugin, you must activate WooCommerce also."
+msgstr "A HuCommerce bővítmény használatához mindenképpen aktiválnod kell először a WooCommerce bővítményt."
+
+#: lib/admin.php:281 surbma-magyar-woocommerce.php:45
+msgid "Thank you for installing HuCommerce plugin!"
+msgstr "Köszönjük, hogy telepítetted a HuCommerce bővítményt!"
+
+#: pages/settings-nav-modules.php:703 pages/settings-nav-modules.php:761
+msgid "Allowed HTML tags"
+msgstr "Megengedett HTML tagok"
+
+#: pages/settings-nav-modules.php:102
+msgid "This text will be displayed just under the Place order button on Checkout page. If empty, then no text will be displayed."
+msgstr "A megadott szöveg a Pénztár oldalon a Megrendelés gomb alatt jelenik meg. Ha üres, akkor nem jelenik meg semmi."
+
+#: pages/settings-nav-modules.php:101
+msgid "Custom text after Place order button"
+msgstr "Megrendelés gomb alatti szöveg"
+
+#: pages/settings-nav-modules.php:100
+msgid "This text will be displayed just above the Place order button on Checkout page. If empty, then no text will be displayed."
+msgstr "A megadott szöveg a Pénztár oldalon a Megrendelés gomb fölött jelenik meg. Ha üres, akkor nem jelenik meg semmi."
+
+#: pages/settings-nav-modules.php:99
+msgid "Custom text before Place order button"
+msgstr "Megrendelés gomb fölötti szöveg"
+
+#: modules/legal-checkout.php:139 pages/settings-validate.php:260
+msgid "I've read and accept the <a href=\"/tos/\" target=\"_blank\">Terms of Service</a>"
+msgstr "Elolvastam és elfogadom az <a href=\"/aszf/\" target=\"_blank\">Általános Szerződési Feltételeket</a>"
+
+#: modules/legal-checkout.php:130 pages/settings-validate.php:259
+msgid "Legal confirmations"
+msgstr "Vásárlással kapcsolatos megerősítések"
+
+#: pages/settings-nav-modules.php:91
+msgid "Title above the checkbox. If empty, then no title will be displayed."
+msgstr "Ez a cím jelenik meg a checbox-ok fölött. Ha üres, akkor nem jelenik meg."
+
+#: pages/settings-nav-modules.php:90
+msgid "Section title on Checkout page"
+msgstr "Szakasz elnevezése a Pénztár oldalon"
+
+#: pages/settings-functions.php:429
+msgid "HTML tags are allowed"
+msgstr "HTML használata engedélyezett"
+
+#: modules/legal-checkout.php:8 modules/legal-checkout.php:140
+#: pages/settings-validate.php:256 pages/settings-validate.php:261
+msgid "I've read and accept the <a href=\"/privacy-policy/\" target=\"_blank\">Privacy Policy</a>"
+msgstr "Elolvastam és elfogadom az <a href=\"/adatkezeles/\" target=\"_blank\">Adatkezelési tájékoztatót</a>"
+
+#: pages/settings-nav-modules.php:88
+msgid "If empty, then this checkbox will not be displayed."
+msgstr "Ha üres a mező, akkor ez a checkbox nem jelenik meg."
+
+#: pages/settings-nav-modules.php:86
+msgid "If enabled, the customer's IP address will be saved in profile after registration."
+msgstr "Ha szeretnéd elmenteni a vásárló IP címét, amikor regisztrál a weboldalon, kapcsold be ezt az opciót!"
+
+#: pages/settings-nav-modules.php:85
+msgid "Save customer IP address on registration"
+msgstr "IP cím mentése regisztrációkor"
+
+#: pages/settings-nav-modules.php:81
+msgid "Redirection URL after Registration"
+msgstr "Regisztráció utáni átirányítási URL"
+
+#: pages/settings-nav-modules.php:80
+msgid "Absolute URL path. If empty, then default WooCommerce redirection will be set."
+msgstr "Abszolút URL megadása. Ha üres a mező, akkor az alapértelmezett WooCommerce átirányítás működik."
+
+#: pages/settings-nav-modules.php:79
+msgid "Redirection URL after Login"
+msgstr "Belépés utáni átirányítási URL"
+
+#: modules/return-to-shop.php:40
+msgid "Would you like to continue shopping?"
+msgstr "Szeretnél még körbenézni a webáruházunkban?"
+
+#: pages/settings-nav-modules.php:78
+msgid "Message text"
+msgstr "Üzenet szövege"
+
+#: pages/settings-nav-modules.php:77
+msgid "Button position on Checkout page"
+msgstr "Gomb pozíciója a Pénztár oldalon"
+
+#: pages/settings-nav-modules.php:76
+msgid "Button position on Cart page"
+msgstr "Gomb pozíciója a Kosár oldalon"
+
+#: pages/settings-nav-modules.php:74
+msgid "Make Email field the first field"
+msgstr "Email cím mező legyen az első mező"
+
+#: pages/settings-nav-modules.php:73
+msgid "Inline Phone and Email fields"
+msgstr "Telefonszám és Email cím mezők egymás mellé rendezése"
+
+#: pages/settings-nav-modules.php:72
+msgid "Inline Postcode and City fields"
+msgstr "Irányítószám és Város mezők egymás mellé rendezése"
+
+#: pages/settings-nav-modules.php:71
+msgid "Inline Company and Tax number fields"
+msgstr "Cégnév és Adószám mezők egymás mellé rendezése"
+
+#: pages/settings-nav-modules.php:68
+msgid "Hide Order notes field"
+msgstr "Rendelés jegyzetek mező elrejtése"
+
+#: pages/settings-nav-modules.php:67
+msgid "Hide Country field"
+msgstr "Ország mező elrejtése"
+
+#: pages/settings-nav-modules.php:65
+msgid "Conditional display of Company fields"
+msgstr "Céges számlázási adatok feltételes megjelenítése"
+
+#: pages/settings-nav-modules.php:28
+msgid "Add placeholder to this field"
+msgstr "Placeholder használata"
+
+#: pages/settings-nav-modules.php:30
+msgid "The masking scheme will be displayed as a placeholder in the field. This will override the default placeholder."
+msgstr "A maszkoláshoz használt sablon megjelenítése a mezőkben. Felülírja az alapértelmezett placeholder-t!"
+
+#: pages/settings-nav-modules.php:29
+msgid "Masking with placeholder"
+msgstr "Maszkolás placeholder használatával"
+
+#: pages/page-globals.php:19 pages/settings-nav-modules.php:618
+#: pages/settings-nav-modules.php:632 pages/settings-nav-modules.php:647
+#: pages/settings-nav-modules.php:664 pages/settings-nav-modules.php:684
+#: pages/settings-nav-modules.php:718 pages/settings-nav-modules.php:738
+#: pages/settings-nav-modules.php:783 pages/settings-nav-modules.php:862
+#: pages/settings-nav-modules.php:887 pages/settings-nav-modules.php:904
+#: pages/settings-nav-modules.php:929 pages/settings-nav-modules.php:939
+#: pages/settings-nav-modules.php:948 pages/settings-nav-modules.php:968
+#: pages/settings-nav-modules.php:993 pages/settings-nav-modules.php:1014
+msgid "Module settings"
+msgstr "Modul beállítások"
+
+#: pages/settings-nav-modules.php:304
+msgid "Custom Terms & Conditions and Privacy Policy checkboxes on Checkout page."
+msgstr "Vásárlásnál meg kell erősítenie a vásárlónak, hogy elfogadja-e az Általános Szerződési Feltételeket és/vagy az Adatvédelmi tájékoztatót."
+
+#: pages/settings-nav-modules.php:303 pages/settings-nav-modules.php:727
+msgid "Legal compliance (GDPR, CCPA, ePrivacy)"
+msgstr "Jogi megfelelés (Fogyasztóvédelem, GDPR, ePrivacy, stb.)"
+
+#: pages/settings-nav-modules.php:242
+msgid "A notification on the Cart page to let customer know, how much total purchase is missing to get free shipping."
+msgstr "A Kosár oldalon kijelzi, hogy mennyi vásárlási összeg hiányzik még az ingyenes szállításhoz."
+
+#: pages/settings-nav-modules.php:241 pages/settings-nav-modules.php:643
+msgid "Free shipping notification"
+msgstr "Ingyenes szállítás értesítés"
+
+#: pages/settings-nav-modules.php:495
+msgid "Set custom landing pages after login and/or registration."
+msgstr "Beállítható, hogy a látogatók a belépés és regisztráció után a meghatározott oldalra legyenek automatikusan átirányítva."
+
+#: pages/settings-nav-modules.php:494 pages/settings-nav-modules.php:937
+msgid "Login and registration redirection"
+msgstr "Belépés és regisztráció utáni átirányítás"
+
+#: pages/settings-nav-modules.php:481
+msgid "A Continue shopping button on Cart and/or Checkout pages, that will bring customer to Shop page."
+msgstr "Egy gombot helyez el a Kosár és/vagy a Pénztár oldalon, amivel folytathatja a látogató a vásárlást. A gomb az üzlet oldalra viszi a látogatót."
+
+#: pages/settings-nav-modules.php:480 pages/settings-nav-modules.php:927
+msgid "Continue shopping buttons"
+msgstr "Vásárlás folytatása gombok"
+
+#: pages/settings-nav-modules.php:466
+msgid "It will automatically update the cart, when customer changes the quantity on the Cart page."
+msgstr "A kosár oldalon, ha megváltozik a termék mennyisége, akkor automatikusan frissíti a kosarat. Nincs szükség a kosár frissítése gomb megnyomására."
+
+#: pages/settings-nav-modules.php:465 pages/settings-nav-modules.php:923
+msgid "Automatic Cart update"
+msgstr "Kosár automatikus frissítése darabszám módosítás után"
+
+#: pages/settings-nav-modules.php:452
+msgid "Shows plus/minus quantity buttons for products."
+msgstr "A mennyiség mezőnél megjelenít egy plusz/minusz gombot, amivel lehet módosítani a mennyiséget."
+
+#: pages/settings-nav-modules.php:451 pages/settings-nav-modules.php:919
+msgid "Plus/minus quantity buttons"
+msgstr "Plusz/minusz mennyiségi gombok"
+
+#: pages/settings-nav-modules.php:437
+msgid "Extra fields and other customizations on the Checkout page."
+msgstr "Pénztár oldali mezők és egyéb funkciók módosításai."
+
+#: pages/settings-nav-modules.php:436 pages/settings-nav-modules.php:902
+msgid "Checkout page customizations"
+msgstr "Pénztár oldal módosítások"
+
+#: pages/settings-nav-modules.php:857
+msgid "A Tax number field is already added by the Integration for Billingo & WooCommerce plugin\\’s custom field option. If you want to use the Tax field added by the HuCommerce plugin, you need to disable the \"Egyedi meta mezőt használok adószámhoz\" option at the other plugin's settings."
+msgstr "Az adószám mezőt az Integration for Billingo & WooCommerce bővítmény egy egyedi mező alapján kezeli. A HuCommerce Adószám kezeléséhez először kapcsold ki a Billingo beállításánál az \"Egyedi meta mezőt használok adószámhoz\" opciót!"
+
+#: pages/settings-nav-modules.php:851
+msgid "A Tax number field is already added by the Integration for Billingo & WooCommerce plugin. If you want to use the Tax field added by the HuCommerce plugin, you need to disable the Tax field option at the other plugin's settings."
+msgstr "Az adószám mezőt az Integration for Billingo & WooCommerce bővítmény már megjeleníti a pénztár oldalon. A HuCommerce Adószám kezeléséhez először kapcsold ki a Billingo beállításánál az \"Adószám mező megjelenítése vásárláskor\" opciót!"
+
+#: pages/settings-nav-modules.php:845
+msgid "A Tax number field is already added by the Woo Billingo Plus plugin. If you want to use the Tax field added by the HuCommerce plugin, you need to disable the Tax field option at the other plugin's settings."
+msgstr "Az adószám mezőt a Woo Billingo Plus bővítmény már megjeleníti a pénztár oldalon. A HuCommerce Adószám kezeléséhez először kapcsold ki a Billingo beállításánál az Adószám opciót!"
+
+#: pages/settings-nav-modules.php:838
+msgid "A Tax number field is already added by the Integration for Szamlazz.hu & WooCommerce plugin. If you want to use the Tax field added by the HuCommerce plugin, you need to disable the Tax field option at the other plugin's settings."
+msgstr "Az adószám mezőt az Integration for Szamlazz.hu & WooCommerce bővítmény már megjeleníti a pénztár oldalon. A HuCommerce Adószám kezeléséhez először kapcsold ki a Számlázz.hu beállításánál az Adószám opciót!"
+
+#: pages/settings-nav-modules.php:363
+msgid "Additional Tax field for Company details at Checkout."
+msgstr "A vásárlásnál nem csak a Cégnevet, hanem Adószámot is meg lehet adni."
+
+#: pages/settings-nav-modules.php:362 pages/settings-nav-modules.php:831
+msgid "Tax number field"
+msgstr "Adószám megjelenítése"
+
+#: pages/settings-nav-modules.php:377
+msgid "Temporary fixes for Hungarian translations, till the official translation doesn\\’t include or missing some strings."
+msgstr "Ideiglenes fordítási hiányosságok javítása, amíg a hivatalos fordításban esetleg nem jelenik meg vagy nem frissíti a rendszer."
+
+#: pages/settings-nav-modules.php:376 pages/settings-nav-modules.php:872
+msgid "Hungarian translation fixes"
+msgstr "Fordítási hiányosságok javítása"
+
+#: pages/settings-nav-modules.php:227 pages/settings-nav-modules.php:628
+msgid "Check field values"
+msgstr "Mezők értékének ellenőrzése"
+
+#: pages/settings-nav-modules.php:212 pages/settings-nav-modules.php:614
+msgid "Check field formats (Masking)"
+msgstr "Mezők formátumának ellenőrzése (maszkolás)"
+
+#: pages/settings-nav-modules.php:407
+msgid "On the Checkout page the City field be automatically filled, when Postcode is entered by the customer."
+msgstr "A Pénztár oldalon az irányítószám mező kitöltése után automatikusan megjeleníti a várost."
+
+#: pages/settings-nav-modules.php:406 pages/settings-nav-modules.php:880
+msgid "Autofill City after Postcode is given"
+msgstr "Város automatikus kitöltése az irányítószám alapján"
+
+#: pages/settings-nav-modules.php:392
+msgid "Using County for Hungarian addresses is very uncommon in Hungary."
+msgstr "Mert ezt nálunk nem szokás használni, így csak plusz felesleges lépés."
+
+#: pages/settings-nav-modules.php:391 pages/settings-nav-modules.php:876
+msgid "Hide County field if Country is Hungary"
+msgstr "Megye mező elrejtése magyar cím esetén"
+
+#: pages/settings-nav-modules.php:348
+msgid "Fixes the name formats in Hungarian. Changes the order of Last name and First name."
+msgstr "A keresztnév és vezetéknév sorrendjének a megfordítása a Pénztár oldalon akkor, ha a webáruház magyar nyelvű."
+
+#: pages/settings-nav-modules.php:347 pages/settings-nav-modules.php:826
+msgid "Fixes for Hungarian language"
+msgstr "Magyar formátum javítások"
+
+#: lib/admin.php:51
+msgid "HuCommerce Modules"
+msgstr "HuCommerce modulok"
+
+#: pages/settings-select-options.php:62 pages/settings-select-options.php:160
+msgid "After Checkout form (with text)"
+msgstr "Pénztár űrlap után (üzenettel)"
+
+#: pages/settings-select-options.php:58 pages/settings-select-options.php:156
+msgid "Before Checkout form (with text)"
+msgstr "Pénztár űrlap előtt (üzenettel)"
+
+#: pages/settings-select-options.php:54 pages/settings-select-options.php:152
+msgid "Don't show on Checkout page"
+msgstr "A Pénztár oldalon ne jelenjen meg"
+
+#: pages/settings-select-options.php:47
+msgid "Under Proceed to checkout button (without text)"
+msgstr "A Tovább a pénztárhoz gomb alatt (szöveg nélkül)"
+
+#: pages/settings-select-options.php:43
+msgid "Next to Update cart button (without text)"
+msgstr "Kosár frissítése gomb mellett (üzenet nélkül)"
+
+#: pages/settings-select-options.php:39
+msgid "After Product table (with text)"
+msgstr "Termék táblázat után (üzenettel)"
+
+#: pages/settings-select-options.php:35
+msgid "Before Product table (with text)"
+msgstr "Termék táblázat előtt (üzenettel)"
+
+#: modules/checkout.php:33
+msgid "Company name"
+msgstr "Cégnév"
+
+#. translators: %s: Field label
+#: modules/checkout.php:37 modules/legal-checkout.php:31
+#: modules/legal-checkout.php:206 modules/legal-checkout.php:213
+#: modules/tax-number.php:43 modules/tax-number.php:61
+msgid "%s is a required field."
+msgstr "%s egy kötelező mező."
+
+#. translators: %s: Field label
+#: modules/checkout.php:35 modules/tax-number.php:41 modules/tax-number.php:59
+msgctxt "checkout-validation"
+msgid "Billing %s"
+msgstr "Számlázási %s"
+
+#: modules/checkout.php:15
+msgid "Company billing"
+msgstr "Céges számlázás"
+
+#: modules/tax-number.php:10 modules/tax-number.php:25
+#: modules/tax-number.php:39 modules/tax-number.php:57
+#: modules/tax-number.php:80 modules/tax-number.php:113
+#: modules/tax-number.php:120 modules/tax-number.php:133
+msgid "Tax number"
+msgstr "Adószám"
+
+#: modules/free-shipping-notice.php:17 pages/settings-nav-modules.php:156
+#: pages/settings-validate.php:228
+msgid "The remaining amount to get FREE shipping"
+msgstr "Az Ingyenes szállításhoz szükséges további vásárlás értéke"
+
+#: cps-sdk/lib/admin.php:20 cps-sdk/lib/admin.php:21
+msgid "All plugins"
+msgstr "Minden bővítmény"
+
+#: cps-sdk/lib/admin.php:10 cps-sdk/lib/admin.php:11
+msgid "CPS Plugins"
+msgstr "CPS Bővítmények"
+
+#: lib/admin.php:120
+msgid "Settings"
+msgstr "Beállítások"
+
+#: modules/free-shipping-notice.php:86 modules/return-to-shop.php:42
+#: modules/return-to-shop.php:48
+msgid "Return to shop"
+msgstr "Vásárlás folytatása"
+
+#: lib/admin.php:357
+msgid "HuCommerce"
+msgstr "HuCommerce"
+
+#: pages/settings-nav-modules.php:1033
+msgid "Save Changes"
+msgstr "Változtatások mentése"
+
+#: pages/page-globals.php:145
+msgid "Settings saved."
+msgstr "Beállítások mentve."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.hucommerce.hu/"
+msgstr "https://www.hucommerce.hu/"
+
+#. Plugin Name of the plugin
+msgid "HuCommerce | Magyar WooCommerce kiegészítések"
+msgstr "HuCommerce | Magyar WooCommerce kiegészítések"
+
+#: woocommerce/myaccount/form-edit-account.php:89
+msgid "Save changes"
+msgstr "Változtatások mentése"
+
+#: woocommerce/myaccount/form-edit-account.php:79
+msgid "Confirm new password"
+msgstr "Új jelszó megerősítése"
+
+#: woocommerce/myaccount/form-edit-account.php:75
+msgid "New password (leave blank to leave unchanged)"
+msgstr "Új jelszó (hagyd üresen, ha nem szeretnéd megváltoztatni)"
+
+#: woocommerce/myaccount/form-edit-account.php:71
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "Aktuális jelszó (hagyd üresen, ha nem szeretnéd megváltoztatni)"
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Password change"
+msgstr "Jelszó módosítása"
+
+#: woocommerce/myaccount/form-edit-account.php:63
+msgid "Email address"
+msgstr "Email cím"
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr "Ez a név jelenik meg a fiókodban és az értékelések alatt."
+
+#: woocommerce/myaccount/form-edit-account.php:57
+msgid "Display name"
+msgstr "Megjelenített név"
+
+#: woocommerce/myaccount/form-edit-account.php:38
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "First name"
+msgstr "Keresztnév"
+
+#: woocommerce/myaccount/form-edit-account.php:34
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Last name"
+msgstr "Vezetéknév"
+
+#. Description of the plugin
+msgid "Hasznos javítások a magyar nyelvű WooCommerce webáruházakhoz."
+msgstr "Hasznos javítások a magyar nyelvű WooCommerce webáruházakhoz."

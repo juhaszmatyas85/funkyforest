@@ -1,0 +1,1695 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 01:51:12
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.33                                |7.4.33
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.4.33 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache
+DOC ROOT____________: "/home/appster/funkyshop3.dev.appsters.me"
+REQUEST URL_________: "https://funkyshop3.dev.appsters.me"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+SECURE MODE_________: "none"
+URL PLUGINS_________: https://funkyforest.hu/wp-content/plugins
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/appster/funkyshop3.dev.appsters.me"
+URL_NEW_____________: "https://funkyshop3.dev.appsters.me"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/appster/funkyshop3.dev.appsters.me/20240227_funkyforest_[HASH]_20240227134054_archive.zip"
+ARCHIVE SIZE________: 140.47MB
+CREATED_____________: 2024-02-27 13:40:54
+WP VERSION__________: 6.4.3
+DUP VERSION_________: 1.5.8.1
+LICENSE_____________: Free version
+DB VERSION__________: 5.7.44
+DB FILE SIZE________: 107.23MB
+DB TABLES___________: 88
+DB ROWS_____________: 118311
+URL HOME____________: https://funkyforest.hu
+URL CORE____________: https://funkyforest.hu
+URL CONTENT_________: https://funkyforest.hu/wp-content
+URL UPLOAD__________: https://funkyforest.hu/wp-content/uploads
+URL PLUGINS_________: https://funkyforest.hu/wp-content/plugins
+URL MU PLUGINS______: https://funkyforest.hu/wp-content/mu-plugins
+URL THEMES__________: https://funkyforest.hu/wp-content/themes
+PATH HOME___________: /home/hazicoo/funkyforest.hu
+PATH ABS____________: /home/hazicoo/funkyforest.hu
+PATH WPCONFIG_______: /home/hazicoo/funkyforest.hu
+PATH WPCONTENT______: /home/hazicoo/funkyforest.hu/wp-content
+PATH UPLOADS________: /home/hazicoo/funkyforest.hu/wp-content/uploads
+PATH PLUGINS________: /home/hazicoo/funkyforest.hu/wp-content/plugins
+PATH MUPLUGINS______: /home/hazicoo/funkyforest.hu/wp-content/mu-plugins
+PATH THEMES_________: /home/hazicoo/funkyforest.hu/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "funkyforest.hu/"
+
+PLUGINS
+PLUGIN [SLUG:advanced-custom-fields-pro/acf.php                ][ON:true ]  Advanced Custom Fields PRO
+PLUGIN [SLUG:tinymce-advanced/tinymce-advanced.php             ][ON:true ]  Advanced Editor Tools
+PLUGIN [SLUG:pay-via-barion-for-woocommerce/index.php          ][ON:true ]  Barion Payment Gateway for WooCommerce
+PLUGIN [SLUG:woo-checkout-field-editor-pro/checkout-form-designer.php][ON:true ]  Checkout Field Editor for WooCommerce
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ]  Classic Editor
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ]  Contact Form 7
+PLUGIN [SLUG:contact-form-cfdb7/contact-form-cfdb-7.php        ][ON:true ]  Contact Form CFDB7
+PLUGIN [SLUG:webp-converter-for-media/webp-converter-for-media.php][ON:true ]  Converter for Media
+PLUGIN [SLUG:cookie-law-info/cookie-law-info.php               ][ON:false]  CookieYes | GDPR Cookie Consent
+PLUGIN [SLUG:supreme-modules-pro-for-divi/supreme-modules-pro-for-divi.php][ON:true ]  Divi Supreme Pro
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:facebook-for-woocommerce/facebook-for-woocommerce.php][ON:true ]  Facebook for WooCommerce
+PLUGIN [SLUG:free-shipping-notification-woocommerce/pisol-fsnw.php][ON:false]  Free shipping notification WooCommerce
+PLUGIN [SLUG:free-shipping-notification-woocommerce-pro/pisol-fsnw.php][ON:true ]  Free shipping notification WooCommerce Pro
+PLUGIN [SLUG:google-listings-and-ads/google-listings-and-ads.php][ON:true ]  Google Listings and Ads
+PLUGIN [SLUG:duracelltomi-google-tag-manager/duracelltomi-google-tag-manager-for-wordpress.php][ON:true ]  GTM4WP - A Google Tag Manager (GTM) plugin for WordPress
+PLUGIN [SLUG:header-footer-code-manager/99robots-header-footer-code-manager.php][ON:true ]  Header Footer Code Manager
+PLUGIN [SLUG:heartbeat-control/heartbeat-control.php           ][ON:true ]  Heartbeat Control by WP Rocket
+PLUGIN [SLUG:hftt-sap/hftt-sap.php                             ][ON:true ]  HFTT SAP WEBSHOP INTEGRATION
+PLUGIN [SLUG:hide-shipping-method-for-woocommerce/woo-hide-shipping-methods.php][ON:true ]  Hide Shipping Method For WooCommerce
+PLUGIN [SLUG:http-headers/http-headers.php                     ][ON:true ]  HTTP Headers
+PLUGIN [SLUG:surbma-magyar-woocommerce/surbma-magyar-woocommerce.php][ON:true ]  HuCommerce | Magyar WooCommerce kiegészítések
+PLUGIN [SLUG:integration-for-szamlazzhu-woocommerce/index.php  ][ON:true ]  Integration for Szamlazz.hu & WooCommerce
+PLUGIN [SLUG:rocket-lazy-load/rocket-lazy-load.php             ][ON:true ]  Lazy Load - Optimize Images
+PLUGIN [SLUG:login-logo/login-logo.php                         ][ON:true ]  Login Logo
+PLUGIN [SLUG:pixelyoursite/facebook-pixel-master.php           ][ON:true ]  PixelYourSite
+PLUGIN [SLUG:polylang/polylang.php                             ][ON:true ]  Polylang
+PLUGIN [SLUG:wc-pont/pont.php                                  ][ON:true ]  Pont shipping for Woocommerce
+PLUGIN [SLUG:powies-uptime-robot/pum.php                       ][ON:true ]  Powies Uptime Robot
+PLUGIN [SLUG:product-catalog-feed/product-catalog-feed.php     ][ON:true ]  Product Catalog Feed by PixelYourSite
+PLUGIN [SLUG:woo-product-feed-pro/woocommerce-sea.php          ][ON:true ]  Product Feed PRO for WooCommerce
+PLUGIN [SLUG:say-what/say-what.php                             ][ON:true ]  Say What?
+PLUGIN [SLUG:supreme-modules-for-divi/supreme-modules-for-divi.php][ON:true ]  Supreme Modules Lite - Divi Theme, Extra Theme and Divi Builder
+PLUGIN [SLUG:woocommerce/woocommerce.php                       ][ON:true ]  WooCommerce
+PLUGIN [SLUG:woo-cart-abandonment-recovery/woo-cart-abandonment-recovery.php][ON:true ]  WooCommerce Cart Abandonment Recovery
+PLUGIN [SLUG:woocommerce-conversion-tracking/conversion-tracking.php][ON:true ]  WooCommerce Conversion Tracking
+PLUGIN [SLUG:woocommerce-order-status-manager/woocommerce-order-status-manager.php][ON:true ]  WooCommerce Order Status Manager
+PLUGIN [SLUG:woocommerce-for-salesautopilot/woocommerce-salesautopilot.php][ON:true ]  WooCommerce SalesAutopilot
+PLUGIN [SLUG:wordpress-importer/wordpress-importer.php         ][ON:true ]  WordPress Importer
+PLUGIN [SLUG:wp-optimize/wp-optimize.php                       ][ON:true ]  WP-Optimize - Clean, Compress, Cache
+PLUGIN [SLUG:wp-pagenavi/wp-pagenavi.php                       ][ON:true ]  WP-PageNavi
+PLUGIN [SLUG:woo-product-bundle/wpc-product-bundles.php        ][ON:true ]  WPC Product Bundles for WooCommerce
+PLUGIN [SLUG:wp-crontrol/wp-crontrol.php                       ][ON:true ]  WP Crontrol
+PLUGIN [SLUG:wp-delete-user-accounts/wp-delete-user-accounts.php][ON:true ]  WP Delete User Accounts
+PLUGIN [SLUG:wpfront-scroll-top/wpfront-scroll-top.php         ][ON:true ]  WPFront Scroll Top
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ]  Yoast SEO
+PLUGIN [SLUG:advanced-cache.php                                ][ON:false]  advanced-cache.php
+PLUGIN [SLUG:maintenance.php                                   ][ON:false]  maintenance.php
+
+********************************************************************************
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.11503]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.05429]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Package Size" [CLASS: DUPX_Validation_test_package_size]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Size" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/appster/funkyshop3.dev.appsters.me"
+--------------------------------------
+LOG-TIME[DELTA:   0.00518]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00026]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01378]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.01005]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00106]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00149]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00038]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00009]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00019]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/appster/funkyshop3.dev.appsters.me/dup-installer/classes/database/class.db.php:645] MSG: SELECT command denied to user 'appster_funkydev3user'@'localhost' for table 'user'
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'appster_funkydev3user' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/appster/funkyshop3.dev.appsters.me/dup-installer/classes/validation/class.validation.database.service.php[742]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/appster/funkyshop3.dev.appsters.me/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/appster/funkyshop3.dev.appsters.me/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/appster/funkyshop3.dev.appsters.me/dup-installer/classes/validation/class.validation.manager.php[232]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/appster/funkyshop3.dev.appsters.me/dup-installer/classes/validation/class.validation.manager.php[205]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/appster/funkyshop3.dev.appsters.me/dup-installer/ctrls/classes/class.ctrl.ajax.php[173]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/appster/funkyshop3.dev.appsters.me/dup-installer/ctrls/classes/class.ctrl.ajax.php[95]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/appster/funkyshop3.dev.appsters.me/dup-installer/main.installer.php[56]
+
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.02804]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00077]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00049]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: skip
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00023]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00013]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/appster/funkyshop3.dev.appsters.me"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 01:52:00
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "FunkyForest"
+HOME URL NEW________: "https://funkyshop3.dev.appsters.me"
+SITE URL NEW________: "https://funkyshop3.dev.appsters.me"
+CONTENT URL NEW_____: "https://funkyshop3.dev.appsters.me/wp-content"
+UPLOAD URL NEW______: "https://funkyshop3.dev.appsters.me/wp-content/uploads"
+PLUGINS URL NEW_____: "https://funkyshop3.dev.appsters.me/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://funkyshop3.dev.appsters.me/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/appster/funkyshop3.dev.appsters.me"
+SITE PATH NEW_______: "/home/appster/funkyshop3.dev.appsters.me"
+CONTENT PATH NEW____: "/home/appster/funkyshop3.dev.appsters.me/wp-content"
+UPLOAD PATH NEW_____: "/home/appster/funkyshop3.dev.appsters.me/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/appster/funkyshop3.dev.appsters.me/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/appster/funkyshop3.dev.appsters.me/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/appster/funkyshop3.dev.appsters.me/dup-installer"
+	FILE: "/home/appster/funkyshop3.dev.appsters.me/20240227_funkyforest_[HASH]_20240227134054_installer-backup.php"
+	FILE: "/home/appster/funkyshop3.dev.appsters.me/20240227_funkyforest_[HASH]_20240227134054_archive.zip"
+	FILE: "/home/appster/funkyshop3.dev.appsters.me/installer.php"
+	FILE: "/home/appster/funkyshop3.dev.appsters.me/dup-installer-bootlog__0ea80ee-27134054.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20240227_funkyforest_[HASH]_20240227134054_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+FILE EXTRACTION: done processing last file in list of 28323
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 01:52:05 - RUNTIME: 4.6557 sec. - Files processed: 27,714 of 27,714
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wpls_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 01:52:05
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wpls_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wpls_actionscheduler_actions"____________________[ROWS:    1347] [EXTRACT|REPLACE] [INST NAME: wpls_actionscheduler_actions]
+TABLE "wpls_actionscheduler_claims"_____________________[ROWS:      11] [EXTRACT|REPLACE] [INST NAME: wpls_actionscheduler_claims]
+TABLE "wpls_actionscheduler_groups"_____________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wpls_actionscheduler_groups]
+TABLE "wpls_actionscheduler_logs"_______________________[ROWS:    3945] [EXTRACT|REPLACE] [INST NAME: wpls_actionscheduler_logs]
+TABLE "wpls_adtribes_my_conversions"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_adtribes_my_conversions]
+TABLE "wpls_billingo_documents"_________________________[ROWS:     307] [EXTRACT|REPLACE] [INST NAME: wpls_billingo_documents]
+TABLE "wpls_billingo_partnerhash"_______________________[ROWS:     228] [EXTRACT|REPLACE] [INST NAME: wpls_billingo_partnerhash]
+TABLE "wpls_cartflows_ca_cart_abandonment"______________[ROWS:     192] [EXTRACT|REPLACE] [INST NAME: wpls_cartflows_ca_cart_abandonment]
+TABLE "wpls_cartflows_ca_email_history"_________________[ROWS:     193] [EXTRACT|REPLACE] [INST NAME: wpls_cartflows_ca_email_history]
+TABLE "wpls_cartflows_ca_email_templates"_______________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpls_cartflows_ca_email_templates]
+TABLE "wpls_cartflows_ca_email_templates_meta"__________[ROWS:      19] [EXTRACT|REPLACE] [INST NAME: wpls_cartflows_ca_email_templates_meta]
+TABLE "wpls_cli_cookie_scan"____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpls_cli_cookie_scan]
+TABLE "wpls_cli_cookie_scan_categories"_________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpls_cli_cookie_scan_categories]
+TABLE "wpls_cli_cookie_scan_cookies"____________________[ROWS:      32] [EXTRACT|REPLACE] [INST NAME: wpls_cli_cookie_scan_cookies]
+TABLE "wpls_cli_cookie_scan_url"________________________[ROWS:      92] [EXTRACT|REPLACE] [INST NAME: wpls_cli_cookie_scan_url]
+TABLE "wpls_cli_scripts"________________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wpls_cli_scripts]
+TABLE "wpls_commentmeta"________________________________[ROWS:      67] [EXTRACT|REPLACE] [INST NAME: wpls_commentmeta]
+TABLE "wpls_comments"___________________________________[ROWS:    8348] [EXTRACT|REPLACE] [INST NAME: wpls_comments]
+TABLE "wpls_db7_forms"__________________________________[ROWS:     258] [EXTRACT|REPLACE] [INST NAME: wpls_db7_forms]
+TABLE "wpls_duplicator_packages"________________________[ROWS:       8] [EXTRACT|REPLACE] [INST NAME: wpls_duplicator_packages]
+TABLE "wpls_gla_attribute_mapping_rules"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_gla_attribute_mapping_rules]
+TABLE "wpls_gla_budget_recommendations"_________________[ROWS:    4230] [EXTRACT|REPLACE] [INST NAME: wpls_gla_budget_recommendations]
+TABLE "wpls_gla_merchant_issues"________________________[ROWS:       9] [EXTRACT|REPLACE] [INST NAME: wpls_gla_merchant_issues]
+TABLE "wpls_gla_shipping_rates"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_gla_shipping_rates]
+TABLE "wpls_gla_shipping_times"_________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpls_gla_shipping_times]
+TABLE "wpls_hfcm_scripts"_______________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wpls_hfcm_scripts]
+TABLE "wpls_links"______________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_links]
+TABLE "wpls_mailchimp_carts"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_mailchimp_carts]
+TABLE "wpls_mailchimp_jobs"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_mailchimp_jobs]
+TABLE "wpls_options"____________________________________[ROWS:    2147] [EXTRACT|REPLACE] [INST NAME: wpls_options]
+TABLE "wpls_postmeta"___________________________________[ROWS:  114501] [EXTRACT|REPLACE] [INST NAME: wpls_postmeta]
+TABLE "wpls_posts"______________________________________[ROWS:    5313] [EXTRACT|REPLACE] [INST NAME: wpls_posts]
+TABLE "wpls_say_what_strings"___________________________[ROWS:      11] [EXTRACT|REPLACE] [INST NAME: wpls_say_what_strings]
+TABLE "wpls_termmeta"___________________________________[ROWS:     183] [EXTRACT|REPLACE] [INST NAME: wpls_termmeta]
+TABLE "wpls_terms"______________________________________[ROWS:     136] [EXTRACT|REPLACE] [INST NAME: wpls_terms]
+TABLE "wpls_term_relationships"_________________________[ROWS:    2957] [EXTRACT|REPLACE] [INST NAME: wpls_term_relationships]
+TABLE "wpls_term_taxonomy"______________________________[ROWS:     136] [EXTRACT|REPLACE] [INST NAME: wpls_term_taxonomy]
+TABLE "wpls_tm_taskmeta"________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpls_tm_taskmeta]
+TABLE "wpls_tm_tasks"___________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpls_tm_tasks]
+TABLE "wpls_um_metadata"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_um_metadata]
+TABLE "wpls_usermeta"___________________________________[ROWS:   19385] [EXTRACT|REPLACE] [INST NAME: wpls_usermeta]
+TABLE "wpls_users"______________________________________[ROWS:     470] [EXTRACT|REPLACE] [INST NAME: wpls_users]
+TABLE "wpls_wc_admin_notes"_____________________________[ROWS:     195] [EXTRACT|REPLACE] [INST NAME: wpls_wc_admin_notes]
+TABLE "wpls_wc_admin_note_actions"______________________[ROWS:     238] [EXTRACT|REPLACE] [INST NAME: wpls_wc_admin_note_actions]
+TABLE "wpls_wc_category_lookup"_________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpls_wc_category_lookup]
+TABLE "wpls_wc_customer_lookup"_________________________[ROWS:    1213] [EXTRACT|REPLACE] [INST NAME: wpls_wc_customer_lookup]
+TABLE "wpls_wc_download_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_download_log]
+TABLE "wpls_wc_orders"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_orders]
+TABLE "wpls_wc_orders_meta"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_orders_meta]
+TABLE "wpls_wc_order_addresses"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_order_addresses]
+TABLE "wpls_wc_order_coupon_lookup"_____________________[ROWS:     106] [EXTRACT|REPLACE] [INST NAME: wpls_wc_order_coupon_lookup]
+TABLE "wpls_wc_order_operational_data"__________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_order_operational_data]
+TABLE "wpls_wc_order_product_lookup"____________________[ROWS:    7752] [EXTRACT|REPLACE] [INST NAME: wpls_wc_order_product_lookup]
+TABLE "wpls_wc_order_stats"_____________________________[ROWS:    1749] [EXTRACT|REPLACE] [INST NAME: wpls_wc_order_stats]
+TABLE "wpls_wc_order_tax_lookup"________________________[ROWS:    1748] [EXTRACT|REPLACE] [INST NAME: wpls_wc_order_tax_lookup]
+TABLE "wpls_wc_product_attributes_lookup"_______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_product_attributes_lookup]
+TABLE "wpls_wc_product_download_directories"____________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpls_wc_product_download_directories]
+TABLE "wpls_wc_product_meta_lookup"_____________________[ROWS:      87] [EXTRACT|REPLACE] [INST NAME: wpls_wc_product_meta_lookup]
+TABLE "wpls_wc_rate_limits"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_rate_limits]
+TABLE "wpls_wc_reserved_stock"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_reserved_stock]
+TABLE "wpls_wc_tax_rate_classes"________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpls_wc_tax_rate_classes]
+TABLE "wpls_wc_webhooks"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wc_webhooks]
+TABLE "wpls_woocommerce_api_keys"_______________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_api_keys]
+TABLE "wpls_woocommerce_attribute_taxonomies"___________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_attribute_taxonomies]
+TABLE "wpls_woocommerce_downloadable_product_permissions"[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_downloadable_product_permissions]
+TABLE "wpls_woocommerce_exported_csv_items"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_exported_csv_items]
+TABLE "wpls_woocommerce_log"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_log]
+TABLE "wpls_woocommerce_order_itemmeta"_________________[ROWS:   97936] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_order_itemmeta]
+TABLE "wpls_woocommerce_order_items"____________________[ROWS:   11354] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_order_items]
+TABLE "wpls_woocommerce_payment_tokenmeta"______________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_payment_tokenmeta]
+TABLE "wpls_woocommerce_payment_tokens"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_payment_tokens]
+TABLE "wpls_woocommerce_sessions"_______________________[ROWS:      30] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_sessions]
+TABLE "wpls_woocommerce_shipping_zones"_________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_shipping_zones]
+TABLE "wpls_woocommerce_shipping_zone_locations"________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_shipping_zone_locations]
+TABLE "wpls_woocommerce_shipping_zone_methods"__________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_shipping_zone_methods]
+TABLE "wpls_woocommerce_tax_rates"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_tax_rates]
+TABLE "wpls_woocommerce_tax_rate_locations"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_woocommerce_tax_rate_locations]
+TABLE "wpls_wpfm_backup"________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wpls_wpfm_backup]
+TABLE "wpls_wpforms_tasks_meta"_________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpls_wpforms_tasks_meta]
+TABLE "wpls_wpml_mails"_________________________________[ROWS:      61] [EXTRACT|REPLACE] [INST NAME: wpls_wpml_mails]
+TABLE "wpls_wt_iew_action_history"______________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpls_wt_iew_action_history]
+TABLE "wpls_wt_iew_mapping_template"____________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: wpls_wt_iew_mapping_template]
+TABLE "wpls_yoast_indexable"____________________________[ROWS:     295] [EXTRACT|REPLACE] [INST NAME: wpls_yoast_indexable]
+TABLE "wpls_yoast_indexable_hierarchy"__________________[ROWS:     276] [EXTRACT|REPLACE] [INST NAME: wpls_yoast_indexable_hierarchy]
+TABLE "wpls_yoast_migrations"___________________________[ROWS:      24] [EXTRACT|REPLACE] [INST NAME: wpls_yoast_migrations]
+TABLE "wpls_yoast_primary_term"_________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: wpls_yoast_primary_term]
+TABLE "wpls_yoast_seo_links"____________________________[ROWS:     789] [EXTRACT|REPLACE] [INST NAME: wpls_yoast_seo_links]
+TABLE "wpls_yoast_seo_meta"_____________________________[ROWS:     263] [EXTRACT|REPLACE] [INST NAME: wpls_yoast_seo_meta]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.44 -- Build Server: 5.7.44
+FILE SIZE:	dup-database__[HASH].sql (80.29MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`appster_funkydev3user`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	855
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wpls_actionscheduler_actions"____________________[ROWS:  1347]
+TABLE "wpls_actionscheduler_claims"_____________________[ROWS:    11]
+TABLE "wpls_actionscheduler_groups"_____________________[ROWS:     9]
+TABLE "wpls_actionscheduler_logs"_______________________[ROWS:  3945]
+TABLE "wpls_adtribes_my_conversions"____________________[ROWS:     0]
+TABLE "wpls_billingo_documents"_________________________[ROWS:   307]
+TABLE "wpls_billingo_partnerhash"_______________________[ROWS:   228]
+TABLE "wpls_cartflows_ca_cart_abandonment"______________[ROWS:   192]
+TABLE "wpls_cartflows_ca_email_history"_________________[ROWS:   193]
+TABLE "wpls_cartflows_ca_email_templates"_______________[ROWS:     3]
+TABLE "wpls_cartflows_ca_email_templates_meta"__________[ROWS:    19]
+TABLE "wpls_cli_cookie_scan"____________________________[ROWS:     1]
+TABLE "wpls_cli_cookie_scan_categories"_________________[ROWS:     5]
+TABLE "wpls_cli_cookie_scan_cookies"____________________[ROWS:    32]
+TABLE "wpls_cli_cookie_scan_url"________________________[ROWS:    92]
+TABLE "wpls_cli_scripts"________________________________[ROWS:     4]
+TABLE "wpls_commentmeta"________________________________[ROWS:    67]
+TABLE "wpls_comments"___________________________________[ROWS:  8348]
+TABLE "wpls_db7_forms"__________________________________[ROWS:   258]
+TABLE "wpls_duplicator_packages"________________________[ROWS:     8]
+TABLE "wpls_gla_attribute_mapping_rules"________________[ROWS:     0]
+TABLE "wpls_gla_budget_recommendations"_________________[ROWS:  4230]
+TABLE "wpls_gla_merchant_issues"________________________[ROWS:     9]
+TABLE "wpls_gla_shipping_rates"_________________________[ROWS:     0]
+TABLE "wpls_gla_shipping_times"_________________________[ROWS:     1]
+TABLE "wpls_hfcm_scripts"_______________________________[ROWS:     4]
+TABLE "wpls_links"______________________________________[ROWS:     0]
+TABLE "wpls_mailchimp_carts"____________________________[ROWS:     0]
+TABLE "wpls_mailchimp_jobs"_____________________________[ROWS:     0]
+TABLE "wpls_options"____________________________________[ROWS:  2147]
+TABLE "wpls_postmeta"___________________________________[ROWS:114501]
+TABLE "wpls_posts"______________________________________[ROWS:  5313]
+TABLE "wpls_say_what_strings"___________________________[ROWS:    11]
+TABLE "wpls_term_relationships"_________________________[ROWS:  2957]
+TABLE "wpls_term_taxonomy"______________________________[ROWS:   136]
+TABLE "wpls_termmeta"___________________________________[ROWS:   183]
+TABLE "wpls_terms"______________________________________[ROWS:   136]
+TABLE "wpls_tm_taskmeta"________________________________[ROWS:     1]
+TABLE "wpls_tm_tasks"___________________________________[ROWS:     1]
+TABLE "wpls_um_metadata"________________________________[ROWS:     0]
+TABLE "wpls_usermeta"___________________________________[ROWS: 19385]
+TABLE "wpls_users"______________________________________[ROWS:   470]
+TABLE "wpls_wc_admin_note_actions"______________________[ROWS:   238]
+TABLE "wpls_wc_admin_notes"_____________________________[ROWS:   195]
+TABLE "wpls_wc_category_lookup"_________________________[ROWS:     2]
+TABLE "wpls_wc_customer_lookup"_________________________[ROWS:  1213]
+TABLE "wpls_wc_download_log"____________________________[ROWS:     0]
+TABLE "wpls_wc_order_addresses"_________________________[ROWS:     0]
+TABLE "wpls_wc_order_coupon_lookup"_____________________[ROWS:   106]
+TABLE "wpls_wc_order_operational_data"__________________[ROWS:     0]
+TABLE "wpls_wc_order_product_lookup"____________________[ROWS:  7752]
+TABLE "wpls_wc_order_stats"_____________________________[ROWS:  1749]
+TABLE "wpls_wc_order_tax_lookup"________________________[ROWS:  1748]
+TABLE "wpls_wc_orders"__________________________________[ROWS:     0]
+TABLE "wpls_wc_orders_meta"_____________________________[ROWS:     0]
+TABLE "wpls_wc_product_attributes_lookup"_______________[ROWS:     0]
+TABLE "wpls_wc_product_download_directories"____________[ROWS:     2]
+TABLE "wpls_wc_product_meta_lookup"_____________________[ROWS:    87]
+TABLE "wpls_wc_rate_limits"_____________________________[ROWS:     0]
+TABLE "wpls_wc_reserved_stock"__________________________[ROWS:     0]
+TABLE "wpls_wc_tax_rate_classes"________________________[ROWS:     2]
+TABLE "wpls_wc_webhooks"________________________________[ROWS:     0]
+TABLE "wpls_woocommerce_api_keys"_______________________[ROWS:     5]
+TABLE "wpls_woocommerce_attribute_taxonomies"___________[ROWS:     0]
+TABLE "wpls_woocommerce_downloadable_product_permissions"[ROWS:     0]
+TABLE "wpls_woocommerce_exported_csv_items"_____________[ROWS:     0]
+TABLE "wpls_woocommerce_log"____________________________[ROWS:     0]
+TABLE "wpls_woocommerce_order_itemmeta"_________________[ROWS: 97936]
+TABLE "wpls_woocommerce_order_items"____________________[ROWS: 11354]
+TABLE "wpls_woocommerce_payment_tokenmeta"______________[ROWS:     0]
+TABLE "wpls_woocommerce_payment_tokens"_________________[ROWS:     0]
+TABLE "wpls_woocommerce_sessions"_______________________[ROWS:    30]
+TABLE "wpls_woocommerce_shipping_zone_locations"________[ROWS:     1]
+TABLE "wpls_woocommerce_shipping_zone_methods"__________[ROWS:     3]
+TABLE "wpls_woocommerce_shipping_zones"_________________[ROWS:     1]
+TABLE "wpls_woocommerce_tax_rate_locations"_____________[ROWS:     0]
+TABLE "wpls_woocommerce_tax_rates"______________________[ROWS:     1]
+TABLE "wpls_wpfm_backup"________________________________[ROWS:     0]
+TABLE "wpls_wpforms_tasks_meta"_________________________[ROWS:     5]
+TABLE "wpls_wpml_mails"_________________________________[ROWS:    61]
+TABLE "wpls_wt_iew_action_history"______________________[ROWS:     5]
+TABLE "wpls_wt_iew_mapping_template"____________________[ROWS:     2]
+TABLE "wpls_yoast_indexable"____________________________[ROWS:   295]
+TABLE "wpls_yoast_indexable_hierarchy"__________________[ROWS:   276]
+TABLE "wpls_yoast_migrations"___________________________[ROWS:    24]
+TABLE "wpls_yoast_primary_term"_________________________[ROWS:     5]
+TABLE "wpls_yoast_seo_links"____________________________[ROWS:   789]
+TABLE "wpls_yoast_seo_meta"_____________________________[ROWS:   263]
+
+INSERT DATA RUNTIME: 5.4044 sec.
+STEP-2 COMPLETE @ 01:52:10 - RUNTIME: 5.4044 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/hazicoo/funkyforest.hu REPLACE: /home/appster/funkyshop3.dev.appsters.me [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://funkyforest.hu REPLACE: https://funkyshop3.dev.appsters.me [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 01:52:10
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = 1], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = 1], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = 1], [inWpConfig = 1]
+WP_DEBUG_DISPLAY______: [value = ], [inWpConfig = 1]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 512M], [inWpConfig = 1]
+WP_MAX_MEMORY_LIMIT___: [value = 512M], [inWpConfig = 1]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+[PHP ERR][E_WARNING] MSG:Invalid argument supplied for foreach() [CODE:2|FILE:/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Deploy/Database/DbCleanup.php|LINE:95]
+CLEAN OPTIONS [wpls_options]
+	`option_name` = "duplicator_plugin_data_stats"
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+DATABASE OPTIONS DELETED [ROWS:   645]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     8]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wpls_actionscheduler_actions"____________________[ROWS:  1347][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_actionscheduler_actions][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_actionscheduler_actions][1]
+
+EVALUATE TABLE: "wpls_actionscheduler_claims"_____________________[ROWS:    11][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_actionscheduler_groups"_____________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wpls_actionscheduler_logs"_______________________[ROWS:  3945][PG:   4][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_actionscheduler_logs][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_actionscheduler_logs][1]
+	CHUNK ACTION: CURRENT [search_replace][wpls_actionscheduler_logs][2]
+	CHUNK ACTION: CURRENT [search_replace][wpls_actionscheduler_logs][3]
+
+EVALUATE TABLE: "wpls_adtribes_my_conversions"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_billingo_documents"_________________________[ROWS:   307][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_billingo_documents][0]
+
+EVALUATE TABLE: "wpls_billingo_partnerhash"_______________________[ROWS:   228][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_billingo_partnerhash][0]
+
+EVALUATE TABLE: "wpls_cartflows_ca_cart_abandonment"______________[ROWS:   192][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cartflows_ca_cart_abandonment][0]
+
+EVALUATE TABLE: "wpls_cartflows_ca_email_history"_________________[ROWS:   193][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cartflows_ca_email_history][0]
+
+EVALUATE TABLE: "wpls_cartflows_ca_email_templates"_______________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cartflows_ca_email_templates][0]
+
+EVALUATE TABLE: "wpls_cartflows_ca_email_templates_meta"__________[ROWS:    19][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cartflows_ca_email_templates_meta][0]
+
+EVALUATE TABLE: "wpls_cli_cookie_scan"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cli_cookie_scan][0]
+
+EVALUATE TABLE: "wpls_cli_cookie_scan_categories"_________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cli_cookie_scan_categories][0]
+
+EVALUATE TABLE: "wpls_cli_cookie_scan_cookies"____________________[ROWS:    32][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cli_cookie_scan_cookies][0]
+
+EVALUATE TABLE: "wpls_cli_cookie_scan_url"________________________[ROWS:    92][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cli_cookie_scan_url][0]
+
+EVALUATE TABLE: "wpls_cli_scripts"________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_cli_scripts][0]
+
+EVALUATE TABLE: "wpls_commentmeta"________________________________[ROWS:    67][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_commentmeta][0]
+
+EVALUATE TABLE: "wpls_comments"___________________________________[ROWS:  8348][PG:   9][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][1]
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][2]
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][3]
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][4]
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][5]
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][6]
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][7]
+	CHUNK ACTION: CURRENT [search_replace][wpls_comments][8]
+
+EVALUATE TABLE: "wpls_db7_forms"__________________________________[ROWS:   258][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_db7_forms][0]
+
+EVALUATE TABLE: "wpls_duplicator_packages"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_gla_attribute_mapping_rules"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_gla_budget_recommendations"_________________[ROWS:  4230][PG:   5][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_gla_budget_recommendations][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_gla_budget_recommendations][1]
+	CHUNK ACTION: CURRENT [search_replace][wpls_gla_budget_recommendations][2]
+	CHUNK ACTION: CURRENT [search_replace][wpls_gla_budget_recommendations][3]
+	CHUNK ACTION: CURRENT [search_replace][wpls_gla_budget_recommendations][4]
+
+EVALUATE TABLE: "wpls_gla_merchant_issues"________________________[ROWS:     9][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_gla_merchant_issues][0]
+
+EVALUATE TABLE: "wpls_gla_shipping_rates"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_gla_shipping_times"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_gla_shipping_times][0]
+
+EVALUATE TABLE: "wpls_hfcm_scripts"_______________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_hfcm_scripts][0]
+
+EVALUATE TABLE: "wpls_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_mailchimp_carts"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_mailchimp_jobs"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_options"____________________________________[ROWS:  1502][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_options][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_options][1]
+
+EVALUATE TABLE: "wpls_postmeta"___________________________________[ROWS:114501][PG: 115][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][11]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][12]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][13]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][14]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][15]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][16]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][17]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][18]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][19]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][20]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][21]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][22]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][23]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][24]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][25]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][26]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][27]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][28]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][29]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][30]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][31]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][32]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][33]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][34]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][35]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][36]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][37]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][38]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][39]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][40]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][41]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][42]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][43]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][44]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][45]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][46]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][47]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][48]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][49]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][50]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][51]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][52]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][53]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][54]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][55]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][56]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][57]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][58]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][59]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][60]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][61]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][62]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][63]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][64]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][65]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][66]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][67]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][68]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][69]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][70]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][71]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][72]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][73]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][74]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][75]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][76]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][77]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][78]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][79]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][80]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][81]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][82]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][83]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][84]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][85]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][86]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][87]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][88]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][89]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][90]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][91]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][92]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][93]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][94]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][95]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][96]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][97]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][98]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][99]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][100]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][101]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][102]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][103]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][104]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][105]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][106]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][107]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][108]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][109]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][110]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][111]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][112]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][113]
+	CHUNK ACTION: CURRENT [search_replace][wpls_postmeta][114]
+
+EVALUATE TABLE: "wpls_posts"______________________________________[ROWS:  5313][PG:   6][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_posts][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_posts][1]
+	
+STEP-3 CHUNK STOP @ 01:52:15 - RUNTIME: 5.2964 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+CHUNK ACTION: CURRENT [search_replace][wpls_posts][2]
+CHUNK ACTION: CURRENT [search_replace][wpls_posts][3]
+CHUNK ACTION: CURRENT [search_replace][wpls_posts][4]
+CHUNK ACTION: CURRENT [search_replace][wpls_posts][5]
+
+EVALUATE TABLE: "wpls_say_what_strings"___________________________[ROWS:    11][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_say_what_strings][0]
+
+EVALUATE TABLE: "wpls_termmeta"___________________________________[ROWS:   183][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_termmeta][0]
+
+EVALUATE TABLE: "wpls_terms"______________________________________[ROWS:   136][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_terms][0]
+
+EVALUATE TABLE: "wpls_term_relationships"_________________________[ROWS:  2957][PG:   3][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_term_taxonomy"______________________________[ROWS:   136][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_term_taxonomy][0]
+
+EVALUATE TABLE: "wpls_tm_taskmeta"________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_tm_taskmeta][0]
+
+EVALUATE TABLE: "wpls_tm_tasks"___________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_tm_tasks][0]
+
+EVALUATE TABLE: "wpls_um_metadata"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_usermeta"___________________________________[ROWS: 19385][PG:  20][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][10]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][11]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][12]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][13]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][14]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][15]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][16]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][17]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][18]
+	CHUNK ACTION: CURRENT [search_replace][wpls_usermeta][19]
+
+EVALUATE TABLE: "wpls_users"______________________________________[ROWS:   470][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_users][0]
+
+EVALUATE TABLE: "wpls_wc_admin_notes"_____________________________[ROWS:   195][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_admin_notes][0]
+
+EVALUATE TABLE: "wpls_wc_admin_note_actions"______________________[ROWS:   238][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "wpls_wc_category_lookup"_________________________[ROWS:     2][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_customer_lookup"_________________________[ROWS:  1213][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_customer_lookup][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_customer_lookup][1]
+
+EVALUATE TABLE: "wpls_wc_download_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_orders"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_orders_meta"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_order_addresses"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_order_coupon_lookup"_____________________[ROWS:   106][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_order_operational_data"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_order_product_lookup"____________________[ROWS:  7752][PG:   8][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_order_stats"_____________________________[ROWS:  1749][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_order_stats][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_order_stats][1]
+
+EVALUATE TABLE: "wpls_wc_order_tax_lookup"________________________[ROWS:  1748][PG:   2][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_product_attributes_lookup"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_product_download_directories"____________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_product_download_directories][0]
+
+EVALUATE TABLE: "wpls_wc_product_meta_lookup"_____________________[ROWS:    87][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "wpls_wc_rate_limits"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_reserved_stock"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wc_tax_rate_classes"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "wpls_wc_webhooks"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_woocommerce_api_keys"_______________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_api_keys][0]
+
+EVALUATE TABLE: "wpls_woocommerce_attribute_taxonomies"___________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_woocommerce_exported_csv_items"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_woocommerce_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_woocommerce_order_itemmeta"_________________[ROWS: 97936][PG:  98][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][10]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][11]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][12]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][13]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][14]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][15]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][16]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][17]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][18]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][19]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][20]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][21]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][22]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][23]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][24]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][25]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][26]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][27]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][28]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][29]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][30]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][31]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][32]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][33]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][34]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][35]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][36]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][37]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][38]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][39]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][40]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][41]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][42]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][43]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][44]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][45]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][46]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][47]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][48]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][49]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][50]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][51]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][52]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][53]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][54]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][55]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][56]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][57]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][58]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][59]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][60]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][61]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][62]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][63]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][64]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][65]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][66]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][67]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][68]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][69]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][70]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][71]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][72]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][73]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][74]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][75]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][76]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][77]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][78]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][79]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][80]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][81]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][82]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][83]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][84]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][85]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][86]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][87]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][88]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][89]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][90]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][91]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][92]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][93]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][94]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][95]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][96]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_itemmeta][97]
+
+EVALUATE TABLE: "wpls_woocommerce_order_items"____________________[ROWS: 11354][PG:  12][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][0]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][1]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][2]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][3]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][4]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][5]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][6]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][7]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][8]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][9]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][10]
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_order_items][11]
+
+EVALUATE TABLE: "wpls_woocommerce_payment_tokenmeta"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_woocommerce_payment_tokens"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_woocommerce_sessions"_______________________[ROWS:    30][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_sessions][0]
+
+EVALUATE TABLE: "wpls_woocommerce_shipping_zones"_________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_shipping_zones][0]
+
+EVALUATE TABLE: "wpls_woocommerce_shipping_zone_locations"________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_shipping_zone_locations][0]
+
+EVALUATE TABLE: "wpls_woocommerce_shipping_zone_methods"__________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_shipping_zone_methods][0]
+
+EVALUATE TABLE: "wpls_woocommerce_tax_rates"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_woocommerce_tax_rates][0]
+
+EVALUATE TABLE: "wpls_woocommerce_tax_rate_locations"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wpfm_backup"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_wpforms_tasks_meta"_________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wpforms_tasks_meta][0]
+
+EVALUATE TABLE: "wpls_wpml_mails"_________________________________[ROWS:    61][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wpml_mails][0]
+
+EVALUATE TABLE: "wpls_wt_iew_action_history"______________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wt_iew_action_history][0]
+
+EVALUATE TABLE: "wpls_wt_iew_mapping_template"____________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_wt_iew_mapping_template][0]
+
+EVALUATE TABLE: "wpls_yoast_indexable"____________________________[ROWS:   295][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_yoast_indexable][0]
+
+EVALUATE TABLE: "wpls_yoast_indexable_hierarchy"__________________[ROWS:   276][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpls_yoast_migrations"___________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_yoast_migrations][0]
+
+EVALUATE TABLE: "wpls_yoast_primary_term"_________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_yoast_primary_term][0]
+
+EVALUATE TABLE: "wpls_yoast_seo_links"____________________________[ROWS:   789][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/hazicoo/funkyforest.hu" ====================> "/home/appster/funkyshop3.dev.appsters.me"
+	SEARCH[urlnd]  2:"https://funkyforest.hu" ==========================> "https://funkyshop3.dev.appsters.me"
+	CHUNK ACTION: CURRENT [search_replace][wpls_yoast_seo_links][0]
+
+EVALUATE TABLE: "wpls_yoast_seo_meta"_____________________________[ROWS:   263][PG:   1][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:88 	|	 Rows:274936 	|	 Cells:1369342 
+UPDATED:	Tables:12 	|	 Rows:7366 	|	 Cells:9572 
+ERRORS:		0 
+RUNTIME:	10.043200 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/appster/funkyshop3.dev.appsters.me/wp-config.php
+New htaccess file created:/home/appster/funkyshop3.dev.appsters.me/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""appster_funkydev3""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE "true"
+	WP CONFIG UPDATE WP_DEBUG "true"
+	WP CONFIG UPDATE WP_DEBUG_LOG "true"
+	WP CONFIG UPDATE WP_DEBUG_DISPLAY "false"
+	WP CONFIG UPDATE WP_MEMORY_LIMIT "512M"
+	WP CONFIG UPDATE WP_MAX_MEMORY_LIMIT "512M"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/appster/funkyshop3.dev.appsters.me"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 01:52:20 - RUNTIME: 4.8308 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[WARNING] One or multiple config files were found in main WordPress folders
+	SECTIONS: general
+	LONG MSG: Config files in WordPress main folders may cause problems with accessing the site after the installation. The following config files were found: - /home/appster/funkyshop3.dev.appsters.me/wp-content/.htaccessPlease consider removing those files in case you have problems with your site after the installation.
+
+====================================
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[WARNING] One or multiple config files were found in main WordPress folders
+	SECTIONS: general
+	LONG MSG: Config files in WordPress main folders may cause problems with accessing the site after the installation. The following config files were found: - /home/appster/funkyshop3.dev.appsters.me/wp-content/.htaccessPlease consider removing those files in case you have problems with your site after the installation.
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/appster/funkyshop3.dev.appsters.me/index.php
+E_WARNING DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 4
+	FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/core/components/data/init.php[404]
+	--- TRACE ---
+	CLASS___: DOMDocument->loadHTML         FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/core/components/data/init.php[404]
+	FUNCTION: et_core_fix_unclosed_html_tagsFILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/epanel/custom_functions.php[920]
+	FUNCTION: integration_head              FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/general-template.php[3052]
+	FUNCTION: wp_head                       FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-header-template.php[11]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php[216]
+	FUNCTION: et_theme_builder_frontend_override_partialFILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php[247]
+	FUNCTION: et_theme_builder_frontend_override_headerFILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[326]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/general-template.php[38]
+	FUNCTION: get_header                    FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/page.php[3]
+	FUNCTION: include                       FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/appster/funkyshop3.dev.appsters.me/index.php[17]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/wp_test_script_0ea80ee-27134054.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+E_WARNING DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 4
+	FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/core/components/data/init.php[404]
+	--- TRACE ---
+	CLASS___: DOMDocument->loadHTML         FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/core/components/data/init.php[404]
+	FUNCTION: et_core_fix_unclosed_html_tagsFILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/epanel/custom_functions.php[920]
+	FUNCTION: integration_head              FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/general-template.php[3052]
+	FUNCTION: wp_head                       FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-header-template.php[11]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php[216]
+	FUNCTION: et_theme_builder_frontend_override_partialFILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php[247]
+	FUNCTION: et_theme_builder_frontend_override_headerFILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[326]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/general-template.php[38]
+	FUNCTION: get_header                    FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/page.php[3]
+	FUNCTION: include                       FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/appster/funkyshop3.dev.appsters.me/index.php[17]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/wp_test_script_0ea80ee-27134054.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+E_WARNING DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 11
+	FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/core/components/data/init.php[404]
+	--- TRACE ---
+	CLASS___: DOMDocument->loadHTML         FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/core/components/data/init.php[404]
+	FUNCTION: et_core_fix_unclosed_html_tagsFILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/epanel/custom_functions.php[920]
+	FUNCTION: integration_head              FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/general-template.php[3052]
+	FUNCTION: wp_head                       FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-header-template.php[11]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php[216]
+	FUNCTION: et_theme_builder_frontend_override_partialFILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php[247]
+	FUNCTION: et_theme_builder_frontend_override_headerFILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[326]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/general-template.php[38]
+	FUNCTION: get_header                    FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/page.php[3]
+	FUNCTION: include                       FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/appster/funkyshop3.dev.appsters.me/index.php[17]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/wp_test_script_0ea80ee-27134054.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+E_WARNING DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 11
+	FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/core/components/data/init.php[404]
+	--- TRACE ---
+	CLASS___: DOMDocument->loadHTML         FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/core/components/data/init.php[404]
+	FUNCTION: et_core_fix_unclosed_html_tagsFILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/epanel/custom_functions.php[920]
+	FUNCTION: integration_head              FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/general-template.php[3052]
+	FUNCTION: wp_head                       FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend-header-template.php[11]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php[216]
+	FUNCTION: et_theme_builder_frontend_override_partialFILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/frontend-builder/theme-builder/frontend.php[247]
+	FUNCTION: et_theme_builder_frontend_override_headerFILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[326]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/general-template.php[38]
+	FUNCTION: get_header                    FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/page.php[3]
+	FUNCTION: include                       FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/template-loader.php[106]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-blog-header.php[19]
+	FUNCTION: require                       FILE: /home/appster/funkyshop3.dev.appsters.me/index.php[17]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/wp_test_script_0ea80ee-27134054.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress backend tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/appster/funkyshop3.dev.appsters.me/wp-login.php
+E_NOTICE Undefined index: wc-admin-app
+	FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/feature/JQueryBody.php[249]
+	--- TRACE ---
+	CLASS___: ET_Builder_JQuery_Body->wp_print_scriptsFILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/script-loader.php[2214]
+	FUNCTION: wp_print_head_scripts         FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-login.php[123]
+	FUNCTION: login_header                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-login.php[1475]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/wp_test_script_0ea80ee-27134054.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+E_NOTICE Undefined index: wc-components
+	FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/feature/JQueryBody.php[249]
+	--- TRACE ---
+	CLASS___: ET_Builder_JQuery_Body->wp_print_scriptsFILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/script-loader.php[2214]
+	FUNCTION: wp_print_head_scripts         FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-login.php[123]
+	FUNCTION: login_header                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-login.php[1475]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/wp_test_script_0ea80ee-27134054.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+E_NOTICE Undefined index: wc-store-data
+	FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/feature/JQueryBody.php[249]
+	--- TRACE ---
+	CLASS___: ET_Builder_JQuery_Body->wp_print_scriptsFILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/script-loader.php[2214]
+	FUNCTION: wp_print_head_scripts         FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-login.php[123]
+	FUNCTION: login_header                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-login.php[1475]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/wp_test_script_0ea80ee-27134054.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+E_NOTICE Undefined index: wc-tracks
+	FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/themes/Divi/includes/builder/feature/JQueryBody.php[249]
+	--- TRACE ---
+	CLASS___: ET_Builder_JQuery_Body->wp_print_scriptsFILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/script-loader.php[2214]
+	FUNCTION: wp_print_head_scripts         FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[324]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/class-wp-hook.php[348]
+	CLASS___: WP_Hook->do_action            FILE: /home/appster/funkyshop3.dev.appsters.me/wp-includes/plugin.php[517]
+	FUNCTION: do_action                     FILE: /home/appster/funkyshop3.dev.appsters.me/wp-login.php[123]
+	FUNCTION: login_header                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-login.php[1475]
+	FUNCTION: require_once                  FILE: /home/appster/funkyshop3.dev.appsters.me/wp-content/wp_test_script_0ea80ee-27134054.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://duplicator.com/knowledge-base/ 
+
+
+====================================
+LOG-TIME[/home/appster/funkyshop3.dev.appsters.me/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.02478]  MESSAGE:END RENDER PAGE

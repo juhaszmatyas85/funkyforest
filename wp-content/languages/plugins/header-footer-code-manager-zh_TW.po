@@ -1,0 +1,443 @@
+# Translation of Plugins - Header Footer Code Manager - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Header Footer Code Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-12-16 00:58:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Header Footer Code Manager - Stable (latest release)\n"
+
+#: includes/hfcm-add-edit.php:442
+msgid "Your site has <a href=\"https://draftpress.com/disallow-file-edit-setting-wordpress\" target=\"_blank\">disallow_file_edit</a> setting enabled inside the wp-config file to prevent file edits. By using this plugin, you acknowledge that you know what you’re doing and intend on adding code snippets only from trusted sources."
+msgstr "這個網站為了防止使用者編輯檔案，在 wp-config 檔案中啟用 <a href=\"https://draftpress.com/disallow-file-edit-setting-wordpress\" target=\"_blank\">disallow_file_edit</a> 設定。要使用這個外掛，使用者必須清楚了解自己正在操作什麼、會產生哪些結果，並僅新增來自受信任來源的程式碼片段。"
+
+#: includes/hfcm-add-edit.php:412
+msgid "Warning: Using improper code or untrusted sources code can break your site or create security risks. <a href=\"https://draftpress.com/security-risks-of-wp-plugins-that-allow-code-editing-or-insertion\" target=\"_blank\">Learn more</a>."
+msgstr "警告: 使用不正確的程式碼或不受信任的原始程式碼，可能會造成網站停擺或產生安全性風險。<a href=\"https://draftpress.com/security-risks-of-wp-plugins-that-allow-code-editing-or-insertion\" target=\"_blank\">進一步了解</a>"
+
+#: includes/hfcm-tools.php:117
+msgid "Import"
+msgstr "匯入"
+
+#: includes/hfcm-add-edit.php:323
+msgid "Not all locations (such as before content) exist on all page/post types. The location will only appear as an option if the appropriate hook exists on the page."
+msgstr "不是全部內容類型都可以使用全部位置 (例如 [內容上方] 位置)，僅有選取的頁面具備對應的勾點時，才會顯示對應的程式碼片段插入位置。"
+
+#: 99robots-header-footer-code-manager.php:1142
+msgid "Search Snippets"
+msgstr "搜尋程式碼片段"
+
+#: includes/hfcm-add-edit.php:379
+msgid "Copy"
+msgstr "複製"
+
+#: includes/class-hfcm-snippets-list.php:344
+msgid "Copy Shortcode"
+msgstr "複製短代碼"
+
+#: includes/class-hfcm-snippets-list.php:431
+msgid "Filter"
+msgstr "篩選"
+
+#: includes/class-hfcm-snippets-list.php:420
+msgid "All Snippet Types"
+msgstr "全部程式碼片段類型"
+
+#: includes/class-hfcm-snippets-list.php:216 includes/hfcm-add-edit.php:108
+msgid "Archive Page"
+msgstr "彙整頁面"
+
+#: includes/class-hfcm-snippets-list.php:215 includes/hfcm-add-edit.php:107
+msgid "Search Page"
+msgstr "搜尋頁面"
+
+#: includes/class-hfcm-snippets-list.php:214 includes/hfcm-add-edit.php:106
+msgid "Home Page"
+msgstr "首頁"
+
+#: includes/hfcm-tools.php:100
+msgid "Select File"
+msgstr "選取檔案"
+
+#: includes/hfcm-tools.php:91
+msgid ""
+"Select the HFCM JSON file you would like to import. When you click the import button below,\n"
+"                                HFCM will import the field groups."
+msgstr "請選取要匯入的 Header Footer Code Manager JSON 檔案，然後點擊下方的 [匯入] 按鈕，Header Footer Code Manager 便會匯入欄位群組。"
+
+#: includes/hfcm-tools.php:85
+msgid "Import Snippets"
+msgstr "匯入程式碼片段"
+
+#: includes/hfcm-tools.php:75
+msgid "Export File"
+msgstr "匯出檔案"
+
+#: includes/hfcm-tools.php:49
+msgid "Select Snippets"
+msgstr "選取程式碼片段"
+
+#: includes/hfcm-tools.php:36
+msgid ""
+"Select the snippets you would like to export and then select your export method. Use the\n"
+"                                download button to export to a .json file which you can then import to another HFCM\n"
+"                                installation"
+msgstr "請選取要匯出的程式碼片段，然後選取匯出方法。請點擊下方 [匯出檔案] 按鈕以匯出 JSON 檔案。匯出的 JSON 檔案，可以在其他已安裝 Header Footer Code Manager 的網站匯入。"
+
+#: includes/hfcm-tools.php:30
+msgid "Export Snippets"
+msgstr "匯出程式碼片段"
+
+#: includes/hfcm-add-edit.php:323
+msgid "Note"
+msgstr "注意事項"
+
+#: 99robots-header-footer-code-manager.php:1230
+#: 99robots-header-footer-code-manager.php:1245
+msgid "Please upload a valid import file"
+msgstr "請上傳有效的匯入檔案"
+
+#: 99robots-header-footer-code-manager.php:1097
+msgid ""
+"Please deactivate the free version of this plugin in order to avoid duplication of the snippets.\n"
+"                    You can use our tools to import all the snippets from the free version of this plugin."
+msgstr "請調用這個外掛的免費版本，避免產生重複的程式碼片段。請使用我們提供的工具，匯入這個外掛免費版本中的程式碼片段。"
+
+#: includes/hfcm-tools.php:43
+msgid "NOTE: Import/Export Functionality is only intended to operate within the same website.  Using the export/import to move snippets from one website to a different site, may result in inconsistent behavior, particularly if you have specific elements as criteria such as pages, posts, categories, or tags."
+msgstr "注意事項: 匯出/匯入功能儘量在同一個網站使用。使用匯出/匯入功能將程式碼片段從某個網站移至另一個網站，可能會導致不一致的行為，尤其在以特定元素 (例如頁面、文章、分類或標籤) 為條件時更為明顯。"
+
+#: includes/class-hfcm-snippets-list.php:501 includes/hfcm-add-edit.php:334
+msgid "Inactive"
+msgstr "非使用中"
+
+#: includes/class-hfcm-snippets-list.php:496 includes/hfcm-add-edit.php:333
+msgid "Active"
+msgstr "使用中"
+
+#: includes/class-hfcm-snippets-list.php:491
+msgid "All"
+msgstr "全部"
+
+#: includes/class-hfcm-snippets-list.php:399
+msgid "Remove"
+msgstr "移除"
+
+#: includes/class-hfcm-snippets-list.php:398
+msgid "Deactivate"
+msgstr "停用"
+
+#: includes/class-hfcm-snippets-list.php:397
+msgid "Activate"
+msgstr "啟用"
+
+#: includes/class-hfcm-snippets-list.php:366
+msgid "Devices"
+msgstr "顯示裝置類型"
+
+#: includes/class-hfcm-snippets-list.php:363
+msgid "Display On"
+msgstr "套用範圍"
+
+#: includes/class-hfcm-snippets-list.php:360
+msgid "ID"
+msgstr "ID"
+
+#: includes/class-hfcm-snippets-list.php:345 includes/hfcm-add-edit.php:424
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/class-hfcm-snippets-list.php:343
+msgid "Edit"
+msgstr "編輯"
+
+#: includes/class-hfcm-snippets-list.php:261 includes/hfcm-add-edit.php:329
+msgid "Only Desktop"
+msgstr "僅顯示於桌面裝置"
+
+#: includes/class-hfcm-snippets-list.php:259 includes/hfcm-add-edit.php:330
+msgid "Only Mobile Devices"
+msgstr "僅顯示於行動裝置"
+
+#: includes/class-hfcm-snippets-list.php:257 includes/hfcm-add-edit.php:328
+msgid "Show on All Devices"
+msgstr "顯示於全部裝置"
+
+#: includes/class-hfcm-snippets-list.php:243
+msgid "N/A"
+msgstr "無"
+
+#: includes/class-hfcm-snippets-list.php:234
+msgid "No post selected"
+msgstr "尚未選取文章"
+
+#: includes/class-hfcm-snippets-list.php:213
+msgid "Specific Tags"
+msgstr "指定標籤"
+
+#: includes/class-hfcm-snippets-list.php:212
+msgid "Specific Custom Post Types"
+msgstr "指定自訂內容類型"
+
+#: includes/class-hfcm-snippets-list.php:211
+msgid "Specific Categories"
+msgstr "指定分類"
+
+#: includes/class-hfcm-snippets-list.php:188
+msgid "No Snippets available."
+msgstr "目前沒有可用的程式碼片段。"
+
+#: includes/hfcm-add-edit.php:417
+msgid "Save"
+msgstr "儲存"
+
+#: includes/hfcm-add-edit.php:406
+msgid "Code"
+msgstr "程式碼"
+
+#: includes/class-hfcm-snippets-list.php:17 includes/hfcm-add-edit.php:405
+msgid "Snippet"
+msgstr "程式碼片段"
+
+#: includes/hfcm-add-edit.php:396
+msgid "Last edited by"
+msgstr "最後編輯人員:"
+
+#: includes/hfcm-add-edit.php:393 includes/hfcm-add-edit.php:397
+msgid "at"
+msgstr "時間:"
+
+#: includes/hfcm-add-edit.php:393 includes/hfcm-add-edit.php:397
+msgid "on"
+msgstr "日期:"
+
+#: includes/hfcm-add-edit.php:392
+msgid "Snippet created by"
+msgstr "程式碼片段開發者:"
+
+#: includes/hfcm-add-edit.php:388
+msgid "Changelog"
+msgstr "變更記錄"
+
+#: includes/class-hfcm-snippets-list.php:367 includes/hfcm-add-edit.php:370
+msgid "Shortcode"
+msgstr "短代碼"
+
+#: includes/class-hfcm-snippets-list.php:361 includes/hfcm-add-edit.php:353
+msgid "Status"
+msgstr "狀態"
+
+#: includes/hfcm-add-edit.php:337
+msgid "Device Display"
+msgstr "顯示裝置類型"
+
+#: includes/class-hfcm-snippets-list.php:364 includes/hfcm-add-edit.php:308
+msgid "Location"
+msgstr "插入位置"
+
+#: includes/hfcm-add-edit.php:275
+msgid "Post Count"
+msgstr "文章數量"
+
+#: includes/hfcm-add-edit.php:259
+msgid "Post Types"
+msgstr "內容類型"
+
+#: includes/hfcm-add-edit.php:241
+msgid "Tags List"
+msgstr "標籤清單"
+
+#: includes/hfcm-add-edit.php:223
+msgid "Category List"
+msgstr "分類清單"
+
+#: includes/hfcm-add-edit.php:190
+msgid "Post List"
+msgstr "文章清單"
+
+#: includes/hfcm-add-edit.php:171
+msgid "Page List"
+msgstr "頁面清單"
+
+#: includes/hfcm-add-edit.php:157
+msgid "Exclude Posts"
+msgstr "排除文章"
+
+#: includes/hfcm-add-edit.php:140
+msgid "Exclude Pages"
+msgstr "排除頁面"
+
+#: includes/hfcm-add-edit.php:113
+msgid "Site Display"
+msgstr "套用範圍"
+
+#: includes/class-hfcm-snippets-list.php:218 includes/hfcm-add-edit.php:110
+msgid "Shortcode Only"
+msgstr "僅短代碼"
+
+#: includes/class-hfcm-snippets-list.php:217 includes/hfcm-add-edit.php:109
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: includes/hfcm-add-edit.php:105
+msgid "Specific Tags (Archive & Posts)"
+msgstr "指定標籤 (彙整頁面及文章)"
+
+#: includes/hfcm-add-edit.php:104
+msgid "Specific Post Types (Archive & Posts)"
+msgstr "指定內容類型 (彙整頁面及文章)"
+
+#: includes/hfcm-add-edit.php:103
+msgid "Specific Categories (Archive & Posts)"
+msgstr "指定分類 (彙整頁面及文章)"
+
+#: includes/class-hfcm-snippets-list.php:210 includes/hfcm-add-edit.php:102
+msgid "Specific Pages"
+msgstr "指定頁面"
+
+#: includes/class-hfcm-snippets-list.php:209 includes/hfcm-add-edit.php:101
+msgid "Specific Posts"
+msgstr "指定文章"
+
+#: includes/class-hfcm-snippets-list.php:208 includes/hfcm-add-edit.php:100
+msgid "Site Wide"
+msgstr "整個網站"
+
+#: includes/class-hfcm-snippets-list.php:365 includes/hfcm-add-edit.php:82
+msgid "Snippet Type"
+msgstr "程式碼片段類型"
+
+#: includes/class-hfcm-snippets-list.php:269
+#: includes/class-hfcm-snippets-list.php:415 includes/hfcm-add-edit.php:78
+msgid "Javascript"
+msgstr "JavaScript"
+
+#: includes/class-hfcm-snippets-list.php:268
+#: includes/class-hfcm-snippets-list.php:414 includes/hfcm-add-edit.php:77
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/class-hfcm-snippets-list.php:267
+#: includes/class-hfcm-snippets-list.php:413 includes/hfcm-add-edit.php:76
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/class-hfcm-snippets-list.php:362 includes/hfcm-add-edit.php:68
+msgid "Snippet Name"
+msgstr "程式碼片段名稱"
+
+#: includes/hfcm-add-edit.php:45
+msgid "Script Added Successfully"
+msgstr "指令碼已新增。"
+
+#: includes/hfcm-add-edit.php:42 includes/hfcm-add-edit.php:47
+msgid "Back to list"
+msgstr "返回清單"
+
+#: includes/hfcm-add-edit.php:40
+msgid "Script updated"
+msgstr "指令碼已更新。"
+
+#: includes/hfcm-add-edit.php:28
+msgid "Edit Snippet"
+msgstr "編輯程式碼片段"
+
+#: includes/class-hfcm-snippets-list.php:250 includes/hfcm-add-edit.php:16
+#: includes/hfcm-add-edit.php:297 includes/hfcm-add-edit.php:302
+#: includes/hfcm-tools.php:12
+msgid "Footer"
+msgstr "footer 標籤區段"
+
+#: includes/class-hfcm-snippets-list.php:249 includes/hfcm-add-edit.php:15
+#: includes/hfcm-add-edit.php:296 includes/hfcm-tools.php:11
+msgid "After Content"
+msgstr "內容下方"
+
+#: includes/class-hfcm-snippets-list.php:248 includes/hfcm-add-edit.php:14
+#: includes/hfcm-add-edit.php:295 includes/hfcm-tools.php:10
+msgid "Before Content"
+msgstr "內容上方"
+
+#: includes/class-hfcm-snippets-list.php:247 includes/hfcm-add-edit.php:13
+#: includes/hfcm-add-edit.php:294 includes/hfcm-add-edit.php:301
+#: includes/hfcm-tools.php:9
+msgid "Header"
+msgstr "head 標籤區段"
+
+#: 99robots-header-footer-code-manager.php:1133
+#: includes/class-hfcm-snippets-list.php:18
+msgid "Snippets"
+msgstr "程式碼片段"
+
+#: 99robots-header-footer-code-manager.php:332
+msgid "Hey there! You’ve been using the <strong>Header Footer Code Manager</strong> plugin for a while now. If you like the plugin, please support our awesome development and support team by leaving a <a class=\"hfcm-review-stars\" href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\"><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span></a> rating. <a href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\">Rate it!</a> It’ll mean the world to us and keep this plugin free and constantly updated. <a href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\">Leave A Review</a>"
+msgstr "你好！這個網站正在執行 <strong>Header Footer Code Manager</strong> 外掛。如果這個外掛對網站有所幫助，請以撰寫 <a class=\"hfcm-review-stars\" href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\"><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span><span class=\"dashicons dashicons-star-filled\"></span></a> 外掛評論的方式支援外掛開發及技術支援團隊。<a href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\">前往技術支援論壇撰寫外掛評論</a>，這樣便能讓外掛保持免費及持續開發。<a href=\"https://wordpress.org/support/plugin/header-footer-code-manager/reviews/\">撰寫外掛評論</a>"
+
+#: 99robots-header-footer-code-manager.php:292
+msgid "Settings"
+msgstr "設定"
+
+#: 99robots-header-footer-code-manager.php:279
+msgid "Request Handler"
+msgstr "要求處理常式"
+
+#: 99robots-header-footer-code-manager.php:278
+msgid "Request Handler Script"
+msgstr "要求處理常式指令碼"
+
+#: 99robots-header-footer-code-manager.php:269 includes/hfcm-add-edit.php:417
+msgid "Update"
+msgstr "更新"
+
+#: 99robots-header-footer-code-manager.php:268
+msgid "Update Script"
+msgstr "更新指令碼"
+
+#: 99robots-header-footer-code-manager.php:258
+#: 99robots-header-footer-code-manager.php:259 includes/hfcm-tools.php:23
+msgid "Tools"
+msgstr "工具"
+
+#: 99robots-header-footer-code-manager.php:249
+msgid "Add New"
+msgstr "新增程式碼片段"
+
+#: 99robots-header-footer-code-manager.php:248
+#: 99robots-header-footer-code-manager.php:1135 includes/hfcm-add-edit.php:28
+#: includes/hfcm-add-edit.php:31
+msgid "Add New Snippet"
+msgstr "新增程式碼片段"
+
+#: 99robots-header-footer-code-manager.php:238
+#: 99robots-header-footer-code-manager.php:239
+msgid "All Snippets"
+msgstr "全部程式碼片段"
+
+#: 99robots-header-footer-code-manager.php:228
+msgid "HFCM"
+msgstr "HFCM"
+
+#. Author URI of the plugin
+msgid "https://draftpress.com/"
+msgstr "https://draftpress.com/"
+
+#. Author of the plugin
+msgid "99robots"
+msgstr "99robots"
+
+#. Description of the plugin
+msgid "Header Footer Code Manager by 99 Robots is a quick and simple way for you to add tracking code snippets, conversion pixels, or other scripts required by third party services for analytics, tracking, marketing, or chat functions. For detailed documentation, please visit the plugin's <a href=\"https://draftpress.com/\"> official page</a>."
+msgstr "由 99 Robots 開發的 Header Footer Code Manager 是一個能簡單快速在網站中加入程式碼片段的方式，它能為網站加入 Google Analytics 追蹤 ID、Facebook Pixel 程式碼或其他第三方分析、追蹤市場行銷或線上交談服務所需的指令碼。如需進一步了解相關資訊，請造訪外掛的<a href=\"https://draftpress.com/\">官方網站</a>。"
+
+#. Plugin URI of the plugin
+msgid "https://draftpress.com/products"
+msgstr "https://draftpress.com/products"
+
+#. Plugin Name of the plugin
+#: 99robots-header-footer-code-manager.php:227
+msgid "Header Footer Code Manager"
+msgstr "Header Footer Code Manager"

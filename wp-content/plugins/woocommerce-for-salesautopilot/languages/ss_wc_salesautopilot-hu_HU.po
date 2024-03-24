@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-salesautopilot\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+#: class-ss-wc-integration-salesautopilot.php:614
+msgid "SalesAutopilot"
+msgstr "SalesAutopilot"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "SalesAutpilot - Put Your Sales on Autopilot ...once and for all"
+msgstr "SalesAutoPilot - Önműködő értékesítés egyszer, s mindenkorra"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid " Form: #"
+msgstr " Űrlap: #"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid " List: #"
+msgstr " Lista: #"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid ". Subscribe form: #"
+msgstr ". Feliratkozó űrlap: #"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "API Password"
+msgstr "API Jelszó"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "API Username"
+msgstr "API Felhasználónév"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Client subscribed to SalesAutopilot newsletter list #"
+msgstr "Feliratkozás hírlevél listára. Lista: #"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Display subscription form"
+msgstr "Hírlevél feliratkozás jelölőnégyzet megjelenítése"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Enable SalesAutopilot"
+msgstr "SalesAutopilot engedélyezése"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Enable/Disable"
+msgstr "Engedélyezés/tiltás"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Enter your API username/password and save to see your lists"
+msgstr ""
+"Hiba: írja be az API felhasználónevét és jelszavát <a href=\"%s\">ide</a>"
+
+#. Text in echo
+#: class-ss-wc-integration-salesautopilot.php:615
+msgid ""
+"Enter your SalesAutopilot settings below for WooCommerce to send order to "
+"your eCommerce list."
+msgstr ""
+"Adja meg a SalesAutopilot beáálításokat, hogy a Woocommerce el tudja küldeni "
+"a rendelést az eCommerce listára."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Newsletter List"
+msgstr "Hírlevél lista"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Newsletter form"
+msgstr "Hírlevél feliratkozó űrlap"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Order Form"
+msgstr "Megrendelő űrlap"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Order sent to SalesAutopilot. List: #"
+msgstr "Megrendelés küldése a SalesAutopilotnak. Lista: #"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Orders will be added through this eCommerce form."
+msgstr ""
+"A megrendelések ezen a megrendelő űrlapon keresztül kerülnek rögzítésre."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Orders will be added to this eCommerce list."
+msgstr "A megrendelések ebbe az eCommerce listába kerülnek elmentésre."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid ""
+"SalesAutopilot API password. <a href=\"http://www.salesautopilot.com/"
+"knowledge-base/api/api-key-pairs\" target=\"_blank\">How to get your API "
+"username/password</a>"
+msgstr ""
+"SalesAutopilot API jelszó. <a href=\"https://www.salesautopilot.hu/"
+"tudasbazis/osszetett-rendszerek-keszitese/api-kulcsparok-kezelese\" target="
+"\"_blank\">Itt találja az API felhasználónevét és jelszavát</a>"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid ""
+"SalesAutopilot API username. <a href=\"http://www.salesautopilot.com/"
+"knowledge-base/api/api-key-pairs\" target=\"_blank\">How to get your API "
+"username/password</a>"
+msgstr ""
+"SalesAutopilot API felhasználónév. <a href=\"https://www.salesautopilot.hu/"
+"tudasbazis/osszetett-rendszerek-keszitese/api-kulcsparok-kezelese\" target="
+"\"_blank\">Itt találja az API felhasználónevét és jelszavát</a>"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid ""
+"SalesAutopilot error: Please enter your api username and password <a href="
+"\"%s\">here</a>"
+msgstr ""
+"Hiba: írja be az API felhasználónevét és jelszavát <a href=\"%s\">ide</a>"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Select a form..."
+msgstr "Válasszon egy űrlapot..."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Select a list in order to see its forms."
+msgstr "Válasszon egy listát, hogy megtekinthesse az űrlapjait."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Select a list in order to see its order forms."
+msgstr "Válasszon egy listát, hogy megtekinthesse a megrendelő űrlapjait."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Select a list in order to see its update forms."
+msgstr "Válasszon egy listát, hogy megtekinthesse az adatmódosító űrlapjait."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Select a list..."
+msgstr "Válasszon egy listát..."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Status change will be reported through this update form."
+msgstr "A státusz változás ezen az űrlapon keresztül kerül rögzítésre."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Status update sent to SalesAutopilot. New status: "
+msgstr "Státuszváltozás küldése a SalesAutopilotnak. Új státusz: "
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Subscribe me to the newsletter"
+msgstr "Feliratkozom a hírlevélre!"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Subscription form"
+msgstr "Feliratkozó űrlap"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Unable to load forms from SalesAutopilot: (%s) %s"
+msgstr ""
+"Nem lehetett betölteni az űrlapokat a SalesAutopilot rendszerből: (%s) %s"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Update Form"
+msgstr "Adatmódosító űrlap"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "WooCommerce to SalesAutopilot API call failed: ("
+msgstr "A SalsAutopilot API hívása sikertelen volt: ("
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "eCommerce List"
+msgstr "Megrendelés lista"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Send status updates to SalesAutopilot"
+msgstr "Állapotváltozás elküldése a SalesAutopilotnak"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Send status update"
+msgstr "Állapotváltozás küldése"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Billing Form"
+msgstr "Számlázó űrlap"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid ""
+"Payed status will be set in SalesAutopilot through this update form. This "
+"for should be used to generate bills after payment."
+msgstr ""
+"A fizetett sttátusz ezen az űrlapon keresztül kerül elküldésre a "
+"SalesAutopilotnak. Ezt az űrlapot kell használnia a fizetés utáni számlák "
+"generálásához."
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Swap firstname/lastname order"
+msgstr "Vezetéknév és keresztnév megcserélése"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Swap firstname/lastname order when sending to SalesAutopilot"
+msgstr "Vezetéknév és keresztnév megcserélése SalesAutopilotba küldéskor"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid "Other Status Change Form"
+msgstr "A többi státuszváltást kezelő űrlap"
+
+#. Text in function
+#: class-ss-wc-integration-salesautopilot.php:1
+msgid ""
+"Order status (except the payed) will be set in SalesAutopilot through this "
+"update form."
+msgstr "A státusz változás ezen az űrlapon keresztül kerül rögzítésre."

@@ -1,0 +1,1215 @@
+# Translation of Plugins - All-in-One WP Migration - Stable (latest release) in Hungarian
+# This file is distributed under the same license as the Plugins - All-in-One WP Migration - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-14 16:52:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - All-in-One WP Migration - Stable (latest release)\n"
+
+#: lib/view/reset/index.php:39
+msgid "Reset Hub Demo"
+msgstr "Hub Demo alaphelyzetbe állítása"
+
+#: lib/view/reset/index.php:39
+msgid "Upgrade to Premium "
+msgstr "Frissítés Prémiumra "
+
+#: lib/view/reset/index.php:37
+msgid "Please note, the features displayed below are part of an image showcasing the potential of Reset Hub in its Premium version. To activate and enjoy these advanced features, <a href=\"https://servmask.com/products/unlimited-extension\" title=\"Upgrade to Premium\" target=\"_blank\">upgrade to Premium now</a>! Elevate your website management experience with these exclusive functionalities and priority support."
+msgstr "Figyelem, az alábbiakban megjelenített funkciók egy kép részét képezik, amely a Reset Hub Premium verziójának lehetőségeit mutatja be. Ahhoz, hogy aktiválja és élvezze ezeket a fejlett funkciókat, <a href=\"https://servmask.com/products/unlimited-extension\" title=\"Frissítés Prémiumra\" target=\"_blank\">Frissítsen Prémiumra most</a>! Növelje webhelykezelési élményét ezekkel az exkluzív funkciókkal és elsőbbségi támogatással."
+
+#: lib/view/reset/index.php:35
+msgid "Experience Full Functionality with Premium!"
+msgstr "A prémium teljes funkciójának megtapasztalása!"
+
+#: lib/view/reset/index.php:34
+msgid "Star"
+msgstr "Csillag"
+
+#: lib/controller/class-ai1wm-main-controller.php:674
+#: lib/controller/class-ai1wm-main-controller.php:675
+msgid "Reset Hub"
+msgstr "Hub alaphelyzetbe állítása"
+
+#: lib/view/main/premium-badge.php:31
+msgid "Premium"
+msgstr "Prémium"
+
+#: lib/view/schedules/index.php:109
+msgid "Leverage the simplicity of Dropbox for your backup needs. Direct your scheduled backups to be stored in Dropbox. It's secure, straightforward, and keeps your backups at your fingertips."
+msgstr "Használja ki a Dropbox egyszerűségét biztonsági mentési igényeihez. Irányítsa az ütemezett biztonsági mentéseket a Dropboxban való tárolásra. Biztonságos, egyszerű, és a biztonsági mentések mindig kéznél vannak."
+
+#: lib/view/schedules/index.php:161
+msgid "Tailor your backup schedules to fit the complexity of your WordPress Multisite. Choose to export the entire network or only a selection of subsites according to your requirements. Effortless management for even the most intricate site networks."
+msgstr "Testre szabhatja biztonsági mentési ütemezését a WordPress Multisite összetettségének megfelelően. Válassza ki, hogy a teljes rendszert vagy csak az aloldalak egy részét exportálja az igényeinek megfelelően. Könnyed kezelés még a legbonyolultabb webhelyhálózatok esetében is."
+
+#: lib/view/schedules/index.php:148
+msgid "We've got you covered with an array of supported storage providers. Whether you prefer Box, Amazon S3, WebDav or something else, you can choose the one that fits your needs best. Secure your backups exactly where you want them."
+msgstr "A támogatott tárhelyszolgáltatók széles skálájával gondoskodunk Önről. Akár a Boxot, az Amazon S3-at, a WebDav-et vagy bármi mást részesíti előnyben, kiválaszthatja az igényeinek leginkább megfelelőt. Biztosíthatja biztonsági mentéseit pontosan ott, ahol szeretné."
+
+#: lib/view/schedules/index.php:135
+msgid "Enjoy the flexibility of FTP storage. Direct your scheduled backups to your own FTP server. You'll have full control over your data, providing you with a versatile and private storage solution."
+msgstr "Élvezze az FTP-tárolás rugalmasságát. Irányítsa időzített biztonsági mentéseit saját FTP-kiszolgálójára. Így teljes mértékben Ön rendelkezhet adatai felett, sokoldalú és privát tárolási megoldást biztosítva Önnek."
+
+#: lib/view/schedules/index.php:122
+msgid "Harness the power of OneDrive for your backups. Set up your scheduled backups to be saved directly in your OneDrive. It's secure, integrated with your Microsoft account, and keeps your data readily accessible."
+msgstr "Használja ki a OneDrive erejét biztonsági mentéseihez. Állítsa be ütemezett biztonsági mentéseit úgy, hogy azok közvetlenül a OneDrive fiókjába kerüljenek mentésre. Biztonságos, integrálva van a Microsoft-fiókjába, és adatai könnyen hozzáférhetőek maradnak."
+
+#: lib/view/schedules/index.php:96
+msgid "Benefit from the robustness of Google Drive. Schedule your backups to be saved directly to your Google Drive account. Simple, secure, and integrated into a platform you already use."
+msgstr "Használja ki a Google Drive megbízhatóságát. Ütemezze biztonsági mentéseit közvetlenül a Google Drive-fiókjába történő mentésre. Egyszerű, biztonságos és egy olyan platformba integrált, amelyet már használ."
+
+#: lib/view/schedules/index.php:83
+msgid "Manage your storage effectively with our flexible retention settings. Decide how many backups you want to keep at a time. Old backups are automatically cleared, keeping your storage neat and efficient."
+msgstr "Rugalmas megőrzési beállításainkkal hatékonyan kezelheti tárhelyét. Döntse el, hogy egyszerre hány biztonsági másolatot szeretne megőrizni. A régi biztonsági mentések automatikusan törlődnek, így a tárhelye rendezett és hatékony marad. \t"
+
+#: lib/view/schedules/index.php:75 lib/view/schedules/index.php:80
+msgid "Retention settings"
+msgstr "Megőrzési beállítások"
+
+#: lib/view/schedules/index.php:70
+msgid "Stay informed, not overwhelmed. Tailor your notification preferences to get updates that matter to you. Whether it's the status of each backup, or just critical alerts, control what you want to be notified about."
+msgstr "Legyen tájékozott, ne pedig túlterhelt. Testre szabhatja értesítési beállításait, hogy az Ön számára fontos frissítéseket kapja meg. Akár az egyes biztonsági mentések állapotáról, akár csak a kritikus riasztásokról van szó, szabályozhatja, hogy miről szeretne értesítést kapni."
+
+#: lib/view/schedules/index.php:62 lib/view/schedules/index.php:67
+msgid "Notification settings"
+msgstr "Értesítések beállítása"
+
+#: lib/view/schedules/index.php:57
+msgid "Never worry about forgetting to back up your site again. Choose from various scheduling options, from daily to monthly, and we'll automate the rest. Backups happen like clockwork, giving you peace of mind and a solid safety net"
+msgstr "Soha többé nem kell attól félni, hogy nem készít biztonsági másolatot a webhelyéről. Válasszon a különböző ütemezési lehetőségek közül, a napi és a havi ütemezéstől kezdve, a többit pedig mi automatizáljuk. A biztonsági mentések óramű pontossággal történnek, így nyugalmat és megbízható biztonsági hálót biztosítunk Önnek."
+
+#: lib/view/schedules/index.php:54 lib/view/schedules/index.php:67
+#: lib/view/schedules/index.php:80 lib/view/schedules/index.php:93
+#: lib/view/schedules/index.php:106 lib/view/schedules/index.php:119
+#: lib/view/schedules/index.php:132 lib/view/schedules/index.php:145
+#: lib/view/schedules/index.php:158
+msgid "Enable this feature"
+msgstr "A funkció engedélyezése"
+
+#: lib/view/schedules/index.php:49
+msgid "Backup scheduler"
+msgstr "Biztonsági másolat ütemező"
+
+#: lib/view/schedules/index.php:43 lib/view/schedules/index.php:153
+#: lib/view/schedules/index.php:158
+msgid "Multisite Schedules"
+msgstr "Multisite Ütemtervek"
+
+#: lib/view/schedules/index.php:42 lib/view/schedules/index.php:140
+#: lib/view/schedules/index.php:145
+msgid "More Storage Providers"
+msgstr "További tárhelyszolgáltatók"
+
+#: lib/view/schedules/index.php:41 lib/view/schedules/index.php:127
+#: lib/view/schedules/index.php:132
+msgid "FTP Storage"
+msgstr "FTP Storage"
+
+#: lib/view/schedules/index.php:40 lib/view/schedules/index.php:114
+#: lib/view/schedules/index.php:119
+msgid "OneDrive Storage"
+msgstr "OneDrive Storage"
+
+#: lib/view/schedules/index.php:39 lib/view/schedules/index.php:101
+#: lib/view/schedules/index.php:106
+msgid "Dropbox Storage"
+msgstr "Dropbox Storage"
+
+#: lib/view/schedules/index.php:38 lib/view/schedules/index.php:88
+#: lib/view/schedules/index.php:93
+msgid "Google Drive Storage"
+msgstr "Google Drive Storage"
+
+#: lib/view/schedules/index.php:37
+msgid "Retention Settings"
+msgstr "Megőrzési beállítások"
+
+#: lib/view/schedules/index.php:36
+msgid "Notification Settings"
+msgstr "Értesítési beállítások"
+
+#: lib/view/schedules/index.php:35 lib/view/schedules/index.php:54
+msgid "Backup Scheduler"
+msgstr "Biztonsági mentés ütemező"
+
+#: lib/controller/class-ai1wm-main-controller.php:683
+#: lib/controller/class-ai1wm-main-controller.php:684
+msgid "Schedules"
+msgstr "Ütemezések"
+
+#: lib/controller/class-ai1wm-main-controller.php:948
+msgid "<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Get unlimited</a>"
+msgstr "<a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Korlátlan mennyiségű</a>"
+
+#: functions.php:68 functions.php:110
+msgid "Your archive file name contains invalid characters. It cannot contain: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-name/\" target=\"_blank\">Technical details</a>"
+msgstr "Az archív fájl neve érvénytelen karaktereket tartalmaz. Nem tartalmazhat: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-name/\" target=\"_blank\">Technikai részletek</a>"
+
+#: functions.php:43
+msgid "Your storage directory name contains invalid characters. It cannot contain: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-name/\" target=\"_blank\">Technical details</a>"
+msgstr "A tárolási könyvtár neve érvénytelen karaktereket tartalmaz. Nem tartalmazhat: < > : \" | ? * \\0. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-name/\" target=\"_blank\">Technikai részletek</a>"
+
+#: lib/model/import/class-ai1wm-import-check-encryption.php:59
+msgid "Backup is encrypted. Please provide decryption password: "
+msgstr "A biztonsági mentés titkosított. Kérjük megadni a visszafejtési jelszót:"
+
+#: lib/view/export/advanced-settings.php:63
+msgid "Password-protect and encrypt backups"
+msgstr "Jelszóval védett és titkosított biztonsági mentések"
+
+#: lib/view/export/advanced-settings.php:50
+msgid "A password is required"
+msgstr "Jelszó megadása kötelező"
+
+#: lib/view/export/advanced-settings.php:43
+msgid "Protect this backup with a password"
+msgstr "A biztonsági mentés jelszóval való védelme"
+
+#: lib/model/import/class-ai1wm-import-users.php:64
+msgid "Done preparing users."
+msgstr "A felhasználók felkészítése befejeződött."
+
+#: lib/model/import/class-ai1wm-import-users.php:38
+msgid "Preparing users..."
+msgstr "A felhasználók előkészítése..."
+
+#: lib/model/import/class-ai1wm-import-check-encryption.php:48
+msgid "Importing an encrypted backup is not supported on this server. <a href=\"https://help.servmask.com/knowledgebase/unable-to-encrypt-and-decrypt-backups/\" target=\"_blank\">Technical details</a>"
+msgstr "A titkosított biztonsági másolat importálása nem támogatott ezen a kiszolgálón. <a href=\"https://help.servmask.com/knowledgebase/unable-to-encrypt-and-decrypt-backups/\" target=\"_blank\">Technikai adatok</a>"
+
+#: lib/model/import/class-ai1wm-import-check-decryption-password.php:59
+msgid "The decryption password is not valid."
+msgstr "A visszafejtési jelszó nem érvényes."
+
+#: lib/model/import/class-ai1wm-import-check-decryption-password.php:52
+msgid "Done validating the decryption password."
+msgstr "Kész a visszafejtési jelszó ellenőrzése."
+
+#: lib/controller/class-ai1wm-main-controller.php:937
+#: lib/controller/class-ai1wm-main-controller.php:1144
+#: lib/view/export/advanced-settings.php:55
+msgid "The passwords do not match"
+msgstr "A jelszavak nem egyeznek"
+
+#: lib/controller/class-ai1wm-main-controller.php:936
+#: lib/controller/class-ai1wm-main-controller.php:1143
+#: lib/view/export/advanced-settings.php:53
+msgid "Repeat the password"
+msgstr "A jelszó ismétlése"
+
+#: lib/controller/class-ai1wm-main-controller.php:934
+#: lib/controller/class-ai1wm-main-controller.php:1141
+msgid "Submit"
+msgstr "Elküldés"
+
+#: lib/controller/class-ai1wm-main-controller.php:933
+#: lib/controller/class-ai1wm-main-controller.php:1140
+msgid "Please enter a password to import the file"
+msgstr "Egy jelsző megadása szükséges a fájl importálásához"
+
+#: lib/controller/class-ai1wm-main-controller.php:932
+#: lib/controller/class-ai1wm-main-controller.php:1139
+msgid "The backup is encrypted"
+msgstr "A biztonsági mentés titkosítva van"
+
+#: lib/controller/class-ai1wm-main-controller.php:917
+msgid "Unable to check decryption password. Refresh the page and try again"
+msgstr "Nem lehet ellenőrizni a visszafejtési jelszót. Frissítse az oldalt és próbálja újra"
+
+#: functions.php:2116
+msgid "Unable to decrypt data."
+msgstr "Az adatok visszafejtése nem lehetséges."
+
+#: functions.php:2094
+msgid "Unable to obtain cipher length."
+msgstr "A titkosítás hosszát nem lehet megadni."
+
+#: functions.php:2079
+msgid "Unable to encrypt data."
+msgstr "Az adatok titkosítása nem lehetséges."
+
+#: functions.php:2074
+msgid "Unable to generate random bytes."
+msgstr "Nem sikerült véletlenszerű bájtokat generálni."
+
+#: lib/view/backups/backups-list.php:122
+msgid "List"
+msgstr "Lista"
+
+#: lib/view/backups/backups-list.php:120
+msgid "Show backup content"
+msgstr "A biztonsági mentés tartalmának megjelenítése"
+
+#: lib/view/backups/backups-list.php:113
+msgid "Downloading is not possible because backups directory is not accessible."
+msgstr "A letöltés nem lehetséges, mert a biztonsági mentések könyvtára nem elérhető."
+
+#: lib/controller/class-ai1wm-main-controller.php:1138
+msgid "Reading..."
+msgstr "Olvasás..."
+
+#: lib/controller/class-ai1wm-main-controller.php:1137
+msgid "List the content of the backup"
+msgstr "A biztonsági mentés tartalmának listája"
+
+#: lib/controller/class-ai1wm-main-controller.php:1136
+msgid "Error while downloading file"
+msgstr "Hiba a fájl letöltésekor"
+
+#: lib/controller/class-ai1wm-main-controller.php:1135
+msgid "Error while reading backup content"
+msgstr "Hiba a biztonsági mentés tartalmának olvasása közben"
+
+#: lib/controller/class-ai1wm-main-controller.php:1134
+msgid "Error"
+msgstr "Hiba"
+
+#: lib/controller/class-ai1wm-backups-controller.php:185
+msgid "Unable to list backup content"
+msgstr "A biztonsági mentés tartalmának listázása nem lehetséges"
+
+#: lib/view/backups/backups-list.php:93
+msgid "More"
+msgstr "Tovább"
+
+#: lib/controller/class-ai1wm-main-controller.php:812
+#: lib/controller/class-ai1wm-main-controller.php:1133
+msgid "You have %d backups"
+msgstr "%d biztonsági másolata van"
+
+#: lib/controller/class-ai1wm-main-controller.php:811
+#: lib/controller/class-ai1wm-main-controller.php:1132
+#: lib/view/main/backups.php:31
+msgid "You have %d backup"
+msgid_plural "You have %d backups"
+msgstr[0] "Önnek %d biztonsági mentése van"
+msgstr[1] "Önnek %d biztonsági mentése van"
+
+#: lib/view/updater/error.php:31
+msgid "Error: %s"
+msgstr "Hiba: %s"
+
+#: lib/model/export/class-ai1wm-export-themes.php:80
+#: lib/model/export/class-ai1wm-export-themes.php:119
+msgid "Archiving %d theme files...<br />%d%% complete"
+msgstr "%d sablonfájlok archiválása...<br />%d%% befejeződött."
+
+#: lib/model/export/class-ai1wm-export-enumerate-themes.php:106
+msgid "Done retrieving a list of WordPress theme files."
+msgstr "A WordPress sablonfájlok listájának lekérdezése befejeződött."
+
+#: lib/model/export/class-ai1wm-export-enumerate-themes.php:51
+msgid "Retrieving a list of WordPress theme files..."
+msgstr "A WordPress sablonfájlok listájának lekérdezése..."
+
+#: lib/model/import/class-ai1wm-import-options.php:34
+msgid "Preparing options..."
+msgstr "Opciók előkészítése..."
+
+#: lib/model/export/class-ai1wm-export-enumerate-plugins.php:100
+msgid "Done retrieving a list of WordPress plugin files."
+msgstr "Kész a WordPress bővítmény fájlok listájának lekérdezése."
+
+#: lib/model/export/class-ai1wm-export-enumerate-plugins.php:51
+msgid "Retrieving a list of WordPress plugin files..."
+msgstr "A WordPress bővítmény fájlok listájának a lekérdezése..."
+
+#: lib/view/main/contact-support.php:31
+msgid "Contact Support"
+msgstr "Támogatás"
+
+#: lib/model/import/class-ai1wm-import-validate.php:48
+msgid "The file type that you have tried to import is not compatible with this plugin. Please ensure that your file is a <strong>.wpress</strong> file that was created with the All-in-One WP migration plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "Az importálni kívánt fájltípus nem kompatibilis ezzel a bővítménnyel. Kérjük, ellenőrizze, hogy a fájl a <strong>.wpress</strong> az All-in-One WP migrációs bővítménnyel létrehozott fájl. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Műszaki információk</a>"
+
+#: lib/controller/class-ai1wm-export-controller.php:77
+msgid "Unable to export. Error code: %s. %s"
+msgstr "Nem lehet exportálni. Hibakód: %s. %s"
+
+#: lib/model/import/class-ai1wm-import-permalinks.php:42
+msgid "Done getting WordPress permalinks settings."
+msgstr "Kész a WordPress állandó linkek beállításainak megszerzése."
+
+#: lib/model/import/class-ai1wm-import-permalinks.php:36
+msgid "Getting WordPress permalinks settings..."
+msgstr "A WordPress állandó hivatkozások beállításainak lekérése..."
+
+#: lib/view/import/avada.php:41
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Opcionálisan tekintse át a bővítményt</a>. (új ablakban nyílik meg)"
+
+#: lib/view/import/avada.php:40
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://theme-fusion.com/documentation/avada/installation-maintenance/important-update-information/#clear-caches\" target=\"_blank\">Reset Avada Fusion Builder cache</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://theme-fusion.com/documentation/avada/installation-maintenance/important-update-information/#clear-caches\" target=\"_blank\">Alaphelyzetbe állításhoz nyissa meg a Fusion Builder gyorsítótárát</a>. (új ablakban nyílik meg)<br />"
+
+#: lib/view/import/avada.php:37
+msgid "» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Jelentkezzen be újra az Oxygen Builder rövid kódokba</a>. (új ablakban nyílik meg)<br />"
+
+#: lib/view/import/avada.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />"
+msgstr "» Az engedélyek alapértelmezettre vannak állítva. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Miért?</a> (új ablakban nyílik meg)<br />"
+
+#: lib/view/import/avada.php:33
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Mentse az állandó linkek struktúráját</a>. (új ablakban nyílik meg)<br />"
+
+#: lib/model/export/class-ai1wm-export-enumerate-tables.php:80
+msgid "Done retrieving a list of WordPress database tables."
+msgstr "Kész a WordPress adatbázis-táblák listájának lekérése."
+
+#: lib/model/export/class-ai1wm-export-enumerate-tables.php:46
+msgid "Retrieving a list of WordPress database tables..."
+msgstr "A WordPress adatbázis-táblák listájának lekérése..."
+
+#: lib/view/main/translate.php:31
+msgid "Translate"
+msgstr "Fordítás"
+
+#: lib/view/import/done.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» Az engedélyek alapértelmezettre vannak állítva. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Miért?</a> (új ablakban nyílik meg)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Opcionálisan tekintse át a bővítményt</a>. (új ablakban nyílik meg)"
+
+#: lib/view/import/oxygen.php:31
+msgid "» Permalinks are set to default. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Why?</a> (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» Az engedélyek alapértelmezettre vannak állítva. <a class=\"ai1wm-no-underline\" href=\"https://help.servmask.com/knowledgebase/permalinks-are-set-to-default/\" target=\"_blank\">Miért?</a> (új ablakban nyílik meg)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Jelentkezzen be újra az Oxygen Builder rövid kódokba</a>. (új ablakban nyílik meg<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Opcionálisan tekintse át a bővítményt</a>. (új ablakban nyílik meg)"
+
+#: lib/view/import/oxygen.php:39
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Re-sign Oxygen Builder shortcodes</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Mentse az állandó linkek struktúráját</a>. (új ablakot nyit meg)<br />» <a class=\"ai1wm-no-underline\" href=\"https://oxygenbuilder.com/documentation/other/importing-exporting/#resigning\" target=\"_blank\">Jelentkezzen be újra az Oxygen Builder rövid kódokba</a>. (új ablakot nyit meg)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Opcionálisan tekintse át a bővítményt</a>. (új ablakot nyit meg)"
+
+#: lib/model/export/class-ai1wm-export-media.php:80
+#: lib/model/export/class-ai1wm-export-media.php:119
+msgid "Archiving %d media files...<br />%d%% complete"
+msgstr "A(z) %d médiafájl archiválása...<br />%d%% kész"
+
+#: lib/model/export/class-ai1wm-export-content.php:80
+#: lib/model/export/class-ai1wm-export-content.php:119
+msgid "Archiving %d content files...<br />%d%% complete"
+msgstr "A(z) %d tartalomfájl archiválása...<br />%d%% kész"
+
+#: lib/model/export/class-ai1wm-export-enumerate-content.php:106
+msgid "Done retrieving a list of WordPress content files."
+msgstr "Kész a WordPress tartalomfájlok listájának lekérése."
+
+#: lib/model/export/class-ai1wm-export-enumerate-content.php:51
+msgid "Retrieving a list of WordPress content files..."
+msgstr "A WordPress tartalomfájlok listájának lekérése..."
+
+#: lib/model/export/class-ai1wm-export-enumerate-media.php:93
+msgid "Done retrieving a list of WordPress media files."
+msgstr "Kész a WordPress médiafájlok listájának lekérése."
+
+#: lib/model/export/class-ai1wm-export-enumerate-media.php:51
+msgid "Retrieving a list of WordPress media files..."
+msgstr "A WordPress médiafájlok listájának lekérése..."
+
+#: lib/controller/class-ai1wm-main-controller.php:968
+#: lib/controller/class-ai1wm-main-controller.php:1127
+msgid "There is not enough space available on the disk.<br />Free up %s of disk space."
+msgstr "A lemezen nincs elérhető üres hely.<br />A lemez %s felszabadítása."
+
+#: lib/controller/class-ai1wm-main-controller.php:925
+#: lib/controller/class-ai1wm-main-controller.php:1117
+msgid "I have enough disk space"
+msgstr "Elegendő tárhelyem van."
+
+#: lib/model/import/class-ai1wm-import-options.php:75
+msgid "Done preparing options."
+msgstr "A beállítások előkészítése befejeződött."
+
+#: lib/model/class-ai1wm-compatibility.php:50
+msgid "%s is not the latest version. You must update the plugin before you can use it. "
+msgstr "%s nem a legutóbbi verzió. A használat előtt a bővítményt szükséges frissíteni."
+
+#: lib/view/backups/backups-list.php:46 lib/view/backups/index.php:49
+msgid "Refreshing backup list..."
+msgstr "Mentési lista ismételt frissítése..."
+
+#: lib/view/import/import-permissions.php:34
+msgid "<h3>Site could not be imported</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>A weboldal nem importálható</h3><p>Ellenőrizzük, hogy a <strong>%s</strong> könyvtár a háttértárolón rendelkezik-e teljes hozzáféréssel (írás, olvasás jogok).</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technikai tudnivalók</a></p>"
+
+#: lib/view/export/export-permissions.php:34
+msgid "<h3>Site could not be exported</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>A weboldal nem exportálható</h3><p>Ellenőrizzük, hogy a <strong>%s</strong> könyvtár a háttértárolón rendelkezik-e teljes hozzáféréssel (írás, olvasás jogok).</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technikai tudnivalók</a></p>"
+
+#: lib/view/backups/backups-permissions.php:34
+msgid "<h3>Site could not be restored</h3><p>Please make sure that storage directory <strong>%s</strong> has read and write permissions.</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a></p>"
+msgstr "<h3>A weboldal nem állítható helyre</h3><p>Ellenőrizzük, hogy a <strong>%s</strong> könyvtár a háttértárolón rendelkezik-e teljes hozzáféréssel (írás, olvasás jogok).</p><p><a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technikai tudnivalók</a></p>"
+
+#: lib/view/main/missing-role-capability-notice.php:34
+msgid "All-in-One WP Migration: Your current profile role does not have Export/Import capabilities enabled. <a href=\"https://help.servmask.com/knowledgebase/how-to-add-import-and-export-capabilities-to-wordpress-users/\" target=\"_blank\">Technical details</a>"
+msgstr "All-in-One WP Migration: A jelenlegi profil szerepkörében nincs engedélyezve az Export/Import lehetőségek. <a href=\"https://help.servmask.com/knowledgebase/how-to-add-import-and-export-capabilities-to-wordpress-users/\" target=\"_blank\">Műszaki információk</a>"
+
+#: lib/view/import/button-file.php:31
+msgid "To choose a file please go inside the link and click on the browse button."
+msgstr "Fájl kiválasztásához lépjen a linkre, és kattintson a Tallózás gombra."
+
+#: lib/view/import/done.php:38
+msgid "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Save permalinks structure</a>. (opens a new window)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Optionally, review the plugin</a>. (opens a new window)"
+msgstr "» <a class=\"ai1wm-no-underline\" href=\"%s\" target=\"_blank\">Állandó linkek struktúrájának a mentése</a>. (új ablakot nyit meg)<br />» <a class=\"ai1wm-no-underline\" href=\"https://wordpress.org/support/view/plugin-reviews/all-in-one-wp-migration?rate=5#postform\" target=\"_blank\">Opcionálisan tekintse át a beépülő modult</a>. (új ablakot nyit meg)"
+
+#: lib/controller/class-ai1wm-main-controller.php:1126
+msgid "\"Restore\" functionality is available in a <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">paid extension</a>.<br />You could also download the backup and then use \"Import from file\"."
+msgstr "A „Restore” funkció elérhető a <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">fizetett kiterjesztésen</a>.<br />Letöltheti a biztonsági másolatot, majd használhatja az „Import fájlból” a lehetőséget."
+
+#: lib/controller/class-ai1wm-main-controller.php:922
+#: lib/controller/class-ai1wm-main-controller.php:1113
+msgid "Finish"
+msgstr "A művelet befejeződött"
+
+#: lib/view/backups/backups-list.php:64
+msgid "Click to set a label for this backup"
+msgstr "Kattintson a címke beállításához a biztonsági mentéshez"
+
+#: lib/model/export/class-ai1wm-export-download.php:64
+msgid "<a href=\"%s\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-button-download\" title=\"%s\" download=\"%s\"><span>Download %s</span><em>Size: %s</em></a>"
+msgstr "<a href=\"%s\" class=\"ai1wm-button-green ai1wm-emphasize ai1wm-button-download\" title=\"%s\" download=\"%s\"><span>Letöltés %s</span><em>Méret: %s</em></a>"
+
+#: lib/controller/class-ai1wm-export-controller.php:92
+msgid "Unable to export: %s"
+msgstr "Az exportálás nem sikerült: %s"
+
+#: lib/controller/class-ai1wm-import-controller.php:94
+msgid "Unable to import: %s"
+msgstr "Az importálás nem sikerült: %s"
+
+#: lib/controller/class-ai1wm-import-controller.php:77
+#: lib/controller/class-ai1wm-import-controller.php:85
+msgid "Unable to import. Error code: %s. %s"
+msgstr "Az importálás nem sikerült. Hiba kód: %s. %s"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:48
+msgid "The import process will overwrite your website including the database, media, plugins, and themes. Are you sure to proceed?"
+msgstr "Az importálási folyamat felülírja a webhelyet, beleértve az adatbázist, az adathordozókat, a beépülő modulokat és a sablonokat. Biztosan folytatja?"
+
+#: lib/model/import/class-ai1wm-import-validate.php:115
+msgid "Please make sure that your file was exported using <strong>All-in-One WP Migration</strong> plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "Győződjön meg arról, hogy a fájlt a következővel exportálta: <strong>All-in-One WP Migration</strong> bővítmény. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Műszaki információk</a>"
+
+#: lib/model/import/class-ai1wm-import-validate.php:92
+msgid "The archive file is corrupted. Follow <a href=\"https://help.servmask.com/knowledgebase/corrupted-archive/\" target=\"_blank\">this article</a> to resolve the problem."
+msgstr "Az archív fájl sérült. Kövesse <a href=\"https://help.servmask.com/knowledgebase/corrupted-archive/\" target=\"_blank\">ezt a cikket,</a> hogy megoldja a problémát."
+
+#: lib/model/import/class-ai1wm-import-validate.php:37
+msgid "Your PHP is 32-bit. In order to import your file, please change your PHP version to 64-bit and try again. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "A PHP 32 bites. A fájl importálásához módosítsa a PHP verzióját 64 bitesre, és próbálja újra. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Műszaki információk</a>"
+
+#: lib/model/import/class-ai1wm-import-confirm.php:54
+msgid "The import process will overwrite your website including the database, media, plugins, and themes. Please ensure that you have a backup of your data before proceeding to the next step."
+msgstr "Az importálási folyamat felülírja a webhelyet, beleértve az adatbázist, a médiát, a beépülő modulokat és a sablonokat. A következő lépés folytatása előtt győződjön meg róla, hogy rendelkezik biztonsági másolattal az adatokról."
+
+#: lib/model/class-ai1wm-compatibility.php:52
+msgid "<strong>%s</strong> is not the latest version. You must <a href=\"%s\">update the plugin</a> before you can use it. <br />"
+msgstr "<strong>%s</strong> nem a legújabb verzió. A használat előtt <a href=\"%s\">frissítenie kell a bővítményt.</a> <br />"
+
+#: lib/controller/class-ai1wm-main-controller.php:960
+msgid "The file that you are trying to import is over the maximum upload file size limit of <strong>%s</strong>.<br />You can remove this restriction by purchasing our <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Unlimited Extension</a>."
+msgstr "Az importálni kívánt fájl meghaladja a feltöltési fájl maximális méretkorlátját <strong>%s</strong>.<br />Ezt a korlátozást a mi termékünk megvásárlásával távolíthatja el <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Korlátlan kiterjesztés</a>."
+
+#: lib/controller/class-ai1wm-main-controller.php:953
+#: lib/model/import/class-ai1wm-import-upload.php:55
+msgid "The file type that you have tried to upload is not compatible with this plugin. Please ensure that your file is a <strong>.wpress</strong> file that was created with the All-in-One WP migration plugin. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Technical details</a>"
+msgstr "A feltölteni próbált fájltípus nem kompatibilis ezzel a bővítménnyel. Kérjük, ellenőrízze, hogy a fájl a <strong>.wpress</strong> az All-in-One WP migrációs beépülő modullal létrehozott fájl. <a href=\"https://help.servmask.com/knowledgebase/invalid-backup-file/\" target=\"_blank\">Műszaki információk</a>"
+
+#: lib/view/main/multisite-notice.php:34
+msgid "WordPress Multisite is supported via our All-in-One WP Migration Multisite Extension. You can get a copy of it here"
+msgstr "A WordPress Multisite az All-in-One WP Migration Multisite kiterjesztésen keresztül támogatott. Itt kaphat egy példányt"
+
+#: lib/view/main/backups-htaccess-notice.php:35
+#: lib/view/main/backups-index-html-notice.php:35
+#: lib/view/main/backups-index-php-notice.php:35
+#: lib/view/main/backups-robots-txt-notice.php:35
+#: lib/view/main/backups-webconfig-notice.php:35
+#: lib/view/main/storage-index-html-notice.php:35
+#: lib/view/main/storage-index-php-notice.php:35
+#: lib/view/main/wordpress-htaccess-notice.php:35
+msgid "All-in-One WP Migration is not able to create <strong>%s</strong> file. Try to change permissions of the parent folder or send us an email at <a href=\"mailto:support@servmask.com\">support@servmask.com</a> for assistance."
+msgstr "Az All-in-One WP Migration nem képes <strong>%s</strong> fájl létrehozására. Próbálja meg módosítani a szülő mappa engedélyeit, vagy küldjön nekünk e-mailt a <a href=\"mailto:support@servmask.com\">support@servmask.com</a> segítségért."
+
+#: lib/view/main/backups-path-notice.php:35
+#: lib/view/main/storage-path-notice.php:35
+msgid "All-in-One WP Migration is not able to create <strong>%s</strong> folder. You will need to create this folder and grant it read/write/execute permissions (0777) for the All-in-One WP Migration plugin to function properly."
+msgstr "Az All-in-One WP Migration nem képes <strong>%s</strong> mappát készíteni. Létre kell hoznia ezt a mappát, és engedélyezni kell az olvasási/írási/végrehajtási engedélyeket (0777), hogy az All-in-One WP Migration bővítmény megfelelően működjön."
+
+#: lib/view/import/pro.php:36
+msgid "or"
+msgstr "vagy"
+
+#: lib/view/import/pro.php:35
+msgid "How-to: Increase maximum upload file size"
+msgstr "Útmutató: A feltöltési fájl maximális méretének a növelése"
+
+#: lib/view/import/pro.php:32
+msgid "Maximum upload file size: <strong>%s</strong>."
+msgstr "Maximálisan feltölthető fájl méret: <strong>%s</strong>."
+
+#: lib/model/import/class-ai1wm-import-upload.php:79
+msgid "The file is too large for this server."
+msgstr "A fájl túl nagy ennek a szervernek."
+
+#: lib/controller/class-ai1wm-main-controller.php:944
+msgid "<a href=\"https://help.servmask.com/2018/10/27/how-to-increase-maximum-upload-file-size-in-wordpress/\" target=\"_blank\">How-to: Increase maximum upload file size</a> or "
+msgstr "<a href=\"https://help.servmask.com/2018/10/27/how-to-increase-maximum-upload-file-size-in-wordpress/\" target=\"_blank\">Útmutató: A feltöltési fájl maximális méretének a növelése</a> vagy "
+
+#: lib/controller/class-ai1wm-main-controller.php:939
+msgid "Your file exceeds the maximum upload size for this site: <strong>%s</strong><br />%s%s"
+msgstr "A fájl meghaladja a webhely maximális feltöltési méretét: <strong>%s</strong><br />%s%s"
+
+#: lib/view/import/import-buttons.php:39
+msgid "Drag & Drop a backup to import it"
+msgstr "Húzd és dobd ide a bizonsági mentést az importáláshoz"
+
+#: lib/model/export/class-ai1wm-export-database.php:77
+#: lib/model/export/class-ai1wm-export-database.php:185
+msgid "Exporting database...<br />%d%% complete<br />%s records saved"
+msgstr "Adatbázis exportálása...<br />%d%% kész<br />%s rekord mentve"
+
+#: lib/controller/class-ai1wm-main-controller.php:1125
+msgid "Restoring a backup is available via Unlimited extension. <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Get it here</a>"
+msgstr "A biztonsági másolat visszaállítása korlátlan kiterjesztésen keresztül érhető el. <a href=\"https://servmask.com/products/unlimited-extension\" target=\"_blank\">Szerezze meg itt</a>"
+
+#: lib/controller/class-ai1wm-main-controller.php:271
+msgid "All-in-One WP Migration Command"
+msgstr "All-in-One WP Migration parancs"
+
+#: lib/controller/class-ai1wm-main-controller.php:799
+#: lib/controller/class-ai1wm-main-controller.php:1097
+#: lib/model/export/class-ai1wm-export-init.php:43
+msgid "Preparing to export..."
+msgstr "Felkészülés az exportra ..."
+
+#: lib/view/backups/backups-list.php:82
+msgid "%s ago"
+msgstr "%s ezelőtt"
+
+#: lib/controller/class-ai1wm-main-controller.php:1264
+msgid "Your purchase ID is invalid, please <a href=\"mailto:support@servmask.com\">contact us</a>"
+msgstr "A vásárlási azonosító érvénytelen, kérjük<a href=\"mailto:support@servmask.com\">vegye fel velünk a kapcsolatot</a>"
+
+#: lib/controller/class-ai1wm-main-controller.php:1124
+msgid "Are you sure you want to delete this file?"
+msgstr "Biztosan törölni szeretné ezt a fájlt?"
+
+#: lib/controller/class-ai1wm-main-controller.php:927
+#: lib/controller/class-ai1wm-main-controller.php:1119
+msgid "Please do not close this browser window or your import will fail"
+msgstr "Kérjük, ne csukd be ezt a böngésző ablakot, különben az importálás nem fog sikerülni."
+
+#: lib/controller/class-ai1wm-main-controller.php:926
+#: lib/controller/class-ai1wm-main-controller.php:1118
+msgid "Continue"
+msgstr "Folytatás"
+
+#: lib/controller/class-ai1wm-main-controller.php:924
+#: lib/controller/class-ai1wm-main-controller.php:1116
+msgid "Proceed"
+msgstr "Tovább"
+
+#: lib/controller/class-ai1wm-main-controller.php:923
+#: lib/controller/class-ai1wm-main-controller.php:1115
+msgid "Stop import"
+msgstr "Importálás megállítása"
+
+#: lib/controller/class-ai1wm-main-controller.php:920
+#: lib/controller/class-ai1wm-main-controller.php:1112
+msgid "Please wait, stopping the import..."
+msgstr "Várj, az importálás megszakítás alatt van..."
+
+#: lib/controller/class-ai1wm-main-controller.php:919
+#: lib/controller/class-ai1wm-main-controller.php:1111
+msgid "Unable to stop the import. Refresh the page and try again"
+msgstr "Nem lehet megállítani az importálást. Frissítse az oldalt, és próbálja újra"
+
+#: lib/controller/class-ai1wm-main-controller.php:918
+#: lib/controller/class-ai1wm-main-controller.php:1110
+msgid "Unable to prepare blogs on import. Refresh the page and try again"
+msgstr "Nem lehet blogokat készíteni importáláskor. Frissítse az oldalt, és próbálja újra"
+
+#: lib/controller/class-ai1wm-main-controller.php:916
+#: lib/controller/class-ai1wm-main-controller.php:1109
+msgid "Unable to confirm the import. Refresh the page and try again"
+msgstr "Nem sikerült megerősíteni az importálást. Frissítse az oldalt, és próbálja újra"
+
+#: lib/controller/class-ai1wm-main-controller.php:915
+#: lib/controller/class-ai1wm-main-controller.php:1108
+msgid "Unable to start the import. Refresh the page and try again"
+msgstr "Nem sikerült elkezdeni az importálást. Az oldal fríssítése után próbálja újra"
+
+#: lib/controller/class-ai1wm-main-controller.php:912
+#: lib/controller/class-ai1wm-main-controller.php:1105
+msgid "You are about to stop importing your website, are you sure?"
+msgstr "Leállítja a webhely importálását, biztos ebben?"
+
+#: lib/controller/class-ai1wm-main-controller.php:729
+#: lib/controller/class-ai1wm-main-controller.php:810
+#: lib/controller/class-ai1wm-main-controller.php:931
+#: lib/controller/class-ai1wm-main-controller.php:1123
+msgid "Thanks for submitting your request!"
+msgstr "Köszönjük, hogy elküldte kérését!"
+
+#: lib/controller/class-ai1wm-main-controller.php:728
+#: lib/controller/class-ai1wm-main-controller.php:809
+#: lib/controller/class-ai1wm-main-controller.php:930
+#: lib/controller/class-ai1wm-main-controller.php:1122
+msgid "Thanks for submitting your feedback!"
+msgstr "Köszönjük visszajelzését!"
+
+#: lib/controller/class-ai1wm-main-controller.php:727
+#: lib/controller/class-ai1wm-main-controller.php:808
+#: lib/controller/class-ai1wm-main-controller.php:929
+#: lib/controller/class-ai1wm-main-controller.php:1121
+msgid "How may we help you?"
+msgstr "Hogyan segíthetünk?"
+
+#: lib/controller/class-ai1wm-main-controller.php:726
+#: lib/controller/class-ai1wm-main-controller.php:807
+#: lib/controller/class-ai1wm-main-controller.php:928
+#: lib/controller/class-ai1wm-main-controller.php:1120
+msgid "Leave plugin developers any feedback here"
+msgstr "Itt hagyhat visszajelzést a bővítmény fejlesztőknek"
+
+#: lib/controller/class-ai1wm-main-controller.php:806
+#: lib/controller/class-ai1wm-main-controller.php:1104
+msgid "Stop export"
+msgstr "Exportálás megállítása"
+
+#: lib/controller/class-ai1wm-main-controller.php:805
+#: lib/controller/class-ai1wm-main-controller.php:921
+#: lib/controller/class-ai1wm-main-controller.php:1103
+#: lib/controller/class-ai1wm-main-controller.php:1114
+msgid "Close"
+msgstr "Bezár"
+
+#: lib/controller/class-ai1wm-main-controller.php:804
+#: lib/controller/class-ai1wm-main-controller.php:1102
+msgid "Please wait, stopping the export..."
+msgstr "Várj, az exportálás megszakítás alatt van..."
+
+#: lib/controller/class-ai1wm-main-controller.php:803
+#: lib/controller/class-ai1wm-main-controller.php:1101
+msgid "Unable to stop the export. Refresh the page and try again"
+msgstr "Nem lehet leállítani az exportálást. Frissítse az oldalt, és próbálja újra"
+
+#: lib/controller/class-ai1wm-main-controller.php:802
+#: lib/controller/class-ai1wm-main-controller.php:1100
+msgid "Unable to run the export. Refresh the page and try again"
+msgstr "Nem sikerült futtatni az exportálást. Frissítse az oldalt, és próbálja újra"
+
+#: lib/controller/class-ai1wm-main-controller.php:801
+#: lib/controller/class-ai1wm-main-controller.php:1099
+msgid "Unable to start the export. Refresh the page and try again"
+msgstr "Nem lehet elindítani az exportálást. Frissítse az oldalt, és próbálja újra"
+
+#: lib/controller/class-ai1wm-main-controller.php:798
+#: lib/controller/class-ai1wm-main-controller.php:1096
+msgid "You are about to stop exporting your website, are you sure?"
+msgstr "Le akarja állítani a webhelye exportálását, biztos ebben?"
+
+#: functions.php:1695
+msgid "Unable to authenticate the secret key. <a href=\"https://help.servmask.com/knowledgebase/invalid-secret-key/\" target=\"_blank\">Technical details</a>"
+msgstr "Nem sikerült hitelesíteni a titkos kulcsot. <a href=\"https://help.servmask.com/knowledgebase/invalid-secret-key/\" target=\"_blank\">Műszaki információk</a>"
+
+#: functions.php:1561
+msgid "Unable to get current pointer position of %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "Nem sikerült lekérni a(z) %s aktuális mutatóhelyét. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technikai információk</a>"
+
+#: functions.php:1544
+msgid "Unable to seek to offset %d on %s. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Technical details</a>"
+msgstr "Nem lehet ellensúlyozni a(z) %d %s értékeket. <a href=\"https://help.servmask.com/knowledgebase/php-32bit/\" target=\"_blank\">Műszaki információk</a>"
+
+#: functions.php:1522
+msgid "Unable to read file: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "A %s fájl olvasása nem sikerült. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technikai részletek (angol)</a>"
+
+#: functions.php:1502
+msgid "Out of disk space. Unable to write to: %s. <a href=\"https://help.servmask.com/knowledgebase/out-of-disk-space/\" target=\"_blank\">Technical details</a>"
+msgstr "Elfogyott a lemezterület. Nem lehet írni a következőnek: %s. <a href=\"https://help.servmask.com/knowledgebase/out-of-disk-space/\" target=\"_blank\">Műszaki információk</a>"
+
+#: functions.php:1496 functions.php:1580
+msgid "Unable to write to: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "Nem lehet írni a következőnek: %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Műszaki információk</a>"
+
+#: functions.php:1477
+msgid "Unable to open %s with mode %s. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technical details</a>"
+msgstr "A %s fájlt nem sikerült %s móddal megnyitni. <a href=\"https://help.servmask.com/knowledgebase/invalid-file-permissions/\" target=\"_blank\">Technikai részletek (angol)</a>"
+
+#: functions.php:63 functions.php:105
+msgid "Unable to locate archive path. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Technical details</a>"
+msgstr "Nem található az archív elérési útja. <a href=\"https://help.servmask.com/knowledgebase/invalid-archive-path/\" target=\"_blank\">Műszaki információk</a>"
+
+#: functions.php:38
+msgid "Unable to locate storage path. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-path/\" target=\"_blank\">Technical details</a>"
+msgstr "Nem található a tárolási útvonal. <a href=\"https://help.servmask.com/knowledgebase/invalid-storage-path/\" target=\"_blank\">Műszaki információk</a>"
+
+#: lib/view/common/leave-feedback.php:59
+msgid "I agree that by filling in the contact form with my data, I authorize All-in-One WP Migration to use my <strong>email</strong> to reply to my requests for information. <a href=\"https://www.iubenda.com/privacy-policy/946881\" target=\"_blank\">Privacy policy</a>"
+msgstr "Egyetértek azzal, hogy a kapcsolattartási űrlap kitöltésével az adataimmal engedélyezem az All-in-One WP Migration számára, hogy az <strong>e-mail</strong> segítségével válaszoljon az információkéréseimre. <a href=\"https://www.iubenda.com/privacy-policy/946881\" target=\"_blank\">Adatvédelmi irányelvek</a>"
+
+#: lib/model/export/class-ai1wm-export-config.php:180
+msgid "Done preparing configuration file."
+msgstr "Kész a konfigurációs fájl előkészítése."
+
+#: lib/model/export/class-ai1wm-export-config.php:36
+msgid "Preparing configuration file..."
+msgstr "A konfigurációs fájl előkészítése..."
+
+#: lib/model/export/class-ai1wm-export-config-file.php:73
+msgid "Done archiving configuration file."
+msgstr "Kész a konfigurációs fájl archiválása."
+
+#: lib/model/export/class-ai1wm-export-config-file.php:61
+#: lib/model/export/class-ai1wm-export-config-file.php:96
+msgid "Archiving configuration file...<br />%d%% complete"
+msgstr "A konfigurációs fájl archiválása...<br />%d%% kész"
+
+#: lib/view/backups/backups-list.php:88
+msgid "2GB+"
+msgstr "2GB+"
+
+#: lib/model/import/class-ai1wm-import-validate.php:119
+msgid "Done unpacking archive."
+msgstr "Az archívált file kicsomagolása kész."
+
+#: lib/model/import/class-ai1wm-import-validate.php:82
+#: lib/model/import/class-ai1wm-import-validate.php:139
+msgid "Unpacking archive...<br />%d%% complete"
+msgstr "Archívum kicsomagolása...<br />%d%% kész"
+
+#: lib/model/export/class-ai1wm-export-database-file.php:78
+msgid "Done archiving database."
+msgstr "Kész az adatbázis archiválása."
+
+#: lib/model/export/class-ai1wm-export-database-file.php:66
+#: lib/model/export/class-ai1wm-export-database-file.php:101
+msgid "Archiving database...<br />%d%% complete"
+msgstr "Adatbázis archiválás...<br />%d%% elkészült"
+
+#: lib/model/import/class-ai1wm-import-database.php:78
+#: lib/model/import/class-ai1wm-import-database.php:1007
+msgid "Restoring database...<br />%d%% complete"
+msgstr "Adatbázis helyreállítás<br />%d%% elkészült"
+
+#: lib/model/export/class-ai1wm-export-compatibility.php:35
+#: lib/model/import/class-ai1wm-import-compatibility.php:35
+msgid "Checking extensions compatibility..."
+msgstr "Kiterjesztések kompatibilitásának ellenőrzése..."
+
+#: lib/model/import/class-ai1wm-import-database.php:987
+msgid "Done restoring database."
+msgstr "Kész az adatbázis visszaállítása."
+
+#: lib/controller/class-ai1wm-main-controller.php:913
+#: lib/controller/class-ai1wm-main-controller.php:1106
+msgid "Preparing to import..."
+msgstr "Előkészítés az importáláshoz..."
+
+#: lib/controller/class-ai1wm-main-controller.php:1374
+msgid "Monthly"
+msgstr "Havi"
+
+#: lib/controller/class-ai1wm-main-controller.php:1370
+msgid "Weekly"
+msgstr "Heti"
+
+#: lib/view/export/advanced-settings.php:97
+msgid "Do <strong>not</strong> export must-use plugins (files)"
+msgstr "<strong>Ne exportáljuk</strong> a használatra javasolt (jó ha van) bővítményeket (fájlokat)"
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:61
+msgid "Done activating mu-plugins."
+msgstr "Kész a mu-bővítmények aktiválása."
+
+#: lib/model/import/class-ai1wm-import-mu-plugins.php:35
+msgid "Activating mu-plugins..."
+msgstr "A mu-bővítmények aktiválása..."
+
+#: lib/view/export/advanced-settings.php:121
+msgid "Do <strong>not</strong> replace email domain (sql)"
+msgstr "<strong>Ne</strong> cseréld ki az e-mail domaint (sql)"
+
+#: lib/model/import/class-ai1wm-import-upload.php:91
+msgid "Unrecognized error %s during upload."
+msgstr "Ismeretlen hiba %s feltöltése közben."
+
+#: lib/model/import/class-ai1wm-import-upload.php:88
+msgid "A PHP extension stopped the file upload."
+msgstr "Egy PHP kiterjesztés megállította a fájl feltöltést."
+
+#: lib/model/import/class-ai1wm-import-upload.php:85
+msgid "Failed to write file to disk."
+msgstr "Nem sikerült lemezre írni a fájlt."
+
+#: lib/model/import/class-ai1wm-import-upload.php:82
+msgid "Missing a temporary folder."
+msgstr "Hiányzó ideiglenes mappa."
+
+#: lib/model/import/class-ai1wm-import-upload.php:70
+msgid "Unable to upload the file because %s"
+msgstr "Nem sikerült feltölteni a fájlt, mert %s"
+
+#: lib/model/import/class-ai1wm-import-upload.php:42
+msgid "Missing tmp_name in upload file."
+msgstr "Hiányzó tmp_név a feltöltendő fájlnál."
+
+#: lib/model/import/class-ai1wm-import-upload.php:38
+msgid "Missing error key in upload file."
+msgstr "Hiányzó hiba kulcs a feltöltendő fájlnál."
+
+#: lib/model/import/class-ai1wm-import-upload.php:34
+msgid "Missing upload file."
+msgstr "Hiányzó feltöltendő fájl."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:150
+msgid "Done preparing blogs."
+msgstr "Készen áll a blogok elkészítésére."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:140
+msgid "Unable to import <strong>WordPress Network</strong> into WordPress <strong>Single</strong> site."
+msgstr "Nem sikerült importálni a <strong>WordPress Network</strong> alkalmazást a WordPress <strong>Single</strong> webhelyre."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:137
+msgid "At least <strong>one WordPress</strong> site should be presented in the archive."
+msgstr "Legalább <strong>egy WordPress</strong> webhelyet be kell mutatni az archívumban."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:134
+msgid "The archive should contain <strong>Single WordPress</strong> site! Please revisit your export settings."
+msgstr "Az archívumnak tartalmaznia kell a <strong>Single WordPress</strong> site oldalt! Kérjük, nézze át újra az exportálási beállításokat."
+
+#: lib/model/import/class-ai1wm-import-blogs.php:35
+msgid "Preparing blogs..."
+msgstr "Blogok előkészítése..."
+
+#: lib/model/class-ai1wm-feedback.php:78
+msgid "Something went wrong: %s"
+msgstr "Valami elromlott: %s"
+
+#: lib/model/class-ai1wm-feedback.php:61
+msgid "Please accept feedback term conditions."
+msgstr "Kérjük, fogadd el a visszajelzés feltételeit."
+
+#: lib/model/class-ai1wm-feedback.php:56
+msgid "Please enter comments in the text area."
+msgstr "Kérjük, a megjegyzéseket írd a szöveg mezőbe."
+
+#: lib/model/class-ai1wm-feedback.php:46
+msgid "Your email is not valid."
+msgstr "Az e-mail címed nem érvényes."
+
+#: lib/model/class-ai1wm-feedback.php:51
+msgid "Feedback type is not valid."
+msgstr "Visszajelzés típusa érvénytelen."
+
+#: lib/view/updater/modal.php:55
+msgid "There is an update available. To update, you must enter your"
+msgstr "Van elérhető frissítés. A frissítéshez meg kell adnia"
+
+#: lib/view/updater/modal.php:48
+msgid "Discard"
+msgstr "Eldobás"
+
+#: lib/view/updater/modal.php:46
+msgid "Save"
+msgstr "Metés"
+
+#: lib/view/updater/modal.php:42
+msgid "here"
+msgstr "itt"
+
+#: lib/view/updater/modal.php:41
+msgid "Don't have a Purchase ID? You can find your Purchase ID"
+msgstr " Nincs vásárlási azonosítója? Megtalálhatja vásárlási azonosítóját"
+
+#: lib/view/updater/modal.php:37 lib/view/updater/modal.php:56
+msgid "Purchase ID"
+msgstr "Vásárlási azonosító"
+
+#: lib/view/updater/modal.php:34
+msgid "To update your plugin/extension to the latest version, please fill your Purchase ID below."
+msgstr "A bővítmény/kiterjesztés legújabb verzióra történő frissítéséhez kérjük, töltse ki az alábbi vásárlási azonosítót."
+
+#: lib/view/updater/modal.php:33
+msgid "Enter your Purchase ID"
+msgstr "Írd be a vásárlási azonosítót"
+
+#: lib/controller/class-ai1wm-main-controller.php:1263
+#: lib/view/updater/check.php:31
+msgid "Check for updates"
+msgstr "Frissítések ellenőrzése"
+
+#. Author of the plugin
+#: all-in-one-wp-migration.php
+msgid "ServMask"
+msgstr "ServMask"
+
+#. Description of the plugin
+#: all-in-one-wp-migration.php
+msgid "Migration tool for all your blog data. Import or Export your blog content with a single click."
+msgstr "Egy migrációs eszköz a blogodhoz. Egyetlen kattintással importálhatod vagy exportálhatod a blogod tartalmát."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: all-in-one-wp-migration.php
+msgid "https://servmask.com/"
+msgstr "https://servmask.com/"
+
+#. Plugin Name of the plugin
+#: all-in-one-wp-migration.php
+msgid "All-in-One WP Migration"
+msgstr "All-in-One WP Migrációs eszköz"
+
+#: lib/view/import/index.php:37
+msgid "Import Site"
+msgstr "Weboldal importálása"
+
+#: lib/view/import/pro.php:39
+msgid "Get unlimited"
+msgstr "Korlátlan használata"
+
+#: lib/view/import/import-buttons.php:43
+msgid "Import From"
+msgstr "Importálás Innen"
+
+#: lib/view/export/index.php:37
+msgid "Export Site"
+msgstr "Weboldal exportálása"
+
+#: lib/view/export/help-section.php:51
+msgid "Once the file is successfully downloaded on your computer, you can import it to any of your WordPress sites."
+msgstr "Ha a fájlt sikerült letöltened a számítógépedre, akkor bármelyik WordPress oldaladra importálhatod."
+
+#: lib/view/export/help-section.php:47
+msgid "Press \"Export\" button and the site archive file will pop up in your browser."
+msgstr "Nyomja meg az 'Export' gombot, és a webhelyarchívum fájl megjelenik a böngészőjében."
+
+#: lib/view/export/help-section.php:43
+msgid "In the advanced settings section you can configure more precisely the way of exporting."
+msgstr "A speciális beállítások szakaszban pontosabban konfigurálhatja az exportálás módját."
+
+#: lib/view/export/help-section.php:37
+msgid "Quick hints"
+msgstr "Gyors tippek"
+
+#: lib/view/export/help-section.php:33
+msgid "You can then use the import functionality provided by this plugin to import the zipped file onto any other WordPress sites that you have administrator access to."
+msgstr "Ezután a bővítmény által biztosított importálási funkcióval importálhatja a tömörített fájlt bármely más WordPress-webhelyre, melyhez rendszergazdai hozzáféréssel rendelkezik."
+
+#: lib/view/export/help-section.php:32
+msgid "This screen allows you to export database, media files, themes and plugins as one zipped file."
+msgstr "Ez a képernyő lehetővé teszi adatbázis, média fájlok, sablonok és beépülő modulok exportálását egy tömörített fájlként."
+
+#: lib/view/export/find-replace.php:52
+msgid "Add"
+msgstr "Hozzáad"
+
+#: lib/view/export/find-replace.php:39
+msgid "in the database"
+msgstr "az adatbázisban"
+
+#: lib/view/export/find-replace.php:38
+msgid "<another-text>"
+msgstr "<another-text>"
+
+#: lib/view/export/find-replace.php:37 lib/view/export/find-replace.php:45
+msgid "Replace with"
+msgstr "Csere erre"
+
+#: lib/view/export/find-replace.php:36
+msgid "<text>"
+msgstr "<text>"
+
+#: lib/view/export/find-replace.php:35 lib/view/export/find-replace.php:44
+msgid "Find"
+msgstr "Keresés"
+
+#: lib/view/export/export-buttons.php:35
+msgid "Export To"
+msgstr "Exportálás"
+
+#: lib/view/export/button-file.php:31 lib/view/import/button-file.php:32
+msgid "File"
+msgstr "Fájl"
+
+#: lib/view/export/advanced-settings.php:115
+msgid "Do <strong>not</strong> export database (sql)"
+msgstr "<strong>Ne</strong> exportáljon adatbázist (sql)"
+
+#: lib/view/export/advanced-settings.php:104
+msgid "Do <strong>not</strong> export plugins (files)"
+msgstr "<strong>Ne</strong> exportáljon bővítmény (fájlokat)"
+
+#: lib/view/export/advanced-settings.php:88
+msgid "Do <strong>not</strong> export themes (files)"
+msgstr "<strong>Ne</strong> exportáljon sablon (fájlokat)"
+
+#: lib/view/export/advanced-settings.php:82
+msgid "Do <strong>not</strong> export media library (files)"
+msgstr "<strong>Ne</strong> exportálja a média könyvtárat (fájlokat)"
+
+#: lib/view/export/advanced-settings.php:76
+msgid "Do <strong>not</strong> export post revisions"
+msgstr "<strong>Ne</strong> exportáljon begyjegyzés változatokat "
+
+#: lib/view/export/advanced-settings.php:70
+msgid "Do <strong>not</strong> export spam comments"
+msgstr "<strong>Ne</strong> exportáljon spam hozzászólásokat"
+
+#: lib/view/export/advanced-settings.php:36
+msgid "(click to expand)"
+msgstr "(kattintson a kibontáshoz)"
+
+#: lib/view/export/advanced-settings.php:35
+msgid "Advanced options"
+msgstr "Haladó beállítások"
+
+#: lib/view/common/share-buttons.php:63
+msgid "Tweet"
+msgstr "Tweet"
+
+#: lib/view/common/leave-feedback.php:64
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: lib/view/common/leave-feedback.php:67
+msgid "Send"
+msgstr "Küldés"
+
+#: lib/view/common/leave-feedback.php:54
+msgid "Leave plugin developers any feedback here.."
+msgstr "Itt hagyhat visszajelzést a bővítmény fejlesztőknek.."
+
+#: lib/view/common/leave-feedback.php:51
+msgid "Enter your email address.."
+msgstr "Add meg az e-mail címed..."
+
+#: lib/view/common/leave-feedback.php:44
+msgid "I need help with this plugin"
+msgstr "Segítségre van szükségem a bővítménnyel kapcsolatban"
+
+#: lib/view/common/leave-feedback.php:37
+msgid "I have ideas to improve this plugin"
+msgstr "Van fejlesztési ötletem a bővítménnyel kapcsolatban"
+
+#: lib/controller/class-ai1wm-main-controller.php:935
+#: lib/controller/class-ai1wm-main-controller.php:1142
+#: lib/view/export/advanced-settings.php:48
+msgid "Enter a password"
+msgstr "Jelszó megadása"
+
+#: lib/view/common/sidebar-right.php:39
+msgid "Leave Feedback"
+msgstr "Visszajelzés"
+
+#: lib/view/backups/index.php:57
+msgid "Create backup"
+msgstr "Biztonsági mentés készítése"
+
+#: lib/view/backups/index.php:52
+msgid "There are no backups available at this time, why not create a new one?"
+msgstr "Jelenleg nincs elérhető biztonsági mentés. Miért nem csinálsz egyet most?"
+
+#: lib/view/backups/backups-list.php:127 lib/view/backups/backups-list.php:129
+msgid "Delete"
+msgstr "Törlés"
+
+#: lib/view/backups/backups-list.php:99 lib/view/backups/backups-list.php:101
+msgid "Restore"
+msgstr "Visszaállítás"
+
+#: lib/view/backups/backups-list.php:106 lib/view/backups/backups-list.php:108
+#: lib/view/backups/backups-list.php:115
+msgid "Download"
+msgstr "Letöltés"
+
+#: lib/view/backups/backups-list.php:38
+msgid "Size"
+msgstr "Méret"
+
+#: lib/view/backups/backups-list.php:37
+msgid "Date"
+msgstr "Dátum"
+
+#: lib/view/backups/backups-list.php:36
+msgid "Name"
+msgstr "Név"
+
+#: lib/model/import/class-ai1wm-import-done.php:363
+#: lib/model/import/class-ai1wm-import-done.php:365
+#: lib/model/import/class-ai1wm-import-done.php:367
+msgid "Your site has been imported successfully!"
+msgstr "A weboldal importálása sikeres!"
+
+#: lib/model/import/class-ai1wm-import-content.php:83
+#: lib/model/import/class-ai1wm-import-content.php:206
+msgid "Restoring %d files...<br />%d%% complete"
+msgstr "%d fájl helyreállítása folyamatban...<br />%d%% kész"
+
+#: lib/model/export/class-ai1wm-export-download.php:35
+msgid "Renaming exported file..."
+msgstr "Az exportált file átnevezése..."
+
+#: lib/model/export/class-ai1wm-export-database.php:159
+msgid "Done exporting database."
+msgstr "Az adatbázis exportálása kész."
+
+#: lib/model/export/class-ai1wm-export-plugins.php:80
+#: lib/model/export/class-ai1wm-export-plugins.php:119
+msgid "Archiving %d plugin files...<br />%d%% complete"
+msgstr "%d bővítmény fájlok archiválása...<br />%d%% befejeződött."
+
+#: lib/model/import/class-ai1wm-import-enumerate.php:50
+msgid "Done retrieving a list of all WordPress files."
+msgstr "Az összes WordPress fájlt tartalmazó lista lekérése kész."
+
+#: lib/model/import/class-ai1wm-import-enumerate.php:35
+msgid "Retrieving a list of all WordPress files..."
+msgstr "Az összes WordPress fájlt tartalmazó lista lekérése..."
+
+#: lib/model/export/class-ai1wm-export-archive.php:42
+msgid "Done creating an empty archive."
+msgstr "Üres archivum létrehozása kész."
+
+#: lib/model/export/class-ai1wm-export-archive.php:35
+msgid "Creating an empty archive..."
+msgstr "Üres archivum létrehozása folyamatban..."
+
+#: lib/controller/class-ai1wm-main-controller.php:663
+#: lib/controller/class-ai1wm-main-controller.php:664
+#: lib/view/backups/index.php:37
+msgid "Backups"
+msgstr "Mentések"
+
+#: lib/controller/class-ai1wm-main-controller.php:653
+#: lib/controller/class-ai1wm-main-controller.php:654
+msgid "Import"
+msgstr "Importálás"
+
+#: lib/controller/class-ai1wm-main-controller.php:643
+#: lib/controller/class-ai1wm-main-controller.php:644
+msgid "Export"
+msgstr "Exportálás"
+
+#: lib/view/main/multisite-notice.php:42
+msgid "Get multisite"
+msgstr "Több oldal szerzése"
+
+#: lib/controller/class-ai1wm-import-controller.php:96
+#: lib/controller/class-ai1wm-import-controller.php:97
+#: lib/controller/class-ai1wm-main-controller.php:914
+#: lib/controller/class-ai1wm-main-controller.php:1107
+msgid "Unable to import"
+msgstr "Nem lehet importálni"
+
+#: lib/controller/class-ai1wm-export-controller.php:94
+#: lib/controller/class-ai1wm-export-controller.php:95
+#: lib/controller/class-ai1wm-main-controller.php:800
+#: lib/controller/class-ai1wm-main-controller.php:1098
+msgid "Unable to export"
+msgstr "Nem lehet exportálni"

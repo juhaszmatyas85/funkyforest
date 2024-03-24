@@ -1,0 +1,96 @@
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Regular-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Regular.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 250;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Thin-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 250;
+	src: local("Proxima Nova"), url("./proxima-nova-2/Thin.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 300;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Light.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: italic;
+	font-weight: 300;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Light-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 600;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Semibold-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 600;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Semibold.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Bold-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Proxima Nova"), url("./proxima-nova-2/Bold.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 800;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Extrabold-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 800;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Extrabold.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 900;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Black-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: proxima nova;
+	font-style: normal;
+	font-weight: 900;
+	src: local("Proxima Nova"),
+		url("./proxima-nova-2/Black.woff") format("woff");
+}

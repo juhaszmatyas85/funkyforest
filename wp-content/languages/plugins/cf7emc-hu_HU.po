@@ -1,0 +1,20 @@
+# Translation of Plugins - Contact Form 7 Math Captcha - Stable (latest release) in Hungarian
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Contact Form 7 Math Captcha - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-09-27 11:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Please enter the captcha value."
+msgstr "Kérjük add meg a biztonsági számot."
+
+msgid "Captcha value is invalid, please enter valid value."
+msgstr "A biztonsági szám nem megfelelő, kérjük add meg a helyes értéket."

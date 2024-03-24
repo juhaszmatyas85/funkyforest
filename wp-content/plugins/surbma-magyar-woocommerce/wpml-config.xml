@@ -1,0 +1,43 @@
+<wpml-config>
+	<admin-texts>
+		<key name="surbma_hc_fields">
+			<key name="returntoshopmessage" />
+			<key name="loginredirecturl" />
+			<key name="registrationredirecturl" />
+			<key name="freeshippingminimumorderamount" />
+			<key name="freeshippingnoticemessage" />
+			<key name="freeshippingsuccessfulmessage" />
+			<key name="emptycartbutton-checkoutpagemessage" />
+			<key name="emptycartbutton-checkoutpagelinktext" />
+			<key name="emptycartbutton-checkoutpageconfirmationtext" />
+			<key name="legalcheckouttitle" />
+			<key name="regacceptpp" />
+			<key name="accepttos" />
+			<key name="acceptpp" />
+			<key name="acceptcustom1label" />
+			<key name="acceptcustom1" />
+			<key name="acceptcustom2label" />
+			<key name="acceptcustom2" />
+			<key name="beforeorderbuttonmessage" />
+			<key name="afterorderbuttonmessage" />
+			<key name="globalinfoname" />
+			<key name="globalinfocompany" />
+			<key name="globalinfoheadquarters" />
+			<key name="globalinfotaxnumber" />
+			<key name="globalinforegnumber" />
+			<key name="globalinfoaddress" />
+			<key name="globalinfobankaccount" />
+			<key name="globalinfomobile" />
+			<key name="globalinfophone" />
+			<key name="globalinfoemail" />
+			<key name="globalinfoaboutus" />
+			<key name="productpricehistory-lowestpricetext" />
+			<key name="productpricehistory-discounttext" />
+			<key name="productpricehistory-statisticslinktext" />
+			<key name="productpriceadditions-product-prefix" />
+			<key name="productpriceadditions-product-suffix" />
+			<key name="productpriceadditions-archive-prefix" />
+			<key name="productpriceadditions-archive-suffix" />
+		</key>
+	</admin-texts>
+</wpml-config>

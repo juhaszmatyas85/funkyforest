@@ -1,0 +1,56 @@
+@font-face {
+	font-family: merriweather;
+	font-style: italic;
+	font-weight: 400;
+	src: local("Merriweather"),
+		url(./merriweather/Merriweather-Italic.woff) format("woff");
+}
+@font-face {
+	font-family: merriweather;
+	font-style: normal;
+	font-weight: 250;
+	src: local("Merriweather"),
+		url(./merriweather/Merriweather-Regular.woff) format("woff");
+}
+@font-face {
+	font-family: merriweather;
+	font-style: normal;
+	font-weight: 250;
+	src: local("Merriweather"),
+		url(./merriweather/Merriweather-Light.woff) format("woff");
+}
+@font-face {
+	font-family: merriweather;
+	font-style: italic;
+	font-weight: 300;
+	src: local("Merriweather"),
+		url(./merriweather/Merriweather-LightItalic.woff) format("woff");
+}
+@font-face {
+	font-family: merriweather;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Merriweather"),
+		url(./merriweather/Merriweather-Bold.woff) format("woff");
+}
+@font-face {
+	font-family: merriweather;
+	font-style: italic;
+	font-weight: 700;
+	src: local("Merriweather"),
+		url(./merriweather/Merriweather-BoldItalic.woff) format("woff");
+}
+@font-face {
+	font-family: merriweather;
+	font-style: normal;
+	font-weight: 900;
+	src: local("Merriweather"),
+		url(./merriweather/Merriweather-Black.woff) format("woff");
+}
+@font-face {
+	font-family: merriweather;
+	font-style: italic;
+	font-weight: 900;
+	src: local("Merriweather"),
+		url(./merriweather/Merriweather-HeavyItalic.woff) format("woff");
+}

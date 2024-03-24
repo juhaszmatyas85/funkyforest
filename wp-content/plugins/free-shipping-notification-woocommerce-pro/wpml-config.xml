@@ -1,0 +1,14 @@
+<wpml-config>
+    <admin-texts>
+        <key name="pi_fsnw_message_exact_0"/>
+        <key name="pi_fsnw_message_0"/>
+        <key name="pi_fsnw_message_50"/>
+        <key name="pi_fsnw_message_100"/>
+        <key name="pi_fsnw_normal_free_shipping_message"/>
+        <key name="pi_fsnw_message_exact_0_and"/>
+        <key name="pi_fsnw_message_0_and"/>
+        <key name="pi_fsnw_message_50_and"/>
+        <key name="pi_fsnw_message_100_and"/>
+        <key name="pi_fsnw_cc_progress_bar_text"/>
+    </admin-texts>
+</wpml-config>
