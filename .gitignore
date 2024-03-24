@@ -1,8 +1,11 @@
 # WordPress
-web/*
-!web/wp-config.php
-web/wp-content/themes/*
-!web/wp-content/themes/generatepress_child
+/web/*
+!/web/wp-content/
+/web/wp-content/languages/*
+/web/wp-content/themes/*
+/web/wp-content/index.php
+/web/wp-content/plugins/index.php
+!/web/wp-content/themes/generatepress_child/
 
 # WP-CLI
 wp-cli.local.yml
