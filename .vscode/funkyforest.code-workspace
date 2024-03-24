@@ -19,7 +19,7 @@
     "phpsab.fixerEnable": true,
     "phpsab.snifferEnable": true,
     "phpsab.snifferShowSources": true,
-    "phpsab.executablePathCBF": "${workspaceFolder}/vendor/bin/phpcbf",
-    "phpsab.executablePathCS": "${workspaceFolder}/vendor/bin/phpcs"
+    "phpsab.executablePathCBF": "/home/USERNAME/.config/composer/vendor/bin/phpcbf",
+    "phpsab.executablePathCS": "/home/USERNAME/.config/composer/vendor/bin/phpcs"
   }
 }
