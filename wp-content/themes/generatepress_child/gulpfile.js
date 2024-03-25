@@ -22,7 +22,7 @@ gulp.task('scss', function () {
     // .pipe(strip());
 
     return task
-        .pipe(rename('bundle.css'))
+        .pipe(rename('style.css'))
         .pipe(gulp.dest(styleDest));
 });
 
