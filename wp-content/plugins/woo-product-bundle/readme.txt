@@ -4,8 +4,8 @@ Donate link: https://wpclever.net
 Tags: woocommerce, wpc, bundle, bundles, kits
 Requires at least: 4.0
 Tested up to: 6.4
-Version: 8.0.0
-Stable tag: 8.0.0
+Version: 8.0.1
+Stable tag: 8.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ Please try other plugins from us:
 5. Almost done! click Save and see the result
 
 == Changelog ==
+
+= 8.0.1 =
+* Updated: Compatible with WP 6.4 & Woo 8.7
 
 = 8.0.0 - BIG UPDATE =
 * Updated: Enable/disable "Custom quantity" for each bundled sub-product

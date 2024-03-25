@@ -3024,7 +3024,7 @@ if ( ! class_exists( 'WPCleverWoosb' ) && class_exists( 'WC_Product' ) ) {
 									}
 
 									if ( WPCleverWoosb_Helper()->get_setting( 'bundled_description', 'no' ) === 'yes' ) {
-										echo '<div class="woosb-description">' . apply_filters( 'woosb_item_description', $product->get_short_description(), $product ) . '</div>';
+										echo '<div class="woosb-description">' . apply_filters( 'woosb_item_description', $product->is_type( 'variation' ) ? $product->get_description() : $product->get_short_description(), $product ) . '</div>';
 									}
 
 									echo '<div class="woosb-availability">' . wp_kses_post( wc_get_stock_html( $product ) ) . '</div>';
