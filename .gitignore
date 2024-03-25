@@ -19,6 +19,8 @@ wp-content/backup-db/
 wp-content/cache/
 wp-content/backups/
 
+wp-content/themes/generatepress_child/node_modules/
+
 wp-content/advanced-cache.php
 wp-content/object-cache.php
 wp-content/wp-cache-config.php
