@@ -1,0 +1,128 @@
+{
+  "apiVersion": 2,
+  "name": "flexguten/pinterest-style-one",
+  "version": "1.0.0",
+  "title": "Pinterest Save Button",
+  "category": "flex-guten",
+  "description": "Pinterest Save Button Gutenberg Block.",
+  "supports": {
+    "html": false,
+    "anchor": true
+  },
+  "attributes": {
+    "id": {
+      "type": "string",
+      "default": "pinterest"
+    },
+    "enableContainerBorder": {
+      "type": "boolean",
+      "default": false
+    },
+    "containerBorder": {
+      "type": "object",
+      "default": {
+        "width": "0px",
+        "color": "#eee",
+        "style": "solid"
+      }
+    },
+    "containerBorderRadius": {
+      "type": "number",
+      "default": 15
+    },
+    "imageHeight": {
+      "type": "number",
+      "default": 250
+    },
+    "imageWidth": {
+      "type": "number",
+      "default": 100
+    },
+    "cardTitle": {
+      "type": "string",
+      "default": "No time to read now?"
+    },
+    "cardTitleMargin": {
+      "type": "object",
+      "default": {
+        "top": 0,
+        "right": 0,
+        "bottom": 5,
+        "left": 0
+      }
+    },
+    "cardSubTitleMargin": {
+      "type": "object",
+      "default": {
+        "top": 0,
+        "right": 0,
+        "bottom": 15,
+        "left": 0
+      }
+    },
+    "buttonMargin": {
+      "type": "object",
+      "default": {
+        "top": 0,
+        "right": 0,
+        "bottom": 50,
+        "left": 0
+      }
+    },
+    "backgroundColor": {
+      "type": "string",
+      "default": "#f8f3f3"
+    },
+    "titleColor": {
+      "type": "string",
+      "default": "#333333"
+    },
+    "subTitleColor": {
+      "type": "string",
+      "default": "#333333"
+    },
+    "buttonBackgroundColor": {
+      "type": "string",
+      "default": "#fff"
+    },
+    "buttonTextColor": {
+      "type": "string",
+      "default": "#333333"
+    },
+    "cardTitleFontSize": {
+      "type": "object",
+      "default": {
+        "desktop": 28,
+        "tablet": 24,
+        "mobile": 20
+      }
+    },
+    "cardSubTitleFontSize": {
+      "type": "object",
+      "default": {
+        "desktop": 18,
+        "tablet": 16,
+        "mobile": 14
+      }
+    },
+    "cardSubTitle": {
+      "type": "string",
+      "default": "No worries! Save on Pinterest to read it later."
+    },
+    "content": {
+      "type": "string",
+      "default": "Hello World!"
+    },
+    "photo": {
+      "type": "object"
+    },
+    "buttonLabel": {
+      "type": "string",
+      "default": "Save on Pinterest"
+    }
+  },
+  "textdomain": "flexguten",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

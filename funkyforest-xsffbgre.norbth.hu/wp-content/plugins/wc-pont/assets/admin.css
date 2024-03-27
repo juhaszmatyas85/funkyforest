@@ -1,0 +1,79 @@
+﻿a.gls, a.cskuldo, a.pick, a.dpd, a.fox, a.posta,a.eone{
+  padding:5px;
+  border-radius: 3px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  overflow-wrap: break-word;
+}
+/*súly rög*/
+a.gls.s1,
+a.fox.sFeladva,
+a.eone.OFD {
+  background-color:#f8dda7;
+  color:#94660c;
+}
+/*várják*/
+a.gls.s51, a.gls.s52,
+a.cskuldo.s1,
+a.dpd.s1,
+a.fox.sWebáruháznál,
+a.pick.s4,
+a.pick.s14,
+a.posta.s1,
+a.eone.DLS {
+  background:#e5e5e5;
+  color:#777;
+}
+/*beérkezett*/
+a.gls.s3,a.gls.s4
+a.cskuldo.s2,a.cskuldo.s12
+a.dpd.s4, a.dpd.s5,
+a.fox.sRaktárban,
+a.posta.s2,a.posta.s3,
+a.eone.INB,
+a.eone.OUB{
+  background: #e3f3e3;
+  color: #afc58b;
+}
+/*átvehető*/
+a.gls.s55,a.gls.s56,
+a.cskuldo.s5,a.cskuldo.s6,
+a.dpd.s8,
+a.fox.sAutomatában,
+a.pick.s5,
+a.pick.s15,
+a.posta.s5,a.posta.s7,a.posta.s8,
+a.eone.E53
+{
+  background: #c6e1c6;
+  color: #5b841b;
+}
+/*teljesítve*/
+a.gls.s5,a.gls.s58,
+a.cskuldo.s7,
+a.dpd.s9, a.dpd.s10,
+a.pick.s16,
+a.fox.sÁtvéve,
+a.pick.s16,
+a.posta.s6,a.posta.s10,a.posta.s11,a.posta.s12,
+a.eone.sD00
+{
+  background: #c8d7e1;
+  color: #2e4453;
+}
+/*vissza*/
+a.gls.s23,a.gls.s15,a.gls.s16,a.gls.s18,a.gls.s19,a.gls.s30,a.gls.s31,a.gls.s35,
+a.cskuldo.s8,a.cskuldo.s9,a.cskuldo.s10,
+a.pick.s19,
+a.posta.s13
+{
+  background: #ffc8c1;
+  color: #ce6060;
+}
+a.gls.error,a.gls.s12,a.gls.s13,a.gls.s31,a.gls.s37,a.gls.s43, a.gls.s57,
+a.cskuldo.s11, a.cskuldo.s999, a.pick.s17, a.posta.error {
+  background: #ff9486;
+  color: #d11818;
+}

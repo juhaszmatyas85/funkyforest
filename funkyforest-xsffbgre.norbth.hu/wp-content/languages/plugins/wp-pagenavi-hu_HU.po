@@ -1,0 +1,196 @@
+# Translation of Plugins - WP-PageNavi - Stable (latest release) in Hungarian
+# This file is distributed under the same license as the Plugins - WP-PageNavi - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-06 15:41:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - WP-PageNavi - Stable (latest release)\n"
+
+#: core.php:130 core.php:149 core.php:161
+msgid "Page %s"
+msgstr "Oldal %s"
+
+#: admin.php:9
+msgid "PageNavi Settings"
+msgstr "PageNavi beállítások"
+
+#: admin.php:10
+msgid "PageNavi"
+msgstr "PageNavi / Navigáció"
+
+#: admin.php:33
+msgid "Text For Number Of Pages"
+msgstr "Megjelenő szöveg"
+
+#: admin.php:38
+msgid "The current page number."
+msgstr "Aktuális oldal száma"
+
+#: admin.php:39 admin.php:63 admin.php:71
+msgid "The total number of pages."
+msgstr "Az össz lapszám"
+
+#: admin.php:43
+msgid "Text For Current Page"
+msgstr "Megjelenés az aktuálisnál"
+
+#: admin.php:47 admin.php:55
+msgid "The page number."
+msgstr "Az oldalszám, szövegre cserélheted ha akarod"
+
+#: admin.php:51
+msgid "Text For Page"
+msgstr "Oldal szövege"
+
+#: admin.php:59
+msgid "Text For First Page"
+msgstr "Első oldal szövege"
+
+#: admin.php:67
+msgid "Text For Last Page"
+msgstr "Utolsó oldal szövege"
+
+#: admin.php:75
+msgid "Text For Previous Page"
+msgstr "Előzőkhöz lapozás"
+
+#: admin.php:81
+msgid "Text For Next Page"
+msgstr "Következőkhöz lapozás "
+
+#: admin.php:87
+msgid "Text For Previous ..."
+msgstr "Előzők szövege"
+
+#: admin.php:93
+msgid "Text For Next ..."
+msgstr "Következők szövege"
+
+#: admin.php:100
+msgid "Page Navigation Text"
+msgstr "A megjelenő linkek és szavak megadása"
+
+#: admin.php:101
+msgid "Leaving a field blank will hide that part of the navigation."
+msgstr "Hagyd üresen a mezőt, ha nem szeretnél az adott részhez megjeleníteni."
+
+#: admin.php:107
+msgid "Use pagenavi-css.css"
+msgstr "Gyári pagenavi-css stíluslap használata"
+
+#: admin.php:114
+msgid "Page Navigation Style"
+msgstr "Navigáció stílusána"
+
+#: admin.php:117
+msgid "Normal"
+msgstr "Alapértelmezett, vízszintes számsor"
+
+#: admin.php:117
+msgid "Drop-down List"
+msgstr "Lenyíló lista"
+
+#: admin.php:122
+msgid "Always Show Page Navigation"
+msgstr "Navigáció állandó megjelenítése"
+
+#: admin.php:126
+msgid "Show navigation even if there's only one page."
+msgstr "Ha egy oldal van, akkor is megjelenjen a navigáció?"
+
+#: admin.php:130
+msgid "Number Of Pages To Show"
+msgstr "Oldalszámok kis léptékben"
+
+#: admin.php:137
+msgid "Number Of Larger Page Numbers To Show"
+msgstr "Oldalszámok nagy léptékben"
+
+#: admin.php:142
+msgid "Larger page numbers are in addition to the normal page numbers. They are useful when there are many pages of posts."
+msgstr "Az aktuális oldal számához viszonyítva, hány szomszédos oldalszámot mutasson. Például: 1,2,3,5,10,15,20. A 0 értékkel tudod kikapcsolni."
+
+#: admin.php:143
+msgid "For example, WP-PageNavi will display: Pages 1, 2, 3, 4, 5, 10, 20, 30, 40, 50."
+msgstr "Példa, ha 10 van értéknek megadva:  1, 2, 3, 4, 5, 10, 20, 30, 40, 50."
+
+#: admin.php:144
+msgid "Enter 0 to disable."
+msgstr "A 0 nem megengedett érték."
+
+#: admin.php:148
+msgid "Show Larger Page Numbers In Multiples Of"
+msgstr "Mutassa a nagy léptéket"
+
+#: admin.php:153
+msgid "For example, if mutiple is 5, it will show: 5, 10, 15, 20, 25"
+msgstr "Példa: Ha az értéke 5, akkor így fog megjelenni: 5, 10, 15, 20, 25"
+
+#: admin.php:158
+msgid "Page Navigation Options"
+msgstr "Navigáció beállítása"
+
+#: scb/AdminPage.php:257
+msgid "Settings <strong>saved</strong>."
+msgstr "Beállítások <strong>sikeresen módosítva</strong>."
+
+#: scb/AdminPage.php:514
+msgid "Settings"
+msgstr "Beállítások"
+
+#: wp-pagenavi.php:20
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "%CURRENT_PAGE% / %TOTAL_PAGES% oldal"
+
+#: wp-pagenavi.php:23
+msgid "&laquo; First"
+msgstr "&laquo; Első"
+
+#: wp-pagenavi.php:24
+msgid "Last &raquo;"
+msgstr "Utolsó &raquo;"
+
+#: wp-pagenavi.php:25
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: wp-pagenavi.php:26
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: wp-pagenavi.php:27 wp-pagenavi.php:28
+msgid "..."
+msgstr "..."
+
+#. Plugin Name of the plugin
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi / Navigációs bővítmény"
+
+#. Description of the plugin
+msgid "Adds a more advanced paging navigation to your WordPress blog"
+msgstr "Számozott navigációs bővítmény, mellyel könnyebben lapozhatóak a bejegyzések, oldalak."
+
+#: admin.php:110 admin.php:125
+msgid "Yes"
+msgstr "Igen"
+
+#: admin.php:110 admin.php:125
+msgid "No"
+msgstr "Nem"
+
+#. Author of the plugin
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Plugin URI of the plugin
+msgid "https://lesterchan.net/portfolio/programming/php/"
+msgstr "https://lesterchan.net/portfolio/programming/php/"
+
+#. Author URI of the plugin
+msgid "https://lesterchan.net"
+msgstr "https://lesterchan.net"

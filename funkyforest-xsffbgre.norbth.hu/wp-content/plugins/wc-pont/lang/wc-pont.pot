@@ -1,0 +1,1169 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pont shipping for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-23 15:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.4-RC3-47477"
+
+#: pont.php:62
+msgid "Posta Pont"
+msgstr ""
+
+#: pont.php:63
+msgid "PostaPont Csomagautomata"
+msgstr ""
+
+#: pont.php:64
+msgid "Pick Pack Pont"
+msgstr ""
+
+#: pont.php:65
+msgid "GLS CsomagPont"
+msgstr ""
+
+#: pont.php:66
+msgid "FoxPost"
+msgstr ""
+
+#: pont.php:67
+msgid "Express One Pont"
+msgstr ""
+
+#: pont.php:68
+msgid "Csomagküldő Magyarország"
+msgstr ""
+
+#: pont.php:69
+msgid "Csomagküldő Csehország"
+msgstr ""
+
+#: pont.php:70
+msgid "Csomagküldő Lengyelország"
+msgstr ""
+
+#: pont.php:71
+msgid "Csomagküldő Románia"
+msgstr ""
+
+#: pont.php:72
+msgid "Csomagküldő Szolvákia"
+msgstr ""
+
+#: pont.php:73
+msgid "DPD csomagpont"
+msgstr ""
+
+#: pont.php:74
+msgid "Személyes átvétel"
+msgstr ""
+
+#: pont.php:221
+msgid "Település kiválasztása"
+msgstr ""
+
+#: pont.php:222
+msgid "Átvevőpont kiválasztása"
+msgstr ""
+
+#: pont.php:223
+msgid "Nem található..."
+msgstr ""
+
+#: pont.php:224
+msgid "pont"
+msgstr ""
+
+#: pont.php:230
+msgid "Válassz átvevőhelyet"
+msgstr ""
+
+#: pont.php:324
+msgid "Nem választottál átvevőhelyet"
+msgstr ""
+
+#: pont.php:344 pont.php:356 pont.php:1136
+msgid "A kiválasztott átvevőhely:"
+msgstr ""
+
+#: pont.php:391
+msgid "Jelenleg nem található az adatbázisban!"
+msgstr ""
+
+#: pont.php:439
+#, php-format
+msgid "Ingyen szállítjuk ha még %s értékben rendelsz!"
+msgstr ""
+
+#: pont.php:465
+msgid "Átvevőhely"
+msgstr ""
+
+#: pont.php:472 includes/class-wc-settings-pont.php:58
+#: includes/class-wc-settings-pont.php:59
+msgid "Válassz [szolgáltató] átvevőhelyet"
+msgstr ""
+
+#: pont.php:524
+msgid " pontok listája régi."
+msgstr ""
+
+#: pont.php:525
+msgid "pontok listája régi, nem lehet frissíteni."
+msgstr ""
+
+#: pont.php:543
+#, php-format
+msgid "A plugins/wc-pont/%spont.json fájl nem írható"
+msgstr ""
+
+#: pont.php:564
+msgid "Dok"
+msgstr ""
+
+#: pont.php:624
+msgid "Követés"
+msgstr ""
+
+#: pont.php:635
+msgid "Azonosító"
+msgstr ""
+
+#: pont.php:649
+msgid "Csomagszám"
+msgstr ""
+
+#: pont.php:656 pont.php:669 pont.php:683 pont.php:697 pont.php:711
+msgid "Nem történt"
+msgstr ""
+
+#: pont.php:656 pont.php:669 pont.php:682 pont.php:696 pont.php:710
+msgid "állapot nincs társítva"
+msgstr ""
+
+#: pont.php:682 pont.php:696 pont.php:710
+msgid "Nincs követési adat"
+msgstr ""
+
+#: pont.php:785 pont.php:793 pont.php:801 pont.php:809 pont.php:817
+msgid "Nincs"
+msgstr ""
+
+#: pont.php:838
+msgid "Rendelési állapotok frissítése követőkód alapján"
+msgstr ""
+
+#: pont.php:848
+msgid "Rendelés"
+msgstr ""
+
+#: pont.php:849
+msgid "Állapot"
+msgstr ""
+
+#: pont.php:850
+msgid "Módosítás"
+msgstr ""
+
+#: pont.php:859
+msgid "Nincs ilyen rendelés az elmúlt 30 napból"
+msgstr ""
+
+#: pont.php:864
+msgid "Frissítés"
+msgstr ""
+
+#: pont.php:936 pont.php:1046
+msgid "MyGLS címke"
+msgstr ""
+
+#: pont.php:937
+msgid "GLS címke"
+msgstr ""
+
+#: pont.php:938
+msgid "Csomagküldő címke"
+msgstr ""
+
+#: pont.php:939
+msgid "DPD címke"
+msgstr ""
+
+#: pont.php:940
+msgid "FoxPost csomagregisztrálás"
+msgstr ""
+
+#: pont.php:941
+msgid "FoxPost címkenyomtatás"
+msgstr ""
+
+#: pont.php:942
+msgid "Sprinter címke"
+msgstr ""
+
+#: pont.php:943
+msgid "Exportálás CSV-be"
+msgstr ""
+
+#: pont.php:1005
+msgid "Csomagkövetés"
+msgstr ""
+
+#: pont.php:1075 pont.php:1190
+msgid "Szállítólevél"
+msgstr ""
+
+#: pont.php:1092
+#, php-format
+msgid "Címke: %s"
+msgstr ""
+
+#: pont.php:1207
+msgid "nem feladott"
+msgstr ""
+
+#: pont.php:1208 pont.php:1268
+msgid "másodperc"
+msgstr ""
+
+#: pont.php:1209 pont.php:1269
+msgid "hiba oka"
+msgstr ""
+
+#: pont.php:1213
+msgid "Várjunk Foxpost válaszárá..."
+msgstr ""
+
+#: pont.php:1267
+msgid "feladva"
+msgstr ""
+
+#: pont.php:1270
+msgid "címke elkészült"
+msgstr ""
+
+#: pont.php:1274
+msgid "Várjunk FoxPost válaszárá..."
+msgstr ""
+
+#: pont.php:1321
+#, php-format
+msgid "Feldolgozva %s rendelés %s"
+msgid_plural "Feldolgozva %s rendelés %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pont.php:1530
+msgid "Címke letöltése"
+msgstr ""
+
+#: includes/class-wc-pont.php:19
+msgid "Pont szállítási mód"
+msgstr ""
+
+#: includes/class-wc-pont.php:20
+#, php-format
+msgid ""
+"Súly vagy vásárlási összeg alapú Pont szállítási mód. Átvételi Pont lehet "
+"Posta Pont, Pick Pack Pont, GLS CsomagPont, FoxPost, DPD csomagpont vagy "
+"Express One, Csomagküldő<br>%sSegítség a beállításhoz%s"
+msgstr ""
+
+#: includes/class-wc-pont.php:51
+msgid "Személyes átvevőhelyek"
+msgstr ""
+
+#: includes/class-wc-pont.php:57 includes/class-wc-settings-pont.php:232
+msgid "Név"
+msgstr ""
+
+#: includes/class-wc-pont.php:58
+msgid "Irsz"
+msgstr ""
+
+#: includes/class-wc-pont.php:59
+msgid "Város"
+msgstr ""
+
+#: includes/class-wc-pont.php:60 includes/class-wc-settings-pont.php:257
+msgid "Cím"
+msgstr ""
+
+#: includes/class-wc-pont.php:61
+msgid "Szélesség"
+msgstr ""
+
+#: includes/class-wc-pont.php:62
+msgid "Hosszúság"
+msgstr ""
+
+#: includes/class-wc-pont.php:63
+msgid "Leírás"
+msgstr ""
+
+#: includes/class-wc-pont.php:87
+msgid "+ Pont Hozzáadása"
+msgstr ""
+
+#: includes/class-wc-pont.php:87
+msgid "kiválasztott pont eltávolítása"
+msgstr ""
+
+#: includes/class-wc-pont.php:305
+#, php-format
+msgid ""
+"Pont szállítási modul működéséhez PHP 5.5 vagy újabb verzió szükséges. "
+"Jelenlegi PHP verziója %s."
+msgstr ""
+
+#: includes/class-wc-pont.php:384
+msgid "Nem választottál Szolgáltatót."
+msgstr ""
+
+#: includes/class-wc-pont.php:388
+#, php-format
+msgid "Nem, vagy hibásan adtad meg a szállítási költséget '%s'-hez."
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:9
+msgid "Pont"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:20
+msgid "Pont szállítási plugin"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:26
+msgid "Kiválasztás módja"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:31
+msgid "Térkép helymeghatározással, kétlépcsős keresővel"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:32
+msgid "OpenStreetMap térkép helymeghatározással"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:33
+msgid "Egyszerű és gyors kereső"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:34
+msgid "Kompatibilis"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:38
+msgid "Telepítési kulcs"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:43
+msgid ""
+"A kulcs a plugin önfrissítését szolgálja, semmilyen más funkciót nem tesz "
+"elérhetővé."
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:46
+msgid "Google Maps API kulcs"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:50
+msgid "API kulcs"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:51
+msgid ""
+"Más Google Maps plugin használatakor (pl. api-key-for-google-maps) üresen "
+"hagyható <a href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key#step-1-get-an-api-key-from-the-"
+"google-api-console\">API key</a>"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:55
+msgid "Kiválasztás előtt megjelenő felirat"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:60
+msgid "A [szolgáltató] helyére a kiválasztott szállító neve kereül"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:64
+msgid "Átvevőpontnál megjelenítendő adatok"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:68
+msgid "[név] [cím] [térkép]"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:69
+msgid ""
+"Átvevőpont adatinak megjelenítése a rendelés végén, levélben és admin "
+"felületen. Megjeleníthető adatok: [azonosító], [cím], [csoport], "
+"[irányítószám], [leírás], [logó], [név], [szolgáltató], [telefon], [térkép], "
+"[térképcímmel], [újsor], [város]"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:76
+msgid "Ingyenes szállításig hátralévő összeg megjelenítése"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:77
+msgid "Megjeleníti mennyiért kell még vásárolnia az ingyenes szállításhoz"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:83
+msgid "Rendelés összege amelytől már megjelenjen"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:84
+msgid ""
+"Ezt az értéket elérve jelenik csak meg az ingyenes szállításig hátralévő "
+"összeg."
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:91
+msgid "Ingyenes szállítás minimális összege"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:92
+msgid "Renedés bruttó értéke melytől ingyenes a szállítás."
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:99
+msgid "Ingyenes szállításnál a szállító neve elé kerülő szöveg"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:100
+msgid "Ingyenes szállításnál a szállítási mód neve előtt megjelenő szöveg."
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:107
+msgid "Irányítószám használata a keresőben"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:113
+msgid "Állapot megváltoztatása exportálás után"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:114
+msgid "Engedélyezve a rendelés állapotát megváltoztatja exportálás után"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:119
+msgid "Rendelés állapota exportálás után"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:120
+msgid ""
+"Sikeres exportálás után a megadott értékre állítja be a rendelés állapotát."
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:126
+msgid "CSV  állomány karakterkódolása"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:131
+msgid "UTF-8"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:132
+msgid "ISO-8859-2"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:136
+msgid "PDF címkék, exportált fájlok törlése"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:141
+msgid "3 nap után"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:142
+msgid "1 hét után"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:143
+msgid "1 hónap után"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:144
+msgid "2 hónap után"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:145
+#: includes/class-wc-settings-pont.php:156
+msgid "Soha"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:149
+msgid "Rendelés állapotának automatikus frissítése"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:150
+msgid "Követőkód alapján automatikusan frissíti a rendelés állapotát"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:157
+msgid "Naponta"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:158
+msgid "Naponta kétszer"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:159
+msgid "Óránként"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:165
+msgid "Végösszeg kerekítése 5 Ft-ra"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:166
+msgid ""
+"Engedélyezd ha GLS-t vagy Csomagküldőt használsz! Utánvétes fizetés "
+"végösszegét 5 Ft-ra kerekíti."
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:169
+msgid "Utánvét felár"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:173
+msgid "Utánvétes kézbesítésnél felszámításra kerülő összeg"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:187
+msgid "GLS címkenyomtatás"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:193
+msgid "GLS felhasználónév"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:198
+#: includes/class-wc-settings-pont.php:496
+#: includes/class-wc-settings-pont.php:693
+#: includes/class-wc-settings-pont.php:698
+msgid "Felhasználónév"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:199
+msgid "GLS címkenyomtatás felhasználói neve"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:203
+msgid "GLS jelszó"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:208
+#: includes/class-wc-settings-pont.php:420
+#: includes/class-wc-settings-pont.php:506
+#: includes/class-wc-settings-pont.php:701
+#: includes/class-wc-settings-pont.php:706
+msgid "Jelszó"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:209
+msgid "GLS címkenyomtatás felhasználói jelszava"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:213
+msgid "GAP azonosító"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:218
+msgid "GAPID (alvállalkozóknak)"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:222
+#: includes/class-wc-settings-pont.php:227
+msgid "Feladó azonosítója"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:228
+msgid "GLS címkenyomtatásnál a feladó azonosítója"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:238
+msgid "Feladónál megjelenő név a címkén. Például a webhsop neve (MyGLS esetén)"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:242
+msgid "Feladó neve"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:247
+#: includes/class-wc-settings-pont.php:425
+msgid "Feladó"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:248
+msgid "Feladó (kapcsolattartó) neve a telefonszám mellett"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:252
+msgid "Feladó címe"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:258
+msgid "GLS címkére kerülő feladó címe. MyGLS esetén utca"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:262
+msgid "Feladó házszáma"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:267
+msgid "Házszám"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:268
+msgid "MyGLS esetén a feladó házszáma"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:272
+msgid "Feladó országa"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:277
+msgid "GLS címkére kerülő feladó országa"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:280
+msgid "Magyarország"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:281
+msgid "Románia"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:282
+msgid "Szlovákia"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:283
+msgid "Csehország"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:284
+msgid "Horvátország"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:285
+msgid "Szlovénia"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:289
+msgid "Feladó települése"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:294
+msgid "Település"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:295
+msgid "GLS címkére kerülő feladó települése"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:299
+msgid "Feladó irányítószáma"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:304
+msgid "Irányítószám"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:305
+msgid "GLS címkére kerülő feladó irányítószáma"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:309
+msgid "Feladó telefonszáma"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:314
+msgid "Telefonszám"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:315
+msgid "GLS címkére kerülő feladó (kapcsolattartó) telefonszáma"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:319
+msgid "Csomagfelvétel napja"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:323
+msgid "Ma"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:324
+msgid "Holnap"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:328
+msgid "Nyomtatási sablon"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:332
+msgid "MyGLS-nél nem használható"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:335
+msgid "A6 méretű üres címke"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:336
+msgid "A6 méretű előrenyomtatott címke"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:337
+msgid "A6 méretű A4-es lapon"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:338
+msgid "A4 méretű 2x2 elrendezéssel"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:339
+msgid "A4 méretű 4x1 elrendezéssel"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:343
+msgid "Csomag tartalma a címkén"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:347
+msgid "Tartalom részre kerülő szöveg pl. [megjegyzés], [termék]"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:348
+msgid ""
+"Csomag tartalma részére kerülő információ a címkén. Megjeleníthető adatok: "
+"vásárlói [megjegyzés], [termék], [cikkszám], [mennyiség]"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:355
+msgid "Nyomtatás engedélyezése"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:356
+msgid ""
+"Ha nincs engedélyezve, a GLS oldaláról indítható lista alapján. (MyGLS-nél "
+"nem használható)"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:361
+msgid "FlexDelivery Service engedélyezése"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:362
+msgid "FDS engedélyezése esetén a GLS tájékoztató levelet küld az ügyfélnek"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:367
+#: includes/class-wc-settings-pont.php:646
+msgid "Teszt mód"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:368
+msgid "Teszt szolgáltatás használata"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:377
+msgid "Rendelés állapotának módosítása GLS csomagkövetés alapján"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:409
+msgid "Csomagküldő címkenyomtatás"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:415
+#: includes/class-wc-settings-pont.php:421
+msgid "Csomagküldő API jelszó"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:430
+msgid "Feladó.hu"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:431
+msgid "Csomagküldő címkére kerülő feladó neve"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:435
+msgid "Címke formátuma"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:440
+msgid "A6 (105x148 mm) méretű címke A6-os lapon"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:441
+msgid "A7 (105x74 mm) méretű címke A7-es lapon"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:442
+msgid "A6 (105x148 mm) méretű címke A4-es lapon"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:443
+msgid "A7 (105x74 mm) méretű címke A4-es lapon"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:444
+msgid "A8 (50x74 mm) méretű címke A8-os lapon"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:445
+msgid "105x35 mm-es címke A4-es lapon"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:455
+msgid "Rendelés állapotának módosítása Csomagküldő csomagkövetés alapján"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:485
+msgid "Foxpost címkenyomtatás"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:491
+msgid "Foxpost felhasználónév"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:497
+msgid "Foxpost-tól kapott felhasználónév"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:501
+msgid "Foxpost jelszó"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:507
+msgid "Foxpost-tól kapott jelszó"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:511
+msgid "Csomagméret"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:514
+msgid "Alapértelemzett csomagméret"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:518
+msgid "XS"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:519
+msgid "S"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:520
+msgid "M"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:521
+msgid "L"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:522
+msgid "XL"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:532
+msgid "Rendelés állapotának módosítása Foxpost csomagkövetés alapján"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:562
+msgid "Sprinter címkenyomtatás"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:568
+#: includes/class-wc-settings-pont.php:573
+msgid "Partnerazonosító"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:574
+msgid "Sprintertől kapott partner kód"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:578
+#: includes/class-wc-settings-pont.php:583
+msgid "Token"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:584
+msgid "Sprintertől kapott token"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:588
+msgid "Egyedi azonosító"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:593
+msgid "Prefix"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:594
+msgid "Sprintertől kapott prefix"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:598
+msgid "Csomagregisztráció interfész címe"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:603
+msgid "https://tsx.lapker.hu/PartnerPudoService"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:604
+#: includes/class-wc-settings-pont.php:614
+msgid "Sprintertől kapott éles cím"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:608
+msgid "Dokumentumgenerálás interfész címe"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:613
+msgid "https://tsx.lapker.hu/PudoDocumentService"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:618
+msgid "PickPackPont-os feladási hely azonosítója"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:623
+msgid "Üresen hagyva a partner feladási helye"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:624
+msgid ""
+"POS2POS szállítás esetén a feladás helyének azonosítója pl.: 0000101042. "
+"Üresen hagyva normál (a partner feladási helye, raktára)."
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:628
+msgid "Szállítási idő"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:631
+msgid "Házhozszállításnál a szállítás ideje"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:635
+msgid "9 óra előtti"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:636
+msgid "Délelőtt 9-12 óra között"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:637
+msgid "1 munkanapos"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:638
+msgid "2 munkanapos"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:639
+msgid "3 munkanapos"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:640
+msgid "5 munkanapos"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:648
+msgid "Teszt szolgáltatás használata - előbbi címeket figyelmen kívül hagyja"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:657
+msgid "Rendelés állapotának módosítása Sprinter csomagkövetés alapján"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:687
+msgid "DPD címkenyomtatás"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:707
+msgid "Felhasználónévhez tartozó jelszó"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:717
+msgid "Rendelés állapotának módosítása DPD csomagkövetés alapján"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:826
+msgid "Általános"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:827
+msgid "GLS"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:828
+msgid "Csomagküldő"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:829
+msgid "Foxpost"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:830
+msgid "Sprinter"
+msgstr ""
+
+#: includes/class-wc-settings-pont.php:831
+msgid "DPD"
+msgstr ""
+
+#: includes/csomagkuldo.php:71 includes/dpd.php:41 includes/fox.php:52
+#: includes/gls.php:128 includes/mygls.php:96 includes/sprinter.php:243
+msgid "Rendelés nem került továbbításra, személyes átvétellel kérte"
+msgstr ""
+
+#: includes/csomagkuldo.php:83 includes/dpd.php:69 includes/fox.php:84
+#: includes/gls.php:140 includes/mygls.php:109 includes/sprinter.php:285
+msgid "Átvevőpont nem található:"
+msgstr ""
+
+#: includes/csomagkuldo.php:91 includes/dpd.php:77 includes/fox.php:92
+#: includes/gls.php:148 includes/mygls.php:117 includes/sprinter.php:304
+#, php-format
+msgid "A rendelést %s szállítással kérte"
+msgstr ""
+
+#: includes/csomagkuldo.php:127 includes/sprinter.php:218
+msgid "Soap hiba. Részletek a hibanaplóban"
+msgstr ""
+
+#: includes/csomagkuldo.php:145
+msgid "Soap hiba a PDF letötöltésekor. Részletek a hibanaplóban"
+msgstr ""
+
+#: includes/csomagkuldo.php:192
+msgid "Soap hiba (PDF-ek). Részletek a hibanaplóban"
+msgstr ""
+
+#: includes/dpd.php:103 includes/fox.php:137 includes/fox.php:214
+msgid "Csomagátviteli probléma"
+msgstr ""
+
+#: includes/dpd.php:130 includes/fox.php:163 includes/fox.php:243
+#: includes/mygls.php:268 includes/mygls.php:275
+msgid "Csomag hiba"
+msgstr ""
+
+#: includes/dpd.php:152
+msgid "Címkenyomtatatási probléma"
+msgstr ""
+
+#: includes/dpd.php:173
+msgid "Címkenyomtatási hiba"
+msgstr ""
+
+#: includes/dpd.php:252 includes/sprinter.php:373
+msgid "Szolgáltatói hiba"
+msgstr ""
+
+#: includes/dpd.php:261 includes/dpd.php:262 includes/dpd.php:263
+#: includes/fox.php:274 includes/fox.php:307 includes/fox.php:326
+#: includes/sprinter.php:384
+msgid "Nincs adat"
+msgstr ""
+
+#: includes/fox.php:35
+msgid "Nem adtad meg az API használatához szükséges azonosítót"
+msgstr ""
+
+#: includes/fox.php:276 includes/fox.php:309 includes/fox.php:328
+msgid "Foxpost válasza"
+msgstr ""
+
+#: includes/fox.php:354
+#, php-format
+msgid "Szállítási állapot: nem feladott. FoxPost azonosító: %1$s."
+msgstr ""
+
+#: includes/fox.php:370
+#, php-format
+msgid "FoxPost hiba %1$s"
+msgstr ""
+
+#: includes/fox.php:384
+msgid "Szállítási címke nyomtatva"
+msgstr ""
+
+#: includes/fox.php:384
+msgid "%1"
+msgstr ""
+
+#: includes/gls.php:243
+msgid "Ismeretlen hiba"
+msgstr ""
+
+#: includes/gls.php:301 includes/mygls.php:285
+msgid "GLS nem elérhető"
+msgstr ""
+
+#: includes/gls.php:307 includes/mygls.php:291
+msgid "Nem található"
+msgstr ""
+
+#: includes/mygls.php:170
+msgid "Hiba"
+msgstr ""
+
+#: includes/sprinter.php:65
+msgid "Címke hiba"
+msgstr ""
+
+#: includes/sprinter.php:92
+msgid "Csomaghiba"
+msgstr ""
+
+#: includes/sprinter.php:167
+msgid "Hiányzik az adat"
+msgstr ""
+
+#: includes/sprinter.php:181
+msgid "Hiba történt a generálás során"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pont shipping for Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Átvételi pont térképes kiválasztása WooCommerce rendelésnél. Posta Pont, "
+"Pick Pack Pont, GLS CsomagPont, Foxpost, Express One Pont, DPD csomagpont, "
+"Csomagküldő átvételi pontok térképes keresővel."
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://szathmari.hu/wordpress/15-pick-pack-pont-posta-pont-gls-csomagpont-"
+"woocommerce-szallitasi-modul"
+msgstr ""
+
+#. Author of the plugin
+msgid "szathmari.hu"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://szathmari.hu/"
+msgstr ""

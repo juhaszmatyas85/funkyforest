@@ -1,0 +1,2948 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Integration for Szamlazz.hu & WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-28 16:28+0000\n"
+"PO-Revision-Date: 2022-06-28 11:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Language: hu\n"
+"X-Source-Language: en\n"
+
+#: includes/class-webhooks.php:34
+msgid " Számlázz.hu document created"
+msgstr "Számlázz.hu dokumentum létrehozva"
+
+#: includes/class-bulk-actions.php:281
+#, php-format
+msgid "%1$s already exists for this order"
+msgstr "Ehhez a rendeléshez már készült %1$s"
+
+#: index.php:2528
+#, php-format
+msgid "%1$s discount with the following coupon code: %2$s"
+msgstr "%1$s kedvezmény a következő kupon kóddal: %2$s"
+
+#: includes/class-bulk-actions.php:289
+#, php-format
+msgid "%1$s order(s) has been selected to create the following documents: %2$s."
+msgstr "%1$s rendelés lett kijelölve %2$s dokumentum készítésére."
+
+#: includes/class-bulk-actions.php:270
+#, php-format
+msgid ""
+"%1$s order(s) has been selected to create the following documents: %2$s. Documents are being "
+"created. Reload this page and you will see a status indicator top right, next to your username."
+msgstr ""
+"%1$s rendelés lett kijelölve %2$s dokumentum készítésére. A dokumentumok készítése folyamatban van. "
+"Frissítsd az oldalt és jobb felül a neved mellett látni fogod, hol tart a folyamat."
+
+#: includes/views/html-notice-bulk.php:28
+#, php-format
+msgid "%1$s order(s) selected to create: %2$s. Documents are being created."
+msgstr ""
+"%1$s rendelés lett kijelölve %2$s dokumentum készítésére. A dokumentumok készítése folyamatban van."
+
+#: includes/views/html-notice-bulk.php:33
+#, php-format
+msgid "%1$s order(s) selected:"
+msgstr "%1$s rendelés lett kijelölve:"
+
+#: index.php:2911
+#, php-format
+msgid ""
+"%1$sWooCommerce Számlázz.hu is inactive%2$s. The %3$s1$sWooCommerce plugin %4$s must be active. "
+"%5$sPlease install or activate the latest WooCommerce &raquo;%6$s"
+msgstr ""
+"A %1$sWooCommerce Számlázz.hu inaktív%2$s. A %3$sWooCommerce bővítménynek %4$s aktívnak kell "
+"lennie. %5$sTelepítsd és kapcsold be WooCommerce-et &raquo;%6$s"
+
+#: includes/views/html-notice-bulk.php:17
+#, php-format
+msgid "%s invoice(s) selected for download."
+msgstr "%s számla kijelölve letöltésre."
+
+#: includes/views/html-notice-bulk.php:11
+#, php-format
+msgid "%s invoice(s) selected for printing."
+msgstr "%s számla kijelölve nyomtatásra."
+
+#: includes/class-helpers.php:71
+msgid "0%"
+msgstr "0%"
+
+#: includes/class-helpers.php:74
+msgid "18%"
+msgstr "18%"
+
+#: includes/class-helpers.php:75
+msgid "19%"
+msgstr "19%"
+
+#: includes/class-helpers.php:76
+msgid "20%"
+msgstr "20%"
+
+#: includes/class-helpers.php:77
+msgid "25%"
+msgstr "25%"
+
+#: includes/class-helpers.php:78
+msgid "27%"
+msgstr "27%"
+
+#: includes/views/html-admin-sidebar.php:93
+msgid "30 € / year"
+msgstr "30 € / év"
+
+#: includes/views/html-admin-accounts.php:63 includes/views/html-admin-accounts.php:103
+msgid "42 character key"
+msgstr "42 karakteres kulcs"
+
+#: includes/class-helpers.php:72
+msgid "5%"
+msgstr "5%"
+
+#: includes/class-helpers.php:73
+msgid "7%"
+msgstr "7%"
+
+#: includes/emails/invoice-copy.php:15
+#, php-format
+msgid "<strong>Document download link:</strong> %s"
+msgstr "<strong>Dokumentum letöltési linkje:</strong> %s"
+
+#: includes/emails/invoice-copy.php:14
+#, php-format
+msgid "<strong>Document name:</strong> %s"
+msgstr "<strong>Dokumentum neve:</strong> %s"
+
+#: includes/emails/invoice-copy.php:13
+#, php-format
+msgid "<strong>Document type:</strong> %s"
+msgstr "<strong>Dokumentum típusa:</strong> %s"
+
+#: includes/class-grouped-invoice.php:87
+#, php-format
+msgid ""
+"A combined invoice has been created for this order. This invoice also has line items from the "
+"following orders: #%1$s"
+msgstr ""
+"Ehhez a rendeléshez gyűjtőszámla készült. A számlán a következő rendelések tételei szerepelnek: #"
+"%1$s"
+
+#: includes/class-grouped-invoice.php:92
+#, php-format
+msgid ""
+"A combined invoice has been created for this order. You can find the invoice on the main order: #"
+"%1$s"
+msgstr "Ehhez a rendeléshez egy gyűjtőszámla készült. A számlát a(z) #%1$s számú rendelésnél találod"
+
+#: includes/class-settings.php:409
+msgid "A reverse invoice will be generated automatically if the order is in this status."
+msgstr ""
+"Ha a rendelés ebbe a státuszba kerül, akkor automatán létrehozza a sztornó számlát(természetesen "
+"csak akkor, ha már van a rendeléshez számla csinálva)."
+
+#: includes/class-settings.php:675
+msgid "A4 format"
+msgstr "A4-es formátum"
+
+#: includes/class-helpers.php:50
+msgid "AAM"
+msgstr "AAM"
+
+#: includes/class-settings.php:199
+msgid "AAM and 27% VAT rate at the same time"
+msgstr "AAM és 27%-os áfakulcs egyszerre"
+
+#: includes/views/html-admin-accounts.php:49
+msgid "Account name"
+msgstr "Fiók neve"
+
+#: includes/class-settings.php:223
+msgid "Account settings"
+msgstr "Fiók beállítások"
+
+#: includes/class-settings.php:772 includes/class-settings.php:790 includes/class-settings.php:805
+msgid "Accounting details"
+msgstr "Könyvelési adatok"
+
+#: includes/views/html-admin-sidebar.php:79
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: includes/views/html-admin-accounts.php:87
+msgid "Add a new account"
+msgstr "Új fiók hozzáadása"
+
+#: includes/views/html-admin-notes.php:131
+msgid "Add a new note"
+msgstr "Új megjegyzés hozzáadása"
+
+#: includes/views/html-admin-automations.php:164
+msgid "Add new automation"
+msgstr "Új automatizálás"
+
+#: includes/views/html-admin-eusafa.php:79
+msgid "Add new logic"
+msgstr "Új logika hozzáadása"
+
+#: includes/views/html-admin-vat-overrides.php:108
+msgid "Add new override"
+msgstr "Új áfakulcs felülírás"
+
+#: includes/views/html-admin-notes.php:109 includes/views/html-admin-notes.php:146
+msgid "Add note to invoice, if"
+msgstr "Megjegyzés hozzáadása a számlához, ha az"
+
+#: includes/views/html-admin-notes.php:122 includes/views/html-admin-notes.php:161
+msgid "Add to the end of an existing note"
+msgstr "Hozzáadás a meglévő megjegyzés végéhez"
+
+#: includes/class-settings.php:952
+msgid "Address"
+msgstr "Cím"
+
+#: includes/class-settings.php:388
+msgid "Advanced settings to setup automations."
+msgstr "Egyedi automatizálási logikák beállítása"
+
+#: includes/class-settings.php:299
+msgid "Advanced settings to setup VAT rates."
+msgstr "Speciális beállítások az áfakulcsokhoz"
+
+#: includes/views/html-admin-automations.php:29
+#, php-format
+msgid "after %1$s status"
+msgstr "%1$s státusznál"
+
+#: index.php:1821 includes/class-xml-generator.php:171
+#, php-format
+msgid "Agent error code: %s"
+msgstr "Agent hibakód: %s"
+
+#: index.php:1822 includes/class-xml-generator.php:172
+#, php-format
+msgid "Agent error message: %s"
+msgstr "Agent hibaüzenet: %s"
+
+#: includes/views/html-admin-accounts.php:50
+msgid "Agent key"
+msgstr "Agent Kulcs"
+
+#: includes/views/html-admin-automations.php:152 includes/views/html-admin-automations.php:233
+#: includes/views/html-admin-notes.php:112 includes/views/html-admin-notes.php:149
+msgid "All"
+msgstr "Összes"
+
+#: includes/class-grouped-invoice.php:70
+#, php-format
+msgid "An invoice has been already created for the selected orders(#%1$s)."
+msgstr "A kiválaszott rendeléshez(#%1$s) már készült számla."
+
+#: includes/views/html-metabox.php:109
+msgid "Are you sure you want to create the receipt?"
+msgstr "Biztosan létrehozod a nyugtát?"
+
+#: includes/emails/invoice-copy.php:18 includes/emails/invoice-error.php:12
+msgid "As a reminder, here are your order details:"
+msgstr "Emlékeztetőül a rendelés részletei:"
+
+#: includes/class-settings.php:606
+msgid "At the beginning"
+msgstr "Levél elején"
+
+#: includes/class-settings.php:607
+msgid "At the end"
+msgstr "Levél végén"
+
+#: includes/class-helpers.php:63
+msgid "ATK"
+msgstr "ATK"
+
+#: includes/class-settings.php:558
+msgid "Attach invoices to e-mail"
+msgstr "Számlák csatolása WC levelekhez"
+
+#: includes/class-settings.php:399
+msgid "Automatic billing"
+msgstr "Automata számlakészítés"
+
+#: includes/views/html-admin-sidebar.php:83
+msgid "Automatic invoicing"
+msgstr "Automata számlakészítés"
+
+#: includes/class-settings.php:406
+msgid "Automatic reverse invoice"
+msgstr "Automata sztornózás"
+
+#: includes/views/html-admin-automations.php:24
+msgctxt "Automation trigger"
+msgid "On successful payment"
+msgstr "Sikeres fizetés után"
+
+#: includes/views/html-admin-automations.php:23
+msgctxt "Automation trigger"
+msgid "When order created"
+msgstr "Rendelés létrehozásakor"
+
+#: includes/class-settings.php:380
+msgid "Automatization"
+msgstr "Automatizálás"
+
+#: includes/class-settings.php:358 includes/views/html-invoice-preview.php:41
+msgid "Bank account number"
+msgstr "Bankszámlaszám"
+
+#: includes/class-settings.php:353
+msgid "Bank name"
+msgstr "Bank neve"
+
+#: includes/views/html-invoice-preview.php:40
+msgid "Bank name:"
+msgstr "Bank neve:"
+
+#: includes/views/html-admin-vat-overrides.php:99 includes/views/html-admin-vat-overrides.php:140
+#: includes/views/html-admin-eusafa.php:70 includes/views/html-admin-eusafa.php:94
+msgid "Based on the following conditions:"
+msgstr "A következő feltételek esetén:"
+
+#: includes/views/html-admin-automations.php:61 includes/views/html-admin-notes.php:55
+#: includes/views/html-admin-vat-overrides.php:45 includes/views/html-admin-eusafa.php:33
+msgid "Billing address"
+msgstr "Számlázási cím"
+
+#: includes/views/html-admin-automations.php:68 includes/views/html-admin-notes.php:62
+#: includes/views/html-admin-vat-overrides.php:52 includes/views/html-admin-eusafa.php:40
+msgid "Billing country"
+msgstr "Számlázási ország"
+
+#: includes/views/html-metabox-vat.php:36
+msgid "Building"
+msgstr "Épület"
+
+#: includes/class-grouped-invoice.php:21
+msgctxt "bulk action"
+msgid "Create combined invoice"
+msgstr "Gyűjtőszámla létrehozása"
+
+#: includes/class-bulk-actions.php:35
+msgctxt "bulk action"
+msgid "Create documents"
+msgstr "Bizonylatok létrehozása"
+
+#: includes/class-bulk-actions.php:31
+msgctxt "bulk action"
+msgid "Create invoices"
+msgstr "Számlák létrehozása"
+
+#: includes/class-bulk-actions.php:34
+msgctxt "bulk action"
+msgid "Create reverse invoices"
+msgstr "Sztornó számlák létrehozása"
+
+#: includes/class-bulk-actions.php:37
+msgctxt "bulk action"
+msgid "Download delivery notes"
+msgstr "Szállítólevelek letöltése"
+
+#: includes/class-bulk-actions.php:33
+msgctxt "bulk action"
+msgid "Download invoices"
+msgstr "Számlák letöltése"
+
+#: includes/class-bulk-actions.php:36
+msgctxt "bulk action"
+msgid "Print delivery notes"
+msgstr "Szállítólevelek nyomtatása"
+
+#: includes/class-bulk-actions.php:32
+msgctxt "bulk action"
+msgid "Print invoices"
+msgstr "Számlák nyomtatása"
+
+#: includes/class-settings.php:754
+msgid "Bulk actions"
+msgstr "Csoportos műveletek"
+
+#: includes/class-settings.php:763
+msgctxt "bulk actions settings"
+msgid "Create documents (PRO)"
+msgstr "Bizonylatok létrehozása (PRO)"
+
+#: includes/class-settings.php:766
+msgctxt "bulk actions settings"
+msgid "Create grouped invoice (PRO)"
+msgstr "Gyűjtőszámla létrehozása (PRO)"
+
+#: includes/class-settings.php:759
+msgctxt "bulk actions settings"
+msgid "Create invoices"
+msgstr "Számlák létrehozása"
+
+#: includes/class-settings.php:762
+msgctxt "bulk actions settings"
+msgid "Create reverse invoices"
+msgstr "Sztornó számlák létrehozása"
+
+#: includes/class-settings.php:765
+msgctxt "bulk actions settings"
+msgid "Download delivery notes"
+msgstr "Szállítólevelek letöltése"
+
+#: includes/class-settings.php:761
+msgctxt "bulk actions settings"
+msgid "Download invoices"
+msgstr "Számlák letöltése"
+
+#: includes/class-settings.php:764
+msgctxt "bulk actions settings"
+msgid "Print delivery notes"
+msgstr "Szállítólevelek nyomtatása"
+
+#: includes/class-settings.php:760
+msgctxt "bulk actions settings"
+msgid "Print invoices"
+msgstr "Számlák nyomtatása"
+
+#: includes/views/html-modal-grouped.php:30
+msgid ""
+"By combining the items in the orders below, you can create a single invoice. Select the order that "
+"will be the basis of the combined invoice: it will use the shipping and billing address of this "
+"order when creating the invoice."
+msgstr ""
+"Az alábbi rendelésekben lévő tételekről egyesítve, egy darab számlát készíthetsz. Válaszd ki azt a "
+"rendelést, ami a gyűjtőszámla alapja lesz: ennek a rendelésenek a szállítási és számlázási címét "
+"fogja használni a számlakészítésnél."
+
+#: includes/views/html-admin-accounts.php:60 includes/views/html-admin-accounts.php:100
+msgid "Can be anything"
+msgstr "Bármi lehet…"
+
+#: includes/class-settings.php:716
+msgid "Cancellation using a correction invoice"
+msgstr "Sztornózás helyesbítő számlával"
+
+#: includes/class-admin-notices.php:108
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: includes/class-settings.php:954 includes/views/html-metabox-vat.php:32
+msgid "City"
+msgstr "Város"
+
+#: includes/compatibility/class-compatibility.php:18
+msgid "Cloning this object is forbidden."
+msgstr "Cloning this object is forbidden."
+
+#: includes/class-panel-inbox.php:191
+msgid "Close"
+msgstr "Bezárás"
+
+#: includes/class-settings.php:739
+msgid "Combined invoice order status"
+msgstr "Gyűjtőszámlához kapcsolódó rendelések státusza"
+
+#: includes/views/html-admin-accounts.php:32 includes/views/html-admin-automations.php:53
+#: includes/views/html-admin-notes.php:25 includes/views/html-admin-vat-overrides.php:37
+#: includes/views/html-admin-eusafa.php:25
+msgid "Company"
+msgstr "Céges"
+
+#: includes/class-settings.php:951
+msgid "Company name"
+msgstr "Cég"
+
+#: includes/class-settings.php:343
+msgid "Company name + name"
+msgstr "Cégnév + név"
+
+#: includes/views/html-modal-generator.php:96 includes/views/html-invoice-preview.php:69
+#: includes/views/html-admin-automations.php:122 includes/views/html-admin-automations.php:204
+#: includes/views/html-metabox.php:176
+msgid "Completion date"
+msgstr "Teljesítés dátum"
+
+#: includes/views/html-admin-accounts.php:51
+msgid "Condition"
+msgstr "Feltétel"
+
+#: includes/views/html-admin-automations.php:116 includes/views/html-admin-automations.php:198
+msgid "Conditional logic"
+msgstr "Feltételes mód"
+
+#: includes/class-helpers.php:38
+msgid "Correction invoice"
+msgstr "Helyesbítő számla"
+
+#: includes/views/html-metabox.php:87
+msgctxt "Correction invoice"
+msgid "Are you sure?"
+msgstr "Biztosan létrehozod?"
+
+#: index.php:1084
+msgid "Correction invoice generated."
+msgstr "Helyesbítő számla létrehozva."
+
+#: includes/views/html-product-options.php:59 includes/views/html-variable-options.php:53
+msgid "Cost on invoice"
+msgstr "Egyedi ár a számlán"
+
+#: includes/class-settings.php:956
+msgid "Country"
+msgstr "Ország"
+
+#: includes/views/html-metabox-vat.php:30
+msgid "Country code"
+msgstr "Országkód"
+
+#: includes/views/html-modal-grouped.php:13
+msgid "Create a combined invoice"
+msgstr "Gyűjtőszámla készítése"
+
+#: includes/class-settings.php:731
+msgid "Create a ZIP file during bulk download"
+msgstr "ZIP fájl készítése csoportos letöltésnél"
+
+#: includes/views/html-metabox.php:208
+msgid "Create an invoice instead"
+msgstr "Számlát csinálok helyette"
+
+#: includes/views/html-admin-sidebar.php:84
+msgid "Create automatic proforma invoices"
+msgstr "Automata díjbekérő létrehozása"
+
+#: includes/views/html-modal-grouped.php:42
+msgid "Create combined invoice"
+msgstr "Számla elkészítése"
+
+#: includes/views/html-metabox.php:124
+msgid "Create invoice"
+msgstr "Számlakészítés"
+
+#: includes/views/html-metabox.php:110
+msgid "Create receipt"
+msgstr "Nyugta készítés"
+
+#: includes/views/html-admin-automations.php:103 includes/views/html-admin-automations.php:185
+msgid "creation"
+msgstr "létrehozása"
+
+#: includes/class-helpers.php:19
+msgid "Croatian"
+msgstr "Horvát"
+
+#: includes/views/html-admin-accounts.php:21
+msgid "Currency"
+msgstr "Pénznem"
+
+#: includes/class-settings.php:387
+msgid "Custom automations"
+msgstr "Egyedi automatizálás"
+
+#: includes/class-settings.php:298
+msgid "Custom VAT rate overrrides"
+msgstr "Egyedi áfakulcs felülírás"
+
+#: includes/class-settings.php:799
+msgid "Customer ledger number"
+msgstr "Vevő főkönyvi azonosító"
+
+#: includes/class-helpers.php:24
+msgid "Czech"
+msgstr "Cseh"
+
+#: includes/class-settings.php:1224
+msgid "Database upgrade"
+msgstr "Adatbázis frissítése"
+
+#: includes/views/html-admin-automations.php:132 includes/views/html-admin-automations.php:137
+#: includes/views/html-admin-automations.php:218
+msgid "day"
+msgstr "nap"
+
+#: includes/views/html-admin-sidebar.php:57
+msgid "Deactivate license"
+msgstr "Deaktiválás"
+
+#: index.php:2739 includes/class-settings.php:271 includes/class-helpers.php:45
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: includes/views/html-admin-accounting-details.php:13
+msgid "Default values"
+msgstr "Alapértelmezett értékek"
+
+#: includes/class-settings.php:711
+msgid "Delayed invoice generation"
+msgstr "Késleltetett számlakészítés"
+
+#: includes/views/html-admin-automations.php:118 includes/views/html-admin-automations.php:200
+#: includes/views/html-admin-notes.php:116 includes/views/html-admin-notes.php:153
+#: includes/views/html-admin-vat-overrides.php:94 includes/views/html-admin-vat-overrides.php:135
+#: includes/views/html-admin-eusafa.php:65 includes/views/html-admin-eusafa.php:89
+msgid "delete"
+msgstr "törlés"
+
+#: includes/class-settings.php:747
+msgid "Delete proform invoices after reverse invoice"
+msgstr "Díjbekérő törlése sztornózáskor"
+
+#: includes/class-settings.php:726
+msgid "Delete settings"
+msgstr "Beállítások törlése"
+
+#: includes/class-helpers.php:35 includes/emails/email-szamlazz-section.php:36
+#: includes/views/html-modal-generator.php:47 includes/views/html-admin-automations.php:17
+#: includes/views/html-metabox.php:197 includes/views/html-metabox.php:251
+#: includes/views/html-admin-notes.php:46 includes/emails/plain/email-szamlazz-section.php:30
+msgid "Delivery note"
+msgstr "Szállítólevél"
+
+#: includes/class-settings.php:436
+msgid "Delivery note alongside with invoice"
+msgstr "Szállítólevél számla mellé"
+
+#: includes/class-settings.php:595
+msgid "Delivery note pairing"
+msgstr "Szállítólevél csatolása"
+
+#: index.php:1068
+msgid "Delivery note successfully generated."
+msgstr "Szállítólevél sikeresen létrehozva."
+
+#: includes/class-helpers.php:31 includes/emails/email-szamlazz-section.php:21
+#: includes/views/html-admin-payment-methods.php:20 includes/views/html-modal-generator.php:43
+#: includes/views/html-admin-automations.php:15 includes/views/html-metabox.php:193
+#: includes/views/html-metabox.php:245 includes/views/html-admin-notes.php:45
+#: includes/emails/plain/email-szamlazz-section.php:18
+msgid "Deposit invoice"
+msgstr "Előlegszámla"
+
+#: includes/class-settings.php:581
+msgid "Deposit invoice pairing"
+msgstr "Előlegszámla csatolása"
+
+#: index.php:1052
+msgid "Deposit invoice successfully generated and sent to the customer via e-mail."
+msgstr "Előlegszámla sikeresen létrehozva és elküldve a vásárlónak e-mailben."
+
+#: index.php:1052
+msgid "Deposit invoice successfully generated."
+msgstr "Előlegszámla sikeresen létrehozva."
+
+#: includes/views/html-invoice-preview.php:86
+msgid "Description"
+msgstr "Megnevezés"
+
+#: includes/class-settings.php:701
+msgid "Developer mode"
+msgstr "Fejlesztői mód"
+
+#: includes/views/html-invoice-preview.php:150
+msgid "Development mode details:"
+msgstr "Fejlesztői mód számla adatok:"
+
+#: includes/class-health-check.php:26
+#, php-format
+msgid ""
+"Diagnostic informations related to the Számlázz.hu WooCommerce extension. If you have some "
+"questions or something is not working correctly, please forward these details too: <a href=\"%1$s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">Támogatás</a>"
+msgstr ""
+"Diagnosztikai információk a Számlázz.hu WooCommerce integrációhoz kapcsolódóan. Ha kérdésed van "
+"vagy valami nem működik, mellékeld ezeket az adatokat is: <a href=\"%1$s\" target=\"_blank\" rel="
+"\"noopener noreferrer\">Támogatás</a>"
+
+#: includes/class-settings.php:779 includes/views/html-admin-eusafa.php:64
+#: includes/views/html-admin-eusafa.php:88
+msgid "Disable data disclosure towards NTCAs"
+msgstr "NAV továbbítás kikapcsolása"
+
+#: includes/views/html-metabox.php:202
+msgid "Disable invoicing"
+msgstr "Számlakészítés kikapcsolása"
+
+#: index.php:2520 includes/class-settings.php:456 includes/views/html-admin-vat-overrides.php:15
+msgid "Discount"
+msgstr "Kedvezmény"
+
+#: includes/class-settings.php:448
+msgid "Discount as a separate line item"
+msgstr "Kupon külön tételként"
+
+#: includes/class-settings.php:461
+msgid "Discount line item description"
+msgstr "Kupon tétel leírása"
+
+#: includes/class-settings.php:454
+msgid "Discount line item name"
+msgstr "Kupon tétel neve"
+
+#: includes/class-settings.php:468
+msgid "Discounted product note"
+msgstr "Akciós termék megjegyzés"
+
+#: includes/class-settings.php:443
+msgid "Discounts"
+msgstr "Kuponok"
+
+#: includes/views/html-admin-auto-ipn.php:22
+msgid "Do not change status"
+msgstr "Ne módosítson státuszt"
+
+#: includes/class-settings.php:478
+msgid "Do not create an invoice for free orders"
+msgstr "Ingyenes rendelésnél ne készüljön számla"
+
+#: includes/views/html-admin-payment-methods.php:22
+msgid "DO NOT generate automatically"
+msgstr "NE számlázzon automatán"
+
+#: includes/class-ajax.php:153
+msgid "Document already generated"
+msgstr "Ez a dokumentum már létre lett hozva"
+
+#: includes/class-settings.php:366
+msgid "Document design"
+msgstr "Számlakép"
+
+#: includes/views/html-metabox.php:256
+msgid "Document name"
+msgstr "Dokumentum neve"
+
+#: includes/views/html-modal-generator.php:32 includes/views/html-metabox.php:182
+#: includes/views/html-metabox.php:228 includes/views/html-admin-notes.php:41
+msgid "Document type"
+msgstr "Dokumentum típusa"
+
+#: includes/emails/invoice-copy.php:10
+#, php-format
+msgid ""
+"Document(%2$s - %3$s) for order #%1$s created successfully created. The PDF file is attached to "
+"this email."
+msgstr ""
+"A #%1$s sorszámú rendeléshez tartozó dokumentum(%2$s - %3$s) sikeresen létrehozva. Csatolmányban "
+"találod."
+
+#: index.php:2237 includes/views/html-admin-sidebar.php:145
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: includes/views/html-metabox-vat.php:39
+msgid "Door"
+msgstr "Ajtó"
+
+#: includes/views/html-notice-bulk.php:18
+msgid "Download"
+msgstr "Letöltés"
+
+#: includes/class-settings.php:721
+msgid "Download icons in the tools column"
+msgstr "Számla gombok a műveletek oszlopban"
+
+#: includes/views/html-invoice-preview.php:77
+msgid "Due date"
+msgstr "Fizetési határidő"
+
+#: includes/views/html-admin-sidebar.php:146
+msgid "E-mail (support@visztpeter.me)"
+msgstr "E-mail (support@visztpeter.me)"
+
+#: includes/class-settings.php:706
+msgid "E-mail address for error notifications"
+msgstr "Email cím hibajelzéshez"
+
+#: includes/class-settings.php:602
+msgid "E-mail link position"
+msgstr "E-mail link pozíció"
+
+#: includes/class-settings.php:625
+msgid "E-Receipt"
+msgstr "E-Nyugta"
+
+#: includes/class-helpers.php:65
+msgid "EAM"
+msgstr "EAM"
+
+#: includes/views/html-admin-accounting-details.php:38
+#: includes/views/html-admin-accounting-details.php:42
+msgid "Economic event"
+msgstr "Gazd. esemény"
+
+#: includes/class-settings.php:261 includes/class-settings.php:272
+#: includes/views/html-modal-generator.php:79 includes/views/html-metabox.php:159
+msgid "Electronic"
+msgstr "Elektronikus"
+
+#: includes/class-helpers.php:16
+msgid "English"
+msgstr "Angol"
+
+#: includes/class-panel-inbox.php:145
+msgid ""
+"Enjoyed <strong>WooCommerce Számlázz.hu</strong>? Please leave us a ★★★★★ rating. We appreciate "
+"your support!"
+msgstr ""
+"Tetszik a <strong>Számlázz.hu</strong> bővítmény? Kérlek, értékeld a WordPress.org-on. Csak egy "
+"perc az egész. Köszönöm!"
+
+#: includes/views/html-product-options.php:35 includes/views/html-variable-options.php:32
+msgid "Enter a custom name that will appear on the invoice. Default is the name of the product."
+msgstr "Itt módosíthatod a tétel nevét, ha mást szeretnél a számlára írni, mint a termék neve."
+
+#: includes/class-product-options.php:37
+msgid ""
+"Enter a custom name that will appear on the invoice. Default is the name of the shipping method."
+msgstr ""
+"Itt módosíthatod a tétel nevét, ha mást szeretnél a számlára írni, mint a fent megadott szállítási "
+"mód neve."
+
+#: includes/class-settings.php:225
+msgid "Enter the Agent Key that you generated on szamlazz.hu."
+msgstr "Add meg a számlázz.hu-n generált Számla Agent kulcsot."
+
+#: includes/class-settings.php:370
+msgid "Envelope-friendly"
+msgstr "Borítékbarát számlakép"
+
+#: includes/views/html-admin-automations.php:252 includes/views/html-admin-notes.php:177
+#: includes/views/html-admin-vat-overrides.php:155 includes/views/html-admin-eusafa.php:109
+msgid "Equal"
+msgstr "Egyenlő"
+
+#: includes/class-helpers.php:51
+msgid "EU"
+msgstr "EU"
+
+#: includes/views/html-invoice-preview.php:56
+msgid "EU VAT Number"
+msgstr "Közösségi adószám"
+
+#: includes/class-helpers.php:60
+msgid "EUE"
+msgstr "EUE"
+
+#: includes/class-helpers.php:62
+msgid "EUFAD37"
+msgstr "EUFAD37"
+
+#: includes/class-helpers.php:61
+msgid "EUFADE"
+msgstr "EUFADE"
+
+#: includes/class-helpers.php:53
+msgid "EUK"
+msgstr "EUK"
+
+#: includes/class-helpers.php:54
+msgid "EUKT"
+msgstr "EUKT"
+
+#: includes/class-settings.php:315
+#| msgid "EUK vat rate"
+msgid "EUKT vat rate"
+msgstr "EUKT áfakulcs"
+
+#: includes/views/html-admin-accounts.php:24
+msgid "Euro"
+msgstr "Euró"
+
+#: includes/class-helpers.php:52
+msgid "EUT"
+msgstr "EUT"
+
+#: includes/class-settings.php:309
+#| msgid "EU vat rate"
+msgid "EUT vat rate"
+msgstr "EUT áfakulcs"
+
+#: includes/class-helpers.php:56
+msgid "F.AFA"
+msgstr "F.AFA"
+
+#: index.php:2064 index.php:2070
+msgid "Failed invoice generation"
+msgstr "Sikertelen számlakészítés"
+
+#: index.php:1171
+msgid "Failed to mark the invoice as paid."
+msgstr "Nem sikerült fizetettnek jelölni a számlát."
+
+#: index.php:1174
+#, php-format
+msgid "Failed to mark the Szamlazz.hu invoice as paid! Agent error code: %s"
+msgstr "Szamlazz.hu teljesítettnek jelölés sikertelen! Agent hibakód: %s"
+
+#: includes/views/html-admin-vat-overrides.php:16
+msgid "Fee"
+msgstr "Díj"
+
+#: includes/class-settings.php:512
+msgid "Fill in the address automatically"
+msgstr "Adatok kitöltése adószám alapján"
+
+#: includes/views/html-metabox-vat.php:38
+msgid "Floor"
+msgstr "Emelet"
+
+#: includes/views/html-admin-accounting-details.php:29
+msgid "For Hungarian billing address"
+msgstr "Magyar számlázási címnél"
+
+#: includes/views/html-admin-accounting-details.php:30
+msgid "For international billing address"
+msgstr "Külföldi számlázási címnél"
+
+#: includes/class-panel-inbox.php:188
+#, php-format
+msgid ""
+"For some reason, the extension was unable to generate an invoice for this order: #%s. You can see "
+"more details in the order notes."
+msgstr ""
+"A #%s sorszámú rendeléshez tartozó számlát nem sikerült valamiért létrehozni automatikusan. A "
+"rendelés jegyzetekben látod a pontos hibát."
+
+#: includes/views/html-admin-accounts.php:23
+msgid "Forint"
+msgstr "Forint"
+
+#: includes/views/html-admin-sidebar.php:147
+msgid "Forum thread on WordPress.org"
+msgstr "Fórum a WordPress.org-on"
+
+#: includes/class-helpers.php:18
+msgid "French"
+msgstr "Francia"
+
+#: includes/class-settings.php:644
+msgid "General notice that is visible on the receipt"
+msgstr "Általános szöveges megjegyzés, nyugtán megjelenik"
+
+#: includes/class-settings.php:253
+msgid "General settings related to invoices."
+msgstr "A számlával kapcsolatos alapértelmezett beállítások."
+
+#: includes/views/html-modal-generator.php:106
+msgid "Generate documents"
+msgstr "Dokumentumok készítése"
+
+#: includes/compatibility/modules/class-wc-szamlazz-subscriptions.php:35
+msgid "Generate invoice on payment complete"
+msgstr "Számla készítése sikeres fizetés után"
+
+#: includes/compatibility/modules/class-wc-szamlazz-subscriptions.php:29
+msgid "Generate proform or deposit on renewal order"
+msgstr "Díjbekérő vagy előlegszámla készítése új előfizetési ciklusnál"
+
+#: includes/class-background-generator.php:75
+msgid "Generating invoices..."
+msgstr "Számlák készítése..."
+
+#: includes/views/html-admin-sidebar.php:86
+msgid "Generating receipts"
+msgstr "E-Nyugta készítés"
+
+#: includes/class-helpers.php:15
+msgid "German"
+msgstr "Német"
+
+#: includes/views/html-notice-pro-expired.php:15
+msgid "Go to Settings"
+msgstr "Tovább a beállításokhoz"
+
+#: includes/views/html-modal-grouped.php:27
+msgid "Go to the order"
+msgstr "Tovább a rendeléshez"
+
+#: includes/views/html-invoice-preview.php:92
+msgid "Gross price"
+msgstr "Bruttó ár"
+
+#: includes/views/html-modal-generator.php:86 includes/views/html-metabox.php:166
+msgid "Here you can override the note specified in settings"
+msgstr "Itt felülírhatod a bővítmény beállításaiban megadott megjegyzést"
+
+#: includes/class-panel-inbox.php:169
+msgid ""
+"Hi, looks like you using <b>WooCommerce Szamlazz.hu</b> for some time and I hope this software "
+"helped you with your business. This is just a reminder, that there's a PRO version of this "
+"extension that offers more features :)"
+msgstr ""
+"Már egy ideje használod a WooCommerce Számlázz.hu bővítményt, viszont a PRO verziót még nem "
+"próbáltad ki. Csak egy emlékeztető, hogy létezik ilyen is :)"
+
+#: includes/class-settings.php:683
+msgid "Hidden checkout fields"
+msgstr "Rejtett pénztár mezők"
+
+#: includes/class-panel-inbox.php:129
+msgid "Hide"
+msgstr "Elrejtés"
+
+#: includes/class-settings.php:473
+msgid "Hide free shipping"
+msgstr "Ingyenes szállítás elrejtése"
+
+#: includes/views/html-product-options.php:50 includes/views/html-variable-options.php:45
+msgid "Hide from invoice"
+msgstr "Elrejtés számlán"
+
+#: includes/class-settings.php:348
+msgid "Hide shipping details"
+msgstr "Szállítási adatok elrejtése"
+
+#: includes/views/html-admin-sidebar.php:135
+msgid "Hide this section"
+msgstr "Ne mutassa többet"
+
+#: includes/class-xml-generator.php:154
+#, php-format
+msgid "Http error: %s"
+msgstr "Http hiba: %s"
+
+#. URI of the plugin
+msgid "http://visztpeter.me"
+msgstr "http://visztpeter.me"
+
+#: includes/class-helpers.php:14
+msgid "Hungarian"
+msgstr "Magyar"
+
+#: includes/class-settings.php:233
+msgid "I have multiple accounts"
+msgstr "Több fiókot használok"
+
+#: includes/class-checkout-receipt.php:45
+msgid "I need an invoice instead of a receipt"
+msgstr "Nyugta helyett szeretnék számlát kérni"
+
+#: includes/class-settings.php:433
+msgid ""
+"If a deposit or proforma invoice was marked as payment completed in Számlázz.hu and if it notifies "
+"your website via IPN about it, the order will be marked with this status."
+msgstr ""
+"Ha a Számlázz.hu IPN-en keresztül szól, hogy ki lett egyenlítve a számla, akkor a rendelést ebbe a "
+"státuszba helyezi."
+
+#: includes/compatibility/modules/class-wc-szamlazz-subscriptions.php:32
+msgid ""
+"If checked, a proform invoice will be created when a new renewal order is created(based on the "
+"payment method settings in the automatization section)."
+msgstr ""
+"Ha be van pipálva, előlegszámla vagy díjbekérő készül akkor, amikor egy új előfizetési ciklus jön "
+"létre(az automatizálás szekcióban lévő fizetési mód beállítások szerint)"
+
+#: includes/compatibility/modules/class-wc-szamlazz-subscriptions.php:38
+msgid ""
+"If checked, and invoice will be created automatically when the order is set to paid by WooCommerce "
+"Subscriptions."
+msgstr ""
+"Ha be van pipálva, akkor számlát generál, ha a WooCommerce Subscriptions bővítményt fizetettnek "
+"jelölt egy rendelést."
+
+#: includes/views/html-product-options.php:44 includes/views/html-variable-options.php:40
+msgid ""
+"If checked, no invoice will be automatically issued for the order if this product is included in "
+"the order."
+msgstr ""
+"Ha be van pipálva, nem készül automatán számla a rendeléshez, ha ez a termék is benne van a "
+"rendelésben."
+
+#: includes/views/html-product-options.php:53 includes/views/html-variable-options.php:48
+msgid "If checked, this product will be hidden on the invoices."
+msgstr "Ha be van pipálva, akkor ez a termék nem látszódik a számlán."
+
+#: includes/class-settings.php:667
+msgid "If someone replies to the email, this will be the reply address(reply-to)"
+msgstr "Ha valaki válaszol az emailre, erre a címre érkezik a válasz(reply-to)"
+
+#: includes/class-settings.php:536
+msgid "If someone responds to the notification e-mail, this will be the reply-to address."
+msgstr "Ha valaki válaszol a számlaértesítőre, akkor ide fog menni az email."
+
+#: includes/class-settings.php:242
+msgid ""
+"If the condition is not matched, it will use the default Számla Agent Key for automatic invoice "
+"generation. You can change the account if you are creating an invoice manually."
+msgstr ""
+"Ha a feltétel nem teljesül, akkor az alapértelmezett Számla Agent Kulcsot fogja használni az "
+"automatikus számlakészítésnél. Manuális számlakészítéskor kiválasztható, hogy melyik fiókot "
+"használod."
+
+#: includes/class-settings.php:516
+msgid ""
+"If the customer enters a VAT number, it will validate it and also prefill the address and company "
+"name fields automatically."
+msgstr ""
+"Ha a vásárló megadta az adószámot, akkor a pénztár oldalon automatikusan kitölti a cégnevet, "
+"irányítószámot, várost és címet."
+
+#: includes/class-settings.php:488
+msgid ""
+"If the customer is a company, you are required to collect a VAT number. You can use these options "
+"to show an extra field on the checkout form."
+msgstr ""
+"Céges rendeléseknél kötelező adószámot bekérni, ha van a vevőnek. Az alábbi opciókkal egy adószám "
+"mezőt lehet hozzáadni a pénztár űrlaphoz."
+
+#: includes/class-settings.php:801
+msgid "If the customer is a registered user, the user id will be stored as the buyer's ledger number."
+msgstr ""
+"Ha be van pipálva, akkor a vásárló azonosítóját(regisztrált felhasználó esetén) a vevő főkönyvi "
+"azonosítójaként eltárolja."
+
+#: includes/class-settings.php:698
+msgid ""
+"If the order of the name is not correct on the invoice, you can use this option to switch the first/"
+"last name."
+msgstr ""
+"Ha rosszul jelenik meg a számlán a vevő neve, ezzel az opcióval meg lehet cserélni a vezetéknevet "
+"és a keresztnevet."
+
+#: includes/class-settings.php:780
+msgid ""
+"If there is no hungarian VAT on the receipt, data disclosure towards NTCAs Online Invoice System "
+"might not be needed. You can use this option to setup a conditional logic for this."
+msgstr ""
+"Ha be vagy jelentkezve az OSS alá, akkor a rendszer a külföldi áfakulccsal kiállított számlákat nem "
+"továbbítja a NAV rendszere felé. Ezzel a beállítással beállíthatod, hogy mikor ne továbbítsa. "
+
+#: includes/class-settings.php:316
+#| msgid ""
+#| "If there's 0% VAT on the invoice and the customer's billing and shipping location is outside of "
+#| "the EU, it will use the EUK vat rate."
+msgid ""
+"If there's 0% VAT on the invoice and the customer's billing and shipping location is outside of the "
+"EU, it will use the EUKT vat rate."
+msgstr ""
+"Ha a számlán 0% áfa van és az Európai Unión kívül van a számlázási és szállítási ország, akkor EUKT "
+"áfakulcsot alkalmazzon."
+
+#: includes/class-settings.php:310
+#| msgid ""
+#| "If there's 0% VAT on the invoice, but the customer entered an EU VAT Number, it will use the EU "
+#| "vat rate instead of 0%."
+msgid ""
+"If there's 0% VAT on the invoice, but the customer entered an EU VAT Number, it will use the EUT "
+"vat rate instead of 0%."
+msgstr ""
+"Ha a számlán 0% áfa van és adott meg EU-s adószámot a vásárló, akkor EUT áfakulcsot alkalmazzon."
+
+#: includes/class-settings.php:345
+msgid ""
+"If turned on and the buyer enters a company name, the regular first/last name will be visible after "
+"the company name on the invoice."
+msgstr ""
+"Ha be van kapcsolva és vásárláskor cégnév van megadva, a vásárló nevét is feltünteti egy kötőjellel "
+"a cégnév után a számlán."
+
+#: includes/class-settings.php:438
+msgid "If turned on, a delivery note will be generated alongside with the invoice."
+msgstr "Ha be van kapcsolva, akkor a számla mellé automatán elkészül a szállítólevél is."
+
+#: includes/class-settings.php:728
+msgid "If turned on, during plugin uninstall it will also delete all settings from the database."
+msgstr ""
+"Ha be van kapcsolva, akkor a bővítmény törlése esetén a tárolt beállításokat is le fogja törölni az "
+"adatbázisból."
+
+#: includes/class-settings.php:350
+msgid "If turned on, it will hide the buyer's shipping address in the invoice."
+msgstr ""
+"Ha be van kapcsolva, akkor nem tüntetni fel a vásárló szállítási címét a számlán, csak a "
+"számlázásit."
+
+#: includes/class-settings.php:480
+msgid "If turned on, it won't create an invoice automatically for free orders."
+msgstr ""
+"Ha be van kapcsolva, akkor 0 ft-os végösszegű rendelésnél automatikusan kikapcsolja a "
+"számlakészítést."
+
+#: includes/class-settings.php:750
+msgid ""
+"If turned on, proform invoices will be deleted automatically when you create a reverse invoice."
+msgstr "Ha be van kapcsolva, a díjbekérőt is letörli automatán sztornózáskor."
+
+#: includes/class-settings.php:529
+msgid "If turned on, Szamlazz.hu will email the customer about the invoice automatically."
+msgstr "Ha be van kapcsolva, akkor a vásárlónak a szamlazz.hu kiküldi a számlaértesítőt automatán."
+
+#: includes/class-settings.php:451
+msgid ""
+"If turned on, the discount will be a new separate negative line item instead of the reduced prices "
+"shown for each order item."
+msgstr ""
+"Ha be van kapcsolva, akkor a rendeléshez használt kupont külön tételként tünteti fel a számlán, a "
+"vásárolt tételeknél pedig az eredeti árat fogja mutatni, nem a kedvezménnyel levontat."
+
+#: includes/class-settings.php:465
+msgid ""
+"If turned on, the discount will be a new separate negative order item and you can change it's "
+"description here. Default value: {kedvezmeny_merteke} discount with the following coupon code: "
+"{kupon}"
+msgstr ""
+"Rendeléshez használt kupont külön tételként tünteti fel a számlán, ennek a tételnek a leírását "
+"adhatod meg itt. Alapértelmezett: {kedvezmeny_merteke} kedvezmény a következő kupon kóddal: {kupon}"
+
+#: includes/class-settings.php:703
+msgid ""
+"If turned on, the generated XML file will be logged in WooCommerce / Status / Logs. Can be used to "
+"debug issues."
+msgstr ""
+"Ha be van kapcsolva, akkor a Számlázz.hu-nak küldött adatokat naplózni fogja a bővítmény, amit a "
+"WooCommerce / Állapot / Naplók menüpontban találsz."
+
+#: includes/class-settings.php:713
+msgid ""
+"If turned on, the invoice will be generated in the background process, so the customer can reach "
+"the thank you page faster during checkout. Keep in mind that in this case, the invoice is not ready "
+"yet when the WooCommerce e-mail is sent, so make sure you have the email notification option turned "
+"on."
+msgstr ""
+"Ha be van kapcsolva, akkor a számlát nem a vásárlás közben, hanem után készíti el automatikusan, "
+"így a vásárló sokkal gyorsabban jut el a \"Köszönöm\" oldalra. Fontos, hogy ebben az esetben nem "
+"lehet a számlát a WooCommerce levelekhez csatolni, mert azokat előbb kiküldi a vásárlónak, minthogy "
+"a számla elkészült volna, tehát használd a Számlázz.hu féle számlaértesítőt."
+
+#: includes/class-settings.php:335
+msgid ""
+"If turned on, the language code stored by WPML, Polylang, or Translatepress will be used to create "
+"the invoice."
+msgstr ""
+"Ha be van kapcsolva, akkor a WPML vagy a Polylang által a rendelés adataiban tárolt nyelvkódot "
+"fogja használja a számla létrehozásához."
+
+#: includes/class-settings.php:613
+msgid ""
+"If turned on, the user can download the invoices once he/she is logged in on the website, under the "
+"My Orders page."
+msgstr ""
+"Ha be van kapcsolva, akkor a díjbekérőt és a számlát is le tudja tölteni a felhasználó belépés "
+"után, a Rendeléseim menüben."
+
+#: includes/class-settings.php:502
+msgid ""
+"If turned on, the VAT number field will be visible by default even if there's no company name "
+"entered yet."
+msgstr ""
+"Ha be van kapcsolva, akkor az adószám mező akkor is látszódni fog, ha még nem adott meg cégnevet a "
+"vásárló."
+
+#: includes/class-settings.php:475
+msgid "If turned on, this will hide the free shipping invoice line item."
+msgstr ""
+"Ha be van kapcsolva, akkor nem tüntetni fel az ingyenes szállításra vonatkozó tételt a számlán."
+
+#: includes/class-settings.php:718
+msgid ""
+"If turned on, you can create a correction invoice instead of a reverse invoice manually for each "
+"order. It will create a correction invoice with negative prices. The automatic reverse invoice is "
+"still enabled with this option, so it's a good idea to turn that off if you plan to use this "
+"feature."
+msgstr ""
+"Ha be van kapcsolva, manuális számlakészítéskor a sztornózás gomb mellett megjelenik egy Sztornózás "
+"helyesbítő számlával opció is. Ilyenkor egy helyesbítő számlát csinál, negatív tételárakkal. "
+"Fontos, hogy az autoamta sztornózás megmarad. Tehát ha helyesbítő számlát szeretnél, akkor az "
+"automata sztornózás legyen kikapcsolva."
+
+#: includes/class-settings.php:744
+msgid "If you create a combined invoice, the related order statuses will change to this."
+msgstr ""
+"Egy gyűjtőszámla létrehozása után a hozzá kapcsolódó rendelések státuszát megváltoztatja az itt "
+"beállított értékre."
+
+#: includes/views/html-admin-sidebar.php:13
+msgid ""
+"If you don't need to charge sales tax, you can set a fixed VAT rate in the settings, like AAM. If "
+"you need percentage-based VAT rates, or you have a more complicated situation, you need to "
+"configure the WooCommerce TAX settings properly. Here is a guide to do this:"
+msgstr ""
+"Ha áfakörön kívül vagy, akkor válassz egy fix áfakulcsot(pl AAM). Ha százalékos áfakulcsokat "
+"szeretnél beállítani, akkor pedig engedélyezned kell a WooCommerce-ben az adókat és konfigurálni "
+"kell az áfakulcsokat. Erről itt találsz egy bővebb leírást:"
+
+#: includes/class-vat-number.php:151
+msgid "If you enter a company name, the VAT number field is required."
+msgstr "Ha a cégnév mező ki van töltve, akkor az adószámot is kötelező megadni."
+
+#: includes/class-vat-number.php:155
+msgid "If you enter a VAT number, the company name field is required."
+msgstr "Ha az adószám mező ki van töltve, akkor a cégnevet is kötelező megadni."
+
+#: includes/class-settings.php:708
+msgid ""
+"If you enter an email address, you will receive a notification if there was an error generating an "
+"invoice. Leave it empty if you don't need this(számlázz.hu also sends an email usually)"
+msgstr ""
+"Ha megadsz egy email címet, akkor ide küld a rendszer egy levelet, ha volt a webáruházban egy "
+"sikertelen automata számlakészítés. Hagyd üresen, ha nem szeretnél emailt kapni(a számlázz.hu is "
+"szokott küldeni)."
+
+#: includes/views/html-admin-sidebar.php:68
+msgid ""
+"If you have already purchased the PRO version, enter the license key and the e-mail address used to "
+"purchase:"
+msgstr "Ha már megvásároltad, add meg a termékkulcsot és a vásárláshoz használt e-mail címet:"
+
+#: includes/class-settings.php:1225
+msgid ""
+"If you used an old version of this extension before and you cannot find your existing invoices, try "
+"this option to upgrade the database."
+msgstr ""
+"Ha a 4.0 verzió előtt használtad a bővítményt és nem látod a korábban elékszült számlákat, próbáld "
+"meg frissíteni az adatbázist."
+
+#: includes/views/html-admin-sidebar.php:60
+msgid ""
+"If you want to activate the license on another website, you must first deactivate it on this "
+"website."
+msgstr "Ha egy másik oldalon szeretnéd aktiválni a kulcsot, előtte deaktiválnod kell ezen az oldalon."
+
+#: includes/class-settings.php:734
+msgid ""
+"If you want to download multiple invoices at once, this option will create a ZIP file with separate "
+"PDF files(the default option will merge all invoices into a single PDF)."
+msgstr ""
+"Ha be van kapcsolva, akkor a számlák csoportos letöltésénél egy ZIP fájlt készít, amiben az összes "
+"számla PDF külön-külön fájlként megtalálható."
+
+#: includes/class-settings.php:774
+msgid ""
+"In this section, you can set various accounting details, like ledger numbers based on product "
+"categories. You can set these values for both Hungarian and international orders. "
+msgstr ""
+"Ebben a szekcióban beállíthatod a főkönyvi számokat és a gazdasági eseményeket termék "
+"kategóriánként, illetve a szállítási módok értékeit is. Megadható külön a magyar és külföldi "
+"rendeléseknél az érték."
+
+#: includes/views/html-admin-accounting-details.php:37
+#: includes/views/html-admin-accounting-details.php:41
+msgid "Income ledger number"
+msgstr "Árbev. főkönyvi szám"
+
+#: includes/views/html-admin-accounts.php:31 includes/views/html-admin-automations.php:52
+#: includes/views/html-admin-notes.php:24 includes/views/html-admin-vat-overrides.php:36
+#: includes/views/html-admin-eusafa.php:24
+msgid "Individual"
+msgstr "Magánszemély"
+
+#: includes/class-settings.php:551
+msgid "Insert invoices into e-mails"
+msgstr "Számlák beillesztése az e-mailekbe"
+
+#: includes/views/html-admin-automations.php:63 includes/views/html-admin-notes.php:57
+#: includes/views/html-admin-vat-overrides.php:47 includes/views/html-admin-eusafa.php:35
+msgid "Inside the EU"
+msgstr "EU-n belüli"
+
+#. Name of the plugin
+msgid "Integration for Szamlazz.hu & WooCommerce"
+msgstr "WooCommerce Számlázz.hu Integráció"
+
+#: includes/class-helpers.php:33 includes/emails/email-szamlazz-section.php:11
+#: includes/views/html-modal-generator.php:35 includes/views/html-admin-automations.php:13
+#: includes/views/html-metabox.php:185 includes/views/html-metabox.php:233
+#: includes/views/html-modal-grouped.php:26 includes/views/html-admin-notes.php:43
+#: includes/emails/plain/email-szamlazz-section.php:10
+msgid "Invoice"
+msgstr "Számla"
+
+#: includes/views/html-metabox.php:123
+msgctxt "Invoice"
+msgid "Are you sure?"
+msgstr "Biztosan létrehozod a számlát?"
+
+#: includes/class-settings.php:566
+msgid "Invoice and receipt pairing"
+msgstr "Végszámla és nyugta csatolása"
+
+#: includes/class-settings.php:373
+msgid "Invoice combined with waybill"
+msgstr "Fuvarlevéllel kombinált számlakép"
+
+#: includes/views/html-admin-automations.php:36
+msgctxt "Invoice complete date type"
+msgid "Document created"
+msgstr "Dokumentum létrehozása"
+
+#: includes/views/html-admin-automations.php:34
+msgctxt "Invoice complete date type"
+msgid "Order created"
+msgstr "Rendelés létrehozásának ideje"
+
+#: includes/views/html-admin-automations.php:35
+msgctxt "Invoice complete date type"
+msgid "Payment complete"
+msgstr "Rendelés fizetve lett"
+
+#: includes/class-settings.php:617
+msgid "Invoice forwarding"
+msgstr "Számlák továbbítása"
+
+#: includes/class-panel-inbox.php:187
+msgid "Invoice generation error"
+msgstr "Sikertelen számlakészítés"
+
+#: includes/class-ajax.php:106
+msgid "Invoice generation turned off."
+msgstr "Számlakészítés kikapcsolva."
+
+#: includes/class-ajax.php:102
+msgid "Invoice generation turned on."
+msgstr "Számlakészítés visszakapcsolva."
+
+#: includes/class-background-generator.php:75
+msgid "Invoice generation was successful"
+msgstr "A számlák elkészültek"
+
+#: includes/class-settings.php:328 includes/views/html-admin-notes.php:37
+msgid "Invoice language"
+msgstr "Számla nyelve"
+
+#: includes/class-settings.php:679
+msgctxt "Invoice layout preview"
+msgid "Preview"
+msgstr "Minták"
+
+#: includes/class-settings.php:526
+msgid "Invoice notification"
+msgstr "Számlaértesítő"
+
+#: includes/class-settings.php:533
+msgid "Invoice notification e-mail address"
+msgstr "Számlaértesítő email cím"
+
+#: includes/class-settings.php:545
+msgid "Invoice notification e-mail content"
+msgstr "Számlaértesítő email üzenet"
+
+#: includes/class-settings.php:539
+msgid "Invoice notification e-mail subject"
+msgstr "Számlaértesítő email tárgy"
+
+#: includes/views/html-invoice-preview.php:46
+msgid "Invoice number"
+msgstr "Sorszám"
+
+#: includes/class-settings.php:320
+msgid "Invoice prefix"
+msgstr "Számlaszám előtag"
+
+#: includes/views/html-invoice-preview.php:16
+msgid "Invoice preview"
+msgstr "Számla minta"
+
+#: includes/views/html-metabox.php:120
+msgctxt "Invoice preview"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: includes/views/html-invoice-preview.php:45
+msgctxt "Invoice preview title"
+msgid "Preview"
+msgstr "Számla előnézet"
+
+#: includes/class-settings.php:251
+msgid "Invoice settings"
+msgstr "Számla beállítások"
+
+#: includes/class-settings.php:521
+msgid "Invoice sharing"
+msgstr "Számla megosztás"
+
+#: index.php:1009
+msgid "Invoice successfully generated and sent to the customer via e-mail."
+msgstr "Számla sikeresen létrehozva és elküldve a vásárlónak e-mailben."
+
+#: index.php:1009
+msgid "Invoice successfully generated."
+msgstr "Számla sikeresen létrehozva."
+
+#: index.php:1184
+msgid "Invoice successfully marked as paid"
+msgstr "Számla sikeresen fizetettnek jelölve"
+
+#: includes/class-settings.php:256
+msgid "Invoice type"
+msgstr "Számla típusa"
+
+#: includes/class-settings.php:275
+msgid ""
+"Invoice type for company orders(if the customer entered a company name at the checkout form, it's a "
+"company order)."
+msgstr "Céges rendelés esetén a számla típusa. A rendelés akkor céges, ha volt megadva cégnév."
+
+#: includes/class-settings.php:266
+msgid "Invoice type on company orders"
+msgstr "Számla típusa céges rendelésnél"
+
+#: includes/class-background-generator.php:81
+msgid "Invoices generated successfully. Reload the page to see the invoices."
+msgstr "Számlák elkészültek a háttérben. Frissítsd az oldalt, hogy lásd a számlákat."
+
+#: includes/class-settings.php:611
+msgid "Invoices in My Orders"
+msgstr "Számlák a profilban"
+
+#: index.php:2568
+msgid "Invoices not required for free orders"
+msgstr "Ingyenes rendeléshez nem kell számla"
+
+#: includes/views/html-metabox.php:27
+msgid "Invoicing has been disabled for this order because:"
+msgstr "A számlakészítés ennél a rendelésnél ki lett kapcsolva, mert:"
+
+#: includes/class-health-check.php:213
+msgid "IPN URL"
+msgstr "IPN URL"
+
+#: includes/views/html-invoice-preview.php:73
+msgid "Issue date"
+msgstr "Kiállítás dátuma"
+
+#: includes/views/html-admin-sidebar.php:143
+msgid ""
+"It is important to point out that this extension was not created by Számlázz.hu, so if you have any "
+"questions about the operation of the extension, please contact me at one of the following contacts:"
+msgstr ""
+"Fontos kiemelni, hogy ezt a bővítményt nem a Számlázz.hu készítette, ezért ha a bővítmény "
+"működésével kapcsolatban van kérdésed, akkor velem vedd fel a kapcsolatot az alábbi elérhetőségek "
+"valamelyikén:"
+
+#: includes/views/html-metabox.php:208
+msgid "It is no longer possible to create a new receipt for this order."
+msgstr "Ehhez a rendeléshez már nem lehet új nyugtát készíteni."
+
+#: includes/class-settings.php:495
+msgid ""
+"It will be collected at the end of the checkout form. It is stored in the order details and will be "
+"visible on the invoice too. If you need to change this after the order has been created, you can "
+"use the \\\"adoszam\\\" custom field"
+msgstr ""
+"A számlázási adatok alján egy új mezőben lesz bekérve. Eltárolja a rendelés adataiban, illetve "
+"számlára is ráírja. Ha kézzel kell megadni utólag a rendeléskezelőben, akkor az egyedi mezőknél az "
+"\"adoszam\" mezőt kell kitölteni."
+
+#: includes/class-helpers.php:17
+msgid "Italian"
+msgstr "Olasz"
+
+#: includes/class-settings.php:676
+msgid "J - Thermal paper without logo"
+msgstr "J - Hőpapír logó nélkül"
+
+#: includes/class-helpers.php:67
+msgid "KBAET"
+msgstr "KBAET"
+
+#: includes/class-helpers.php:66
+msgid "KBAUK"
+msgstr "KBAUK"
+
+#: includes/class-settings.php:677
+msgid "L - Thermal paper with logo"
+msgstr "L - Hőpapír logóval"
+
+#: includes/views/html-modal-generator.php:67 includes/views/html-metabox.php:147
+msgid "Language"
+msgstr "Számla nyelve"
+
+#: includes/class-panel-inbox.php:147
+msgid "Leave a review"
+msgstr "Értékelem!"
+
+#: includes/views/html-metabox.php:266
+msgid "Leave this field empty, if the invoice is not paid yet."
+msgstr "Hagyd üresen ezt a mezőt, ha még nem lett kifizetve a számla"
+
+#: includes/views/html-admin-accounting-details.php:36
+#: includes/views/html-admin-accounting-details.php:40
+msgid "Ledger number"
+msgstr "Főkönyvi szám"
+
+#: includes/views/html-admin-sidebar.php:32 includes/views/html-admin-sidebar.php:76
+msgid "License key"
+msgstr "Licensz kulcs"
+
+#: includes/views/html-admin-sidebar.php:39
+msgid "License type"
+msgstr "Licenc típus"
+
+#: includes/views/html-product-options.php:23 includes/views/html-variable-options.php:21
+#: includes/compatibility/modules/class-wc-szamlazz-bookings.php:34
+msgid "Line item comment"
+msgstr "Tétel megjegyzés"
+
+#: includes/class-product-options.php:35 includes/views/html-product-options.php:32
+#: includes/views/html-variable-options.php:29
+msgid "Line item name"
+msgstr "Tétel elnevezés"
+
+#: includes/views/html-admin-vat-overrides.php:13
+msgid "Line item(product)"
+msgstr "Termék"
+
+#: includes/class-helpers.php:55
+msgid "MAA"
+msgstr "MAA"
+
+#: includes/class-settings.php:322
+msgid "Make sure the prefix exists in Számlázz.hu / settings / prefixes."
+msgstr ""
+"A szamlazz.hu rendszerében a beállítások / előtagok menünpontban található lista valamelyik "
+"engedélyezett sorának számlaszám előtag értéke."
+
+#: index.php:1216 index.php:1217 index.php:1364 index.php:1365
+msgid "Manually uploaded invoice deleted successfully."
+msgstr "A manuálisan feltöltött számla sikeresen törölve."
+
+#: index.php:2130 includes/views/html-admin-payment-methods.php:18
+#: includes/views/html-modal-generator.php:138 includes/views/html-admin-automations.php:18
+#: includes/views/html-admin-automations.php:140 includes/views/html-admin-automations.php:221
+#: includes/views/html-metabox.php:61 includes/views/html-metabox.php:63
+msgid "Mark as paid"
+msgstr "Fizetettnek jelölés"
+
+#: includes/views/html-admin-sidebar.php:85
+msgid "Mark invoice as paid automatically"
+msgstr "Automata teljesítettnek jelölés"
+
+#: includes/class-panel-inbox.php:171
+msgid "More info"
+msgstr "Bővebb infó"
+
+#: includes/class-helpers.php:64
+msgid "NAM"
+msgstr "NAM"
+
+#: includes/views/html-metabox-vat.php:26
+msgid "Name"
+msgstr "Név"
+
+#: includes/views/html-admin-payment-methods.php:21
+msgid "Name on the invoice"
+msgstr "Elnevezés a számlán"
+
+#: includes/views/html-admin-sidebar.php:92
+msgid "net"
+msgstr "nettó"
+
+#: includes/views/html-invoice-preview.php:89
+msgid "Net price"
+msgstr "Nettó ár"
+
+#: includes/views/html-admin-sidebar.php:50
+msgid "Next payment"
+msgstr "Előfizetés megújulása"
+
+#: includes/views/html-notice-bulk.php:43
+#, php-format
+msgid "No %1$s has been made"
+msgstr "Nem készült %1$s"
+
+#: index.php:955
+msgid "No line items on the invoice."
+msgstr "Nincs egy tétel sem a számlán."
+
+#: includes/views/html-admin-accounts.php:67 includes/views/html-admin-accounts.php:107
+msgid "Not conditional"
+msgstr "Nincs feltételhez kötve"
+
+#: includes/views/html-admin-automations.php:253 includes/views/html-admin-notes.php:178
+#: includes/views/html-admin-vat-overrides.php:156 includes/views/html-admin-eusafa.php:110
+msgid "Not equal"
+msgstr "Nem egyenlő"
+
+#: includes/class-product-options.php:42 includes/views/html-modal-generator.php:85
+#: includes/views/html-metabox.php:165 includes/views/html-admin-notes.php:104
+#: includes/views/html-admin-notes.php:140
+msgid "Note"
+msgstr "Megjegyzés"
+
+#: includes/class-settings.php:282
+msgid "Notes"
+msgstr "Megjegyzés"
+
+#: includes/views/html-metabox-vat.php:35
+msgid "Number"
+msgstr "Házszám"
+
+#: includes/views/html-admin-automations.php:155 includes/views/html-admin-automations.php:236
+#: includes/views/html-admin-notes.php:115 includes/views/html-admin-notes.php:152
+msgid "of the following match"
+msgstr "feltétel teljesül"
+
+#: includes/views/html-admin-automations.php:153 includes/views/html-admin-automations.php:234
+#: includes/views/html-admin-notes.php:113 includes/views/html-admin-notes.php:150
+msgid "One"
+msgstr "Egyik"
+
+#: includes/views/html-metabox.php:116
+msgid "Options"
+msgstr "Opciók"
+
+#: includes/class-panel-inbox.php:190
+msgid "Order details"
+msgstr "Rendelés adatai"
+
+#: includes/class-settings.php:960
+msgid "Order notes"
+msgstr "Rendelés megjegyzések"
+
+#: includes/views/html-invoice-preview.php:65
+msgid "Order number"
+msgstr "Rendelésszám"
+
+#: includes/class-settings.php:428
+msgid "Order status based on IPN"
+msgstr "Rendelés státusz IPN hívás után"
+
+#: includes/class-ipn.php:108
+msgid "Order status changed with Számlázz.hu IPN."
+msgstr "Rendelési állapot megváltoztatva Számlázz.hu IPN által."
+
+#: includes/views/html-admin-accounts.php:29 includes/views/html-admin-automations.php:50
+#: includes/views/html-admin-notes.php:22 includes/views/html-admin-vat-overrides.php:34
+#: includes/views/html-admin-eusafa.php:22
+msgid "Order type"
+msgstr "Rendelés típusa"
+
+#: includes/class-settings.php:692
+msgid "Other settings"
+msgstr "Egyéb beállítások"
+
+#: includes/views/html-admin-automations.php:64 includes/views/html-admin-notes.php:58
+#: includes/views/html-admin-vat-overrides.php:48 includes/views/html-admin-eusafa.php:36
+msgid "Outside of the EU"
+msgstr "EU-n kívüli"
+
+#: includes/views/html-metabox.php:60 includes/views/html-metabox.php:66
+msgid "Paid"
+msgstr "Fizetve"
+
+#: index.php:2127
+#, php-format
+msgid "Paid on: %s"
+msgstr "Fizetve: %s"
+
+#: includes/class-settings.php:262 includes/class-settings.php:273
+#: includes/views/html-modal-generator.php:78 includes/views/html-metabox.php:158
+msgid "Paper"
+msgstr "Papír"
+
+#: includes/class-settings.php:204
+msgid "Paper invoice fee"
+msgstr "Papírszámla díj ellenében"
+
+#: includes/class-health-check.php:206
+msgid "Path"
+msgstr "Útvonal"
+
+#: includes/views/html-modal-generator.php:133 includes/views/html-metabox.php:264
+msgid "Payment date"
+msgstr "Kifizetés dátuma"
+
+#: includes/views/html-modal-generator.php:91 includes/views/html-admin-automations.php:135
+#: includes/views/html-admin-automations.php:216 includes/views/html-metabox.php:171
+msgid "Payment deadline"
+msgstr "Fizetési határidő"
+
+#: includes/class-settings.php:278 includes/views/html-admin-payment-methods.php:17
+msgid "Payment deadline(days)"
+msgstr "Fizetési határidő(nap)"
+
+#: includes/views/html-admin-payment-methods.php:16 includes/views/html-admin-accounts.php:13
+#: includes/views/html-invoice-preview.php:61 includes/views/html-admin-automations.php:42
+#: includes/views/html-admin-notes.php:14 includes/views/html-admin-vat-overrides.php:26
+#: includes/views/html-admin-eusafa.php:14
+msgid "Payment method"
+msgstr "Fizetési mód"
+
+#: includes/class-health-check.php:221 includes/class-settings.php:413
+msgid "Payment methods"
+msgstr "Fizetési módok"
+
+#: index.php:663 index.php:784 index.php:837 index.php:868 index.php:904 index.php:1511 index.php:1553
+#: index.php:1575 includes/views/html-product-options.php:14
+#: includes/views/html-variable-options.php:13
+msgid "pcs"
+msgstr "db"
+
+#: includes/views/html-metabox.php:260
+msgid "PDF file"
+msgstr "PDF fájl"
+
+#: includes/class-settings.php:958
+msgid "Phone number"
+msgstr "Telefonszám"
+
+#: includes/class-vat-number.php:73
+#| msgid "12345678-1-23"
+msgctxt "placeholder"
+msgid "12345678-1-12"
+msgstr "12345678-1-23"
+
+#: includes/class-helpers.php:23
+msgid "Polish"
+msgstr "Lengyel"
+
+#: includes/class-settings.php:955 includes/views/html-metabox-vat.php:31
+msgid "Postcode"
+msgstr "Irányítószám"
+
+#: includes/views/html-admin-sidebar.php:87
+msgid "Premium support and a lot more"
+msgstr "Prémium support és még sok más"
+
+#: includes/views/html-notice-bulk.php:12
+msgid "Print"
+msgstr "Nyomtatás"
+
+#: includes/class-health-check.php:197 includes/views/html-admin-sidebar.php:67
+msgid "PRO version"
+msgstr "PRO verzió"
+
+#: index.php:2241
+msgid "Pro version"
+msgstr "Pro verzió"
+
+#: includes/views/html-admin-notes.php:33
+msgid "Product attributes"
+msgstr "Termék attribútum"
+
+#: includes/views/html-admin-accounts.php:36 includes/views/html-admin-automations.php:57
+#: includes/views/html-admin-notes.php:29 includes/views/html-admin-vat-overrides.php:41
+#: includes/views/html-admin-eusafa.php:29
+msgid "Product category"
+msgstr "Termék kategória"
+
+#: includes/class-helpers.php:32 includes/emails/email-szamlazz-section.php:16
+#: includes/views/html-admin-payment-methods.php:19 includes/views/html-modal-generator.php:39
+#: includes/views/html-admin-automations.php:14 includes/views/html-metabox.php:189
+#: includes/views/html-metabox.php:239 includes/views/html-admin-notes.php:44
+#: includes/emails/plain/email-szamlazz-section.php:14
+msgid "Proforma invoice"
+msgstr "Díjbekérő"
+
+#: index.php:1418
+#, php-format
+msgid "Proforma invoice deleted successfully. This was the proforma invoice number: %s"
+msgstr "Díjbekérő sikeresen törölve. A díjbekérő sorszáma ez volt: %s"
+
+#: index.php:1432
+msgid "Proforma invoice deleted."
+msgstr "Díjbekérő törölve."
+
+#: index.php:1036
+msgid "Proforma invoice successfully generated and sent to the customer via e-mail."
+msgstr "Díjbekérő sikeresen létrehozva és elküldve a vásárlónak e-mailben."
+
+#: index.php:1036
+msgid "Proforma invoice successfully generated."
+msgstr "Díjbekérő sikeresen létrehozva."
+
+#: includes/class-settings.php:574
+msgid "Proforma pairing"
+msgstr "Díjbekérő számla csatolása"
+
+#: includes/views/html-admin-sidebar.php:90
+msgid "Purchase PRO version"
+msgstr "PRO verzió vásárlása"
+
+#: includes/views/html-invoice-preview.php:87
+msgid "Qty"
+msgstr "Menny."
+
+#: includes/class-settings.php:338
+msgid "Quantity unit"
+msgstr "Mennyiségi egység"
+
+#: includes/class-settings.php:631 includes/class-settings.php:656 includes/class-helpers.php:34
+#: includes/emails/email-szamlazz-section.php:31 includes/views/html-admin-notes.php:47
+#: includes/emails/plain/email-szamlazz-section.php:26
+msgid "Receipt"
+msgstr "Nyugta"
+
+#: includes/class-settings.php:664
+msgid "Receipt e-mail address"
+msgstr "Nyugta email cím"
+
+#: includes/class-settings.php:653
+msgid "Receipt e-mail subject"
+msgstr "Nyugta email tárgy"
+
+#: includes/class-settings.php:659
+msgid "Receipt e-mail text"
+msgstr "Nyugta email szöveg"
+
+#: includes/class-settings.php:647
+msgid "Receipt emailing"
+msgstr "Nyugta kiküldés"
+
+#: includes/class-settings.php:641
+msgid "Receipt note"
+msgstr "Nyugta megjegyzés"
+
+#: includes/class-settings.php:636
+msgid "Receipt prefix"
+msgstr "Nyugtaszám előtag"
+
+#: index.php:1648
+msgid "Receipt successfully generated and sent to the customer via email."
+msgstr "Nyugta sikeresen létrehozva és elküldve a vásárlónak emailben."
+
+#: index.php:1648
+msgid "Receipt successfully generated."
+msgstr "Nyugta sikeresen létrehozva."
+
+#: includes/class-settings.php:670
+msgid "Receipt template"
+msgstr "Nyugta sablon"
+
+#: includes/views/html-admin-sidebar.php:103
+msgid "Recommended addons and extensions"
+msgstr "Ajánlott és kiegészítő bővítmények"
+
+#: includes/views/html-admin-sidebar.php:104
+msgid "Recommended extensions for WooCommerce and addon extensions for unique use-cases."
+msgstr ""
+"WooCommerce webáruházhoz ajánlott kiegészítők és speciális igényekhez készített kiegészítő "
+"bővítmények."
+
+#: includes/class-background-generator.php:83
+msgid "Refresh"
+msgstr "Frissítés"
+
+#: index.php:902 includes/views/html-admin-vat-overrides.php:17
+msgid "Refund"
+msgstr "Visszatérítés"
+
+#: includes/views/html-admin-sidebar.php:58
+msgid "Reload license"
+msgstr "Licenc újratöltése"
+
+#: includes/class-settings.php:372
+msgid "Retro design"
+msgstr "Retró kéziszámla"
+
+#: includes/class-helpers.php:36 includes/emails/email-szamlazz-section.php:26
+#: includes/views/html-modal-generator.php:51 includes/views/html-admin-automations.php:16
+#: includes/views/html-metabox.php:82 includes/emails/plain/email-szamlazz-section.php:22
+msgid "Reverse invoice"
+msgstr "Sztornó számla"
+
+#: includes/views/html-metabox.php:82
+msgctxt "Reverse invoice"
+msgid "Are you sure?"
+msgstr "Biztosan sztornózod?"
+
+#: index.php:1332
+msgid "Reverse invoice created successfully."
+msgstr "Sztornó számla létrehozva."
+
+#: index.php:1308 index.php:1310
+#, php-format
+msgid "Reverse invoice created successfully. Invoice number: %s. Original invoice: %s"
+msgstr "Sztornó számla sikeresen létrehozva. A számla sorszáma: %s. Az eredeti számla: %s"
+
+#: includes/class-settings.php:588
+msgid "Reverse invoice pairing"
+msgstr "Sztornó számla csatolása"
+
+#: includes/class-helpers.php:37
+msgid "Reverse receipt"
+msgstr "Sztornó nyugta"
+
+#: index.php:1738
+msgid "Reverse receipt successfully generated."
+msgstr "Sztornó nyugta sikeresen létrehozva."
+
+#: includes/views/html-metabox.php:87
+msgid "Reverse with correction"
+msgstr "Sztornózás helyesbítő számlával"
+
+#: includes/class-helpers.php:20
+msgid "Romanian"
+msgstr "Román"
+
+#: includes/views/html-admin-automations.php:150 includes/views/html-admin-automations.php:231
+msgid "Run this automation, if"
+msgstr "Automatizálás futtatása, ha az"
+
+#: includes/class-settings.php:194
+msgid "Salesperson identification"
+msgstr "Üzletkötő azonosítás"
+
+#: includes/class-settings.php:953
+msgid "Secondary address"
+msgstr "Másodlagos cím"
+
+#: includes/class-helpers.php:160
+msgid "Select a payment method"
+msgstr "Válassz egy fizetési módot"
+
+#: includes/views/html-modal-generator.php:27
+msgid "Selected orders:"
+msgstr "Kiválasztott rendelések:"
+
+#: includes/views/html-invoice-preview.php:34
+msgid "Seller Name"
+msgstr "Eladó neve"
+
+#: includes/views/html-admin-vat-overrides.php:76 includes/views/html-admin-vat-overrides.php:117
+msgid "Set"
+msgstr "A"
+
+#: includes/views/html-admin-sidebar.php:14
+msgid "Setting up VAT/TAX rates in WooCommerce shops."
+msgstr "Áfakulcsok beállítása WooCommerce áruházakban"
+
+#: index.php:2225 includes/class-panel-inbox.php:128 includes/class-health-check.php:74
+#: includes/class-health-check.php:108
+msgid "Settings"
+msgstr "Beállítások"
+
+#: includes/class-settings.php:382
+msgid ""
+"Settings related to automatic invoicing. If the mark as completed option is checked for a specific "
+"payment method, the invoice will be marked as paid in számlázz.hu if you close the order. If you "
+"turn on the proforma invoice option, a proforma invoice will be created for the order. The payment "
+"deadline can be set individually(the global option is above)"
+msgstr ""
+"Számlakészítés automatizálásával kapcsolatos beállítások. Ha az adott fizetési módnál a "
+"teljesítettnek jelölés be van pipálva, akkor a számla elkészítésekor automatikusan kifizetettnek "
+"jelöli meg a számlát. Ha a díjbekérő vagy az előlegszámla be van pipálva, akkor a rendelés "
+"létrehozásakor készíti el azokat. A határidő minden fizetési módhoz egyedileg beállítható(az "
+"alapértelmezett érték a fenti beállításokban van)."
+
+#: includes/class-settings.php:445
+msgid "Settings related to discounts and coupons on the invoice"
+msgstr "A kuponos rendelések számlán történő megjelenítésével kapcsolatos beállítások."
+
+#: includes/class-settings.php:523
+msgid "Settings related to sending the invoice to the customer."
+msgstr "Beállítások a számlák vásárlónak történő kiküldésével és letöltésével kapcsolatban."
+
+#: includes/compatibility/modules/class-wc-szamlazz-bookings.php:31
+msgid "Settings related to WooCommerce Bookings."
+msgstr "A WooCommerce Bookings bővítménnyel kapcsolatos extra beállítások. "
+
+#: includes/compatibility/modules/class-wc-szamlazz-subscriptions.php:26
+msgid "Settings related to WooCommerce Subscriptions."
+msgstr "WooCommerce Subscriptions bővítménnyel kapcsolatos extra beállítások"
+
+#: includes/views/html-admin-vat-overrides.php:14
+msgid "Shipping"
+msgstr "Szállítás"
+
+#: includes/views/html-admin-accounts.php:17 includes/views/html-admin-automations.php:46
+#: includes/views/html-admin-notes.php:18 includes/views/html-admin-vat-overrides.php:30
+#: includes/views/html-admin-eusafa.php:18
+msgid "Shipping method"
+msgstr "Szállítási mód"
+
+#: includes/views/html-notice-migrated.php:10
+msgid ""
+"Since a lot has changed in this version, please review the settings and the newly generated "
+"invoices to make sure everything works well for!"
+msgstr ""
+"Mivel ebben a verzióban nagyon sok minden változott, kérlek nézd át a beállításokat és a frissen "
+"generált számlákat, hogy minden jól működik e!"
+
+#: includes/class-helpers.php:21
+msgid "Slovak"
+msgstr "Szlovák"
+
+#: includes/class-helpers.php:22
+msgid "Spanish"
+msgstr "Spanyol"
+
+#: includes/views/html-metabox-vat.php:37
+msgid "Staircase"
+msgstr "Lépcsőház"
+
+#: includes/class-settings.php:957
+msgid "State"
+msgstr "Megye"
+
+#: includes/class-background-generator.php:82
+msgid "Stop"
+msgstr "Megállítás"
+
+#: includes/views/html-metabox-vat.php:33
+msgid "Street"
+msgstr "Közterület neve"
+
+#: includes/views/html-metabox-vat.php:34
+msgid "Street type"
+msgstr "Közterület jellege"
+
+#: includes/views/html-admin-sidebar.php:43
+msgid "Subscription"
+msgstr "Előfizetés"
+
+#: includes/views/html-admin-sidebar.php:142
+msgid "Support"
+msgstr "Segítség"
+
+#: includes/class-settings.php:696
+msgid "Switch first name / last name"
+msgstr "Vezetéknév / keresztnév csere"
+
+#: includes/class-ipn.php:42
+msgid "Szamlazz.hu credit entry successfully recorded(through IPN)"
+msgstr "Szamlazz.hu jóváírás sikeresen rögzítve(IPN alapján)"
+
+#: includes/class-ipn.php:83
+#, php-format
+msgid "Szamlazz.hu deposit invoice successfully generated through IPN. Invoice number: %s"
+msgstr "Előlegszámla sikeresen létrehozva IPN alapján. A számla sorszáma: %s"
+
+#: index.php:984
+#, php-format
+msgid "Szamlazz.hu invoice generation failed! Agent error code: %s"
+msgstr "Szamlazz.hu számlakészítés sikertelen! Agent hibakód: %s"
+
+#: index.php:956
+msgid "Szamlazz.hu invoice generation failed! No line items on the invoice."
+msgstr "Számlázz.hu számlakészítés sikertelen. Nincs tétel a számlán."
+
+#: includes/class-ipn.php:85
+#, php-format
+msgid "Szamlazz.hu invoice successfully generated through IPN. Invoice number: %s"
+msgstr "Szamlazz.hu számla sikeresen létrehozva, IPN-en keresztül. A számla sorszáma: %s"
+
+#: includes/class-settings.php:418
+msgid "Szamlazz.hu IPN Url"
+msgstr "Szamlazz.hu IPN Url"
+
+#: index.php:1621
+#, php-format
+msgid "Szamlazz.hu receipt generation failed! Agent error code: %s"
+msgstr "Szamlazz.hu nyugta készítés sikertelen! Agent hibakód: %s"
+
+#: index.php:1283
+#, php-format
+msgid "Szamlazz.hu reverse invoice generation failed! Agent error code: %s"
+msgstr "Szamlazz.hu sztornó számlakészítés sikertelen! Agent hibakód: %s"
+
+#: index.php:1720
+#, php-format
+msgid "Szamlazz.hu reverse receipt generation failed! Agent error code: %s"
+msgstr "Szamlazz.hu sztornó nyugta készítés sikertelen! Agent hibakód: %s"
+
+#: includes/class-settings.php:228
+msgid "Számla Agent key"
+msgstr "Számla Agent kulcs"
+
+#: index.php:321 index.php:2099 includes/class-bulk-actions.php:321 includes/class-health-check.php:24
+#: includes/class-settings.php:18 includes/views/html-status-report.php:16
+#: includes/views/html-notice-pro-expired.php:10
+msgid "Számlázz.hu"
+msgstr "Számlázz.hu"
+
+#: includes/views/html-modal-generator.php:56 includes/views/html-metabox.php:136
+#: includes/views/html-admin-notes.php:51
+msgid "Számlázz.hu account"
+msgstr "Számlázz.hu fiók"
+
+#: includes/class-settings.php:650
+msgid ""
+"Számlázz.hu can send out the receipt via email to the buyer's email address. It's not an attached "
+"receipt, but a simple text version that is included in the email body"
+msgstr ""
+"A Számlázz.hu Agent nyugtaküldő interfésze a szükséges adatok beérkezése után a hivatkozott nyugtát "
+"kiküldni a címzett e-mail címére. Nincs csatolt fájl küldés, a nyugta adatait a levéltörzsben "
+"jeleníti meg."
+
+#: index.php:1087
+#, php-format
+msgid "Számlázz.hu correction invoice successfully generated. Invoice number: %s"
+msgstr "Számlázz.hu helyesbítő számla sikeresen létrehozva. A sorszáma: %s"
+
+#: includes/views/html-notice-migrating.php:8
+msgid "Számlázz.hu database update"
+msgstr "Számlázz.hu adatbázis frissítés"
+
+#: includes/views/html-notice-migrate.php:8
+msgid "Számlázz.hu database update required"
+msgstr "Számlázz.hu adatbázis frissítés kell"
+
+#: includes/class-settings.php:1223
+msgid "Számlázz.hu database upgrade"
+msgstr "Számlázz.hu adatbázis frissítése"
+
+#: includes/class-health-check.php:84
+msgid "Számlázz.hu debug mode"
+msgstr "Számlázz.hu debug mód"
+
+#: includes/class-health-check.php:89
+msgid "Számlázz.hu debug mode is turned off"
+msgstr "Számlázz.hu fejlesztői mód ki van kapcsolva"
+
+#: includes/class-health-check.php:101
+msgid "Számlázz.hu debug mode is turned on"
+msgstr "Számlázz.hu fejlesztői mód be van kapcsolva"
+
+#: index.php:1071
+#, php-format
+msgid "Számlázz.hu delivery note successfully generated. Number of the delivery note: %s"
+msgstr "Számlázz.hu szállítólevél sikeresen létrehozva. A szállítólevél sorszáma: %s"
+
+#: index.php:1055
+#, php-format
+msgid "Számlázz.hu deposit invoice generated successfully. Invoice number: %s"
+msgstr "Számlázz.hu előlegszámla sikeresen létrehozva. A számla sorszáma: %s"
+
+#: includes/class-ajax.php:185 includes/class-ajax.php:203
+#, php-format
+msgid "Számlázz.hu document called %s uploaded successfully."
+msgstr "A(z) %s nevű dokumentum sikeresen feltöltve."
+
+#: includes/class-emails.php:135
+#, php-format
+msgid "Számlázz.hu document created - %s"
+msgstr "Számlázz.hu dokumentum elkészült - %s"
+
+#: includes/views/html-modal-generator.php:13
+msgid "Számlázz.hu document generator"
+msgstr "Számlázz.hu dokumentumok készítése"
+
+#: index.php:2237
+msgid "Számlázz.hu Documentation"
+msgstr "Számlázz.hu Dokumentáció"
+
+#: index.php:1012
+#, php-format
+msgid "Számlázz.hu invoice generated successfully. Invoice number: %s"
+msgstr "Számlázz.hu számla sikeresen létrehozva. A számla sorszáma %s"
+
+#: includes/class-health-check.php:117
+msgid "Számlázz.hu invoice generation"
+msgstr "Számlázz.hu számlakészítés"
+
+#: includes/views/html-product-options.php:9
+msgid "Számlázz.hu invoice settings"
+msgstr "Számlázz.hu számla beállítások"
+
+#: includes/class-health-check.php:142
+msgid "Számlázz.hu is connected."
+msgstr "Számlázz.hu összekapcsolás sikeres."
+
+#: includes/class-background-generator.php:80
+msgid "Számlázz.hu is generating invoices in the background"
+msgstr "A Számlázz.hu épp generálja a számlákat a háttérben."
+
+#: includes/class-health-check.php:158 includes/class-health-check.php:168
+#: includes/class-health-check.php:177
+msgid "Számlázz.hu is not connected"
+msgstr "Számlázz.hu összekapcsolás sikertelen"
+
+#: index.php:2241
+msgid "Számlázz.hu Pro version"
+msgstr "Számlázz.hu Pro verzió"
+
+#: index.php:1039
+#, php-format
+msgid "Számlázz.hu proforma invoice generated successfully. Invoice number: %s"
+msgstr "Számlázz.hu díjbekérő sikeresen létrehozva. A számla sorszáma: %s"
+
+#: index.php:1651
+#, php-format
+msgid "Számlázz.hu receipt successfully generated. Receipt number: %s"
+msgstr "Számlázz.hu nyugta sikeresen létrehozva. A számla sorszáma: %s"
+
+#: includes/class-settings.php:368
+msgid "Számlázz.hu recommended design"
+msgstr "Számlázz.hu ajánlott számlakép"
+
+#: includes/class-health-check.php:42
+msgid "Számlázz.hu requirements"
+msgstr "Számlázz.hu követelmények"
+
+#: index.php:1743
+#, php-format
+msgid "Számlázz.hu reverse receipt successfully generated. Receipt number: %s. Original invoice: %s"
+msgstr "Számlázz.hu nyugta sikeresen sztornózva. A nyugta sorszáma: %s. Az eredeti nyugta: %s"
+
+#: index.php:2225
+msgid "Számlázz.hu Settings"
+msgstr "Számlázz.hu beállítások"
+
+#: includes/views/html-status-report.php:16
+msgid "Számlázz.hu settings"
+msgstr "Számlázz.hu beállítások"
+
+#: includes/class-health-check.php:95
+msgid "Számlázz.hu WooCOmmerce debug mode is turned off."
+msgstr "A Számlázz.hu WooCommerce fejlesztői módja ki van kapcsolva."
+
+#. Description of the plugin
+msgid "Számlázz.hu összeköttetés WooCommercehez"
+msgstr "Számlázz.hu összeköttetés WooCommercehez"
+
+#: includes/class-helpers.php:58
+msgid "TAHK"
+msgstr "TAHK"
+
+#: includes/class-helpers.php:49
+msgid "TAM"
+msgstr "TAM"
+
+#: includes/views/html-admin-sidebar.php:11
+msgid "TAX rate setup"
+msgstr "Áfakulcs konfigurálás"
+
+#: includes/class-helpers.php:59
+msgid "TEHK"
+msgstr "TEHK"
+
+#: includes/class-panel-inbox.php:125
+msgid ""
+"Thank you for using this extension. To get started, go to the settings page and enter your "
+"invoicing details. If you are not aware of it, there's a PRO version of this extension, which "
+"offers a lot more features compared to the free version, for example, automatic invoice and receipt "
+"generation, bulk actions, and a lot more."
+msgstr ""
+"Köszönöm, hogy telepítetted a bővítményt. A bővítmény használatához a beállításokban add meg a "
+"számlázással kapcsolatos adataidat. Ha esetleg nem tudnád, van egy PRO verziója is, amivel sokkal "
+"több funkciót érhetsz el, például automata számlakészítés, csoportos műveletek, e-nyugta készítés "
+"és még sok más."
+
+#: includes/class-health-check.php:61
+msgid ""
+"The <strong>WooCommerce + Szamlazz.hu</strong> extension is using the cURL function. Looks like "
+"this feature is disabled on your website. Please contact your hosting provider for more info."
+msgstr ""
+"A <strong>WooCommerce + Szamlazz.hu</strong> bővítmény használatához a cURL funkció szükséges és "
+"úgy néz ki, ezen a tárhelyen nincs bekapcsolva. Ha nem tudod mi ez, kérd meg a tárhelyszolgáltatót, "
+"hogy kapcsolják be."
+
+#: includes/class-health-check.php:104
+msgid ""
+"The <strong>WooCommerce + Szamlazz.hu</strong> extension's debug mode is turned on. Make sure you "
+"turned this off if you are using it in a live environment."
+msgstr ""
+"A <strong>WooCommerce + Szamlazz.hu</strong> bővítmény fejlesztői módja be van kapcsolva. Éles "
+"használat esetén ezt mindenképp kapcsold ki, amit megtehetsz a bővítmény beállításaiban."
+
+#: includes/class-settings.php:548
+msgid "The body of the email notification sent by Számlázz.hu."
+msgstr "A számlázz.hu által küldött számlaértesítő szöveges tartalma."
+
+#: includes/views/html-modal-grouped.php:33
+msgid "The combined invoice will be displayed on the selected order."
+msgstr "A kiválasztott rendelésnél lesz látható majd a gyűjtőszámla."
+
+#: includes/class-settings.php:205
+msgid "The customer can choose a paper invoice on the checkout form for an extra fee."
+msgstr "A pénztár oldalon a vásárló választhat papíralapú számlát egy beállított extra díj ellenében."
+
+#: includes/views/html-metabox-vat.php:50
+msgid "The data was retrieved from the NAV database."
+msgstr "Az adatok a számlázz.hu rendszeréből lettek lekérve, ami a NAV adatbázisát használja."
+
+#: includes/views/html-notice-migrating.php:9
+msgid ""
+"The database update is currently running in the background and may take some time to "
+"finish(especially if you have lots of orders)."
+msgstr ""
+"A Számlázz.hu bővítmény az adatbázist frissíti a háttérben. Ez eltarthat egy darabig, kérlek legyél "
+"türelemmel."
+
+#: includes/views/html-notice-migrate.php:10
+msgid ""
+"The database update runs in the background and may take some time (especially if you have lots of "
+"orders), please be patient."
+msgstr ""
+"Az adatbázis frissítése a háttérben fut és eltarthat egy darabig (főleg, ha sok rendelésed van), "
+"kérlek légy türelemmel."
+
+#: includes/class-settings.php:509
+msgid ""
+"The default priority is 35, which will place the field just after the company name field. Change "
+"this number if you want to place it somewhere else."
+msgstr ""
+"Az alapértelmezett prioritás 35, ami a cégnév mező után rakja be az adószám mezőt. Változtasd ezt a "
+"számot, ha máshol szeretnéd megjeleníteni a mezőt."
+
+#: includes/emails/email-szamlazz-section.php:37 includes/emails/plain/email-szamlazz-section.php:31
+msgid "The delivery note for the order can be downloaded from here:"
+msgstr "A rendeléshez tartozó szállítólevelet innen lehet letölteni:"
+
+#: includes/emails/email-szamlazz-section.php:22 includes/emails/plain/email-szamlazz-section.php:19
+msgid "The deposit invoice for the order can be downloaded from here:"
+msgstr "A rendeléshez készült előlegszámlát innen lehet letölteni:"
+
+#: includes/class-emails.php:126
+#, php-format
+msgid "The following document was successfully created: %s"
+msgstr "Sikeresen elkészült a következő dokumentum: %s"
+
+#: includes/views/html-admin-sidebar.php:28
+msgid "The following license key is expired."
+msgstr "Az alábbi licenc kulcs lejárt."
+
+#: includes/emails/invoice-error.php:10
+#, php-format
+msgid ""
+"The invoice for order %s could not be created automatically for some reason. You will see the exact "
+"error in the order notes."
+msgstr ""
+"A #%s sorszámú rendeléshez tartozó számlát nem sikerült valamiért létrehozni automatikusan. A "
+"rendelés jegyzetekben látod a pontos hibát."
+
+#: includes/emails/email-szamlazz-section.php:12 includes/emails/plain/email-szamlazz-section.php:11
+msgid "The invoice for the order can be downloaded from here:"
+msgstr "A rendeléshez tartozó számlát innen lehet letölteni:"
+
+#: includes/views/html-metabox.php:94
+msgid "The invoice will be created automatically if the status of the order changes to:"
+msgstr "A számla automatikusan elkészül, ha a rendelés állapota megváltozik erre:"
+
+#: includes/class-settings.php:401
+msgid "The invoice will be generated automatically if the order is in this status."
+msgstr "Ha a rendelés ebbe a státuszba kerül, akkor fogja automatán megcsináni a számlát."
+
+#: includes/views/html-notice-pro-expired.php:12
+msgid "The license key for the PRO version is expired."
+msgstr "A licenc kulcs a PRO verzióhoz lejárt."
+
+#: includes/emails/email-szamlazz-section.php:27 includes/emails/plain/email-szamlazz-section.php:23
+msgid ""
+"The previous invoice has been canceled. The reverse invoice for the order can be downloaded from "
+"here:"
+msgstr "Rendelésedet töröltük, a korábban készült számla sztornó számláját innen lehet letölteni:"
+
+#: includes/views/html-admin-sidebar.php:24
+msgid "The PRO version is active"
+msgstr "PRO verzió aktív"
+
+#: includes/views/html-notice-pro-expired.php:10 includes/views/html-admin-sidebar.php:27
+msgid "The PRO version is expired"
+msgstr "PRO verzió lejárt"
+
+#: includes/emails/email-szamlazz-section.php:17 includes/emails/plain/email-szamlazz-section.php:15
+msgid "The proforma invoice for the order can be downloaded from here:"
+msgstr "A rendeléshez készült díjbekérő számlát innen lehet letölteni:"
+
+#: includes/emails/email-szamlazz-section.php:32 includes/emails/plain/email-szamlazz-section.php:27
+msgid "The receipt for the order can be downloaded from here:"
+msgstr "A rendeléshez tartozó nyugtát innen lehet letölteni:"
+
+#: includes/class-settings.php:360
+msgid "The seller's bank account number. If empty, it will use the value entered on szamlazz.hu."
+msgstr ""
+"Az eladó bankszámlaszáma. Ha nincs megadva, akkor a szamlazz.hu-n megadott értéket írja a számlára."
+
+#: includes/class-settings.php:355
+msgid "The seller's bank name. If empty, it will use the value entered on szamlazz.hu."
+msgstr ""
+"Az eladó bankjának a neve. Ha nincs megadva, akkor a szamlazz.hu-n megadott értéket írja a számlára."
+
+#: includes/views/html-modal-grouped.php:35
+msgid "The status of the orders above will change to this after the invoice is created:"
+msgstr "A fent említett rendelések állapota a számla elkészítése után megváltozik erre:"
+
+#: includes/class-settings.php:542
+msgid "The subject of the email notification sent by Számlázz.hu"
+msgstr "A számlázz.hu által küldött számlaértesítő levél tárgya."
+
+#: includes/class-health-check.php:150
+msgid ""
+"The Számlázz.hu WooCommerce extension was able to communicate with Számlázz.hu with the Agent Key. "
+"Looks like everything is working correctly."
+msgstr ""
+"A Számlázz.hu WooCommerce bővítménynek sikerült kapcsolatot létesítenie a megadott Agent kulcssal. "
+"Úgy néz ki, minden rendben."
+
+#: includes/class-health-check.php:182
+msgid ""
+"The Számlázz.hu WooCommerce extension was unable to connect with Számlázz.hu, because you don't "
+"have permission to use the Agent service. Make sure you have a valid subscription. This is the "
+"original error message:"
+msgstr ""
+"A Számlázz.hu WooCommerce bővítménynek nem sikerült kommunikálnia a Számlázz.hu szerverével, mert "
+"valamilyen okból nem használhatod az Agentet. Ezek lehetnek az okai: lejárt a díjcsomag, e-számla "
+"díj kiegyenlítése szükséges, elvárt utalással késel. Ezen esetekben lépj be a Számlázz.hu "
+"rendszerbe és a díjcsomagom menüben ellenőrizd a tartozásaidat. A pontos hibaüzenet ez volt:"
+
+#: includes/class-health-check.php:163
+msgid ""
+"The Számlázz.hu WooCommerce extension was unable to connect with Számlázz.hu. cURL might be "
+"disabled on your server, or maybe the request was blocked by your hosting provider's firewall. This "
+"is the original error message:"
+msgstr ""
+"A Számlázz.hu WooCommerce bővítménynek nem sikerült kommunikálnia a Számlázz.hu szerverével. Lehet "
+"gond azzal, hogy a cURL kérelem nem működik a tárhelyeden/szervereden, vagy tiltva van a "
+"kommunikáció tűzfallal, esetleg a Számlázz.hu éppen nem működik. A pontos hibaüzenet ez volt: "
+
+#: includes/class-health-check.php:173
+msgid ""
+"The Számlázz.hu WooCommerce extension was unable to connect with Számlázz.hu. The issue is most "
+"likely an invalid Agent Key. This is the original error message:"
+msgstr ""
+"A Számlázz.hu WooCommerce bővítménynek nem sikerült kommunikálnia a Számlázz.hu szerverével, mert "
+"nem sikerült belépni. Valószínűleg rossz a megadott agent kulcs. A pontos hibaüzenet ez volt:"
+
+#: includes/compatibility/modules/class-wc-szamlazz-hucommerce.php:43
+msgid "The VAT number field is already displayed on the checkout page by the HuCommerce extension"
+msgstr "Az adószám mezőt a HuCommerce bővítmény már megjeleníti a pénztár oldalon"
+
+#: includes/class-vat-number.php:144
+msgid "The VAT number format is not valid."
+msgstr "Az adószám formátuma nem megfelelő."
+
+#: includes/class-vat-number.php:139
+msgid "The VAT number is not valid."
+msgstr "Az adószám nem megfelelő."
+
+#: includes/class-settings.php:292
+msgid ""
+"The VAT rate that is visible on the invoice. By default, it will use the values set in "
+"WooCommerce / Tax menu, if the values match the following tax types: TAM, AAM, EU, EUK, MAA, F.AFA, "
+"ÁKK. If there's no match, it will calculate the percentage based on the net and gross prices."
+msgstr ""
+"Az áfakulcs, ami a számlán szerepelni fog. Alapértelmezetten a WooCommerce Adó menüpontban megadott "
+"adózási osztályokhoz tartozó \"Adó Neve\" mező értékét használja adókulcsnak, akkor, ha ezek "
+"valamelyike van megadva: TAM, AAM, EU, EUK, MAA, F.AFA, ÁKK. Ha nem ezek közül van megadva, akkor a "
+"százalékos értéket fogja kiszámolni a nettó/bruttó tétel árakból."
+
+#: includes/class-health-check.php:53
+msgid ""
+"The website and hosting meet all the requirements for a successful invoice generation with the "
+"Számlázz.hu WooCommerce extension."
+msgstr ""
+"A weboldal és a tárhely minden követelményenek megfelel egy sikeres számlakészítéshez a Számlázz.hu "
+"WooCommerce bővítménnyel."
+
+#: index.php:1261
+msgid "There is nothing to cancel"
+msgstr "Nincs mit sztornózni"
+
+#: index.php:2135
+msgid "There's no invoice for this order yet"
+msgstr "Még nem készült számla"
+
+#: includes/class-settings.php:371
+msgid "Thermal printer compatible (8 cm wide)"
+msgstr "Hőnyomtatós számlakép (8 cm széles)"
+
+#: includes/class-settings.php:757
+msgid "These options will be visible in the bulk actions dropdown."
+msgstr "Ezek az opciók lesznek láthatók a rendeléskezelőben a csoportos műveletek legördülőben."
+
+#: includes/compatibility/modules/class-wc-szamlazz-bookings.php:37
+msgid ""
+"This description will appear below the line item, if it was a booking. You can display the booking "
+"details and more with the following shortcodes: {booking_start_date}, {booking_end_date}, "
+"{booking_id}, {booking_person_count}, {booking_person_counts}."
+msgstr ""
+"A számlán megjelenő tétel alatti leírásban feltüntetheted a foglalással kapcsolatos információkat a "
+"következő kódokkal: {booking_start_date}, {booking_end_date}, {booking_id}, {booking_person_count}, "
+"{booking_person_counts}"
+
+#: includes/views/html-modal-generator.php:127
+msgid "This invoice was paid by the customer"
+msgstr "Ezt a számlát kifizette a vevő"
+
+#: includes/views/html-invoice-preview.php:148
+msgid ""
+"This is just a preview of the invoice and not all parameters will match the real invoice, like the "
+"colors, logo, language, and seller details."
+msgstr ""
+"Ez csak egy előnézet és nem minden eleme egyezik meg teljesen a rendes számlával, például a "
+"használt sablon, a színek, a nyelv és az eladó adatai mások lehetnek az éles számlán."
+
+#: includes/class-settings.php:458
+msgid ""
+"This is the line item name if a coupon is applied to the order. The default value is \"Discount\""
+msgstr ""
+"Rendeléshez használt kupont külön tételként tünteti fel a számlán, ennek a nevét adhatod itt meg. "
+"Alapértelmezett: Kedvezmény"
+
+#: includes/class-product-options.php:51 includes/views/html-product-options.php:17
+#: includes/views/html-variable-options.php:16
+msgid ""
+"This is the unit type for the line item on the invoice. The default value is set in the plugin "
+"settings."
+msgstr ""
+"A Számlázz.hu által generált számlán a tételnél feltüntetett mennyiségi egység. Az alapértelmezett "
+"értéket a bővítmény beállításokban tudod beállítani."
+
+#: includes/class-product-options.php:44 includes/views/html-product-options.php:26
+#: includes/views/html-variable-options.php:24
+msgid "This note will be visible on the invoice line item."
+msgstr "A Számlázz.hu által generált számlán a tételnél feltüntetett megjegyzés."
+
+#: includes/class-settings.php:562
+msgid ""
+"This option attaches the invoices to the WooCommerce e-mails. You should disable the invoice "
+"notification option in this case. You can select which document type is attached to the WooCommerce "
+"e-mails."
+msgstr ""
+"A számlák a WooCommerce által kiküldött e-mailekhez lesznek csatolva PDF formátumban. Érdemes "
+"ilyenkor a számlaértesítőt kikapcsolni. Kiválaszthatod, hogy melyik e-mailhez csatolja a számlát. "
+"Egyszerre többet is kiválaszthatsz."
+
+#: includes/class-settings.php:555
+msgid ""
+"This option places the invoice download links into the WooCommerce e-mails. You should disable the "
+"invoice notification option in this case. You can select which document type is attached to the "
+"WooCommerce e-mails."
+msgstr ""
+"A számlák a WooCommerce által kiküldött e-mailekbe lesznek elhelyezve, link formájában. Érdemes "
+"ilyenkor a számlaértesítőt kikapcsolni. Kiválaszthatod, hogy melyik e-mailhez csatolja a számlát. "
+"Egyszerre többet is kiválaszthatsz."
+
+#: includes/class-settings.php:340
+msgid ""
+"This will be the default quantity unit on the invoice. You can change this for each product one-by-"
+"one on the Advanced tab too."
+msgstr ""
+"Ez lesz az alapértelmezett mennyiségi egység a számlán a tételeknél, például \"db\". A termék "
+"szerkesztésekor a Haladó fülön megadható egyedi mennyiségi egység külön-külön minden termékhez."
+
+#: includes/class-settings.php:723
+msgid "This will display the download icons in the Tools column on the orders management table."
+msgstr ""
+"Ha be van kapcsolva, akkor a rendeléskezelőben a Műveletek oszlopban látszódnak a számla letöltés "
+"linkek."
+
+#: includes/class-settings.php:230
+msgid ""
+"To create an Agent Key, sign in into Számlázz.hu, go to the dashboard and click on the key icon at "
+"the bottom. <br><a target=\"_blank\" href=\"https://visztpeter.me/dokumentacio/\">Where can I find "
+"the agent key?</a>"
+msgstr ""
+"A kulcs létrehozásához lépj be a Számlázz.hu vezérlőpultra és az oldal alján kattints a kulcs "
+"gombra.<br><a target=\"_blank\" href=\"https://visztpeter.me/dokumentacio/\">Hol találom az Agent "
+"Kulcsot?</a>"
+
+#: includes/views/html-metabox.php:10
+msgid "To create an invoice, you must enter the Agent Key in the settings"
+msgstr "A számlakészítéshez meg kell adnod a Számla Agent kulcsot a beállításokban"
+
+#: includes/views/html-invoice-preview.php:126 includes/views/html-invoice-preview.php:136
+msgid "Total"
+msgstr "Összesen"
+
+#: includes/class-settings.php:369
+msgid "Traditional design"
+msgstr "Tradicionális számlakép"
+
+#: includes/views/html-metabox.php:31
+msgid "Turn back on"
+msgstr "Visszakapcsolás"
+
+#: includes/views/html-product-options.php:41 includes/views/html-variable-options.php:37
+msgid "Turn off auto invoicing"
+msgstr "Automata számlakészítés kikapcsolása"
+
+#: includes/views/html-modal-generator.php:75 includes/views/html-metabox.php:155
+msgid "Type"
+msgstr "Számla típusa"
+
+#: includes/class-pro.php:60 includes/class-pro.php:74
+msgid "Unable to activate the PRO version. Please make sure that the entered data is correct."
+msgstr "Nem sikerült az aktiválás, kérlek ellenőrizd az adatok helyességét."
+
+#: includes/class-pro.php:104
+msgid "Unable to deactivate the PRO version. Please make sure that the entered data is correct."
+msgstr "Nem sikerült aktiválni a PRO verziót. Nézd meg, hogy pontosan írtad e be licenc kulcsot. "
+
+#: index.php:1406
+#, php-format
+msgid "Unable to delete the Szamlazz.hu proforma invoice! Agent error code: %s"
+msgstr "Szamlazz.hu díjbekérő törlése sikertelen! Agent hibakód: %s"
+
+#: includes/views/html-admin-automations.php:144 includes/views/html-admin-automations.php:225
+msgid "Unique ID"
+msgstr "Egyedi azonosító"
+
+#: includes/views/html-invoice-preview.php:88
+msgid "Unit price"
+msgstr "Egységár"
+
+#: includes/class-product-options.php:49 includes/views/html-product-options.php:13
+#: includes/views/html-variable-options.php:12
+msgid "Unit type"
+msgstr "Mennyiségi egység"
+
+#: includes/views/html-admin-sidebar.php:41
+msgid "Unlimited"
+msgstr "Korlátlan"
+
+#: includes/compatibility/class-compatibility.php:22
+msgid "Unserializing instances of this class is forbidden."
+msgstr "Unserializing instances of this class is forbidden."
+
+#: includes/views/html-notice-migrate.php:12
+msgid "Update database"
+msgstr "Adatbázis frissítése"
+
+#: includes/class-panel-inbox.php:127
+msgid "Upgrade to PRO"
+msgstr "PRO verzió vásárlása"
+
+#: includes/views/html-metabox.php:271
+msgid "Upload document"
+msgstr "Dokumentum feltöltése"
+
+#: includes/views/html-metabox.php:201 includes/views/html-metabox.php:216
+msgid "Upload document manually"
+msgstr "Dokumentum feltöltése manuálisan"
+
+#: includes/views/html-admin-accounts.php:25
+msgid "US dollars"
+msgstr "USA dollár"
+
+#: includes/views/html-admin-sidebar.php:111
+msgid "Useful fixes for Hungarian WooCommerce stores"
+msgstr "Hasznos javítások a magyar WooCommerce webáruházakhoz"
+
+#: includes/views/html-invoice-preview.php:90
+msgid "VAT"
+msgstr "ÁFA"
+
+#: includes/views/html-admin-accounting-details.php:39
+#: includes/views/html-admin-accounting-details.php:43
+msgid "VAT Economic event"
+msgstr "Áfa gazd. esemény"
+
+#: includes/views/html-invoice-preview.php:37 includes/views/html-invoice-preview.php:55
+msgid "VAT Number"
+msgstr "Adószám"
+
+#: includes/class-vat-number.php:72 includes/class-vat-number.php:102
+#: includes/class-vat-number.php:109 includes/class-vat-number.php:228 includes/class-settings.php:486
+#: includes/class-settings.php:959 includes/views/html-metabox-vat.php:13
+#: includes/views/html-metabox-vat.php:19
+msgid "VAT number"
+msgstr "Adószám"
+
+#: includes/class-settings.php:498
+msgid "VAT number field always visible"
+msgstr "Adószám mező mindig látszódjon"
+
+#: includes/class-settings.php:491
+msgid "VAT number field during checkout"
+msgstr "Adószám mező vásárláskor"
+
+#: includes/class-settings.php:505
+msgid "VAT number field position"
+msgstr "Adószám mező pozíció"
+
+#: index.php:327
+msgid "VAT Number info"
+msgstr "Adószám információ"
+
+#: includes/class-settings.php:290
+msgid "VAT rates"
+msgstr "Áfakulcs"
+
+#: includes/views/html-admin-vat-overrides.php:85 includes/views/html-admin-vat-overrides.php:126
+msgid "vat type to"
+msgstr "tétel áfakulcs felülírása ezzel:"
+
+#: includes/views/html-invoice-preview.php:91
+msgid "VAT value"
+msgstr "Áfaérték"
+
+#: index.php:2114
+#, php-format
+msgid "via %s"
+msgstr "(%s)"
+
+#. Author of the plugin
+msgid "Viszt Péter"
+msgstr "Viszt Péter"
+
+#: includes/views/html-metabox-vat.php:16
+msgid "When creating the order, it was not possible to retrieve the tax number data from Számlázz.hu."
+msgstr "A rendelés létrehozásakor nem sikerült a Számlázz.hu-tól lekérni az adószám adatait."
+
+#: includes/class-settings.php:603
+msgid "Where should the download links be included in the emails?"
+msgstr "'Hol legyenek a számla letöltésre vonatkozó instrukciók beágyazva az e-mailekbe?"
+
+#: includes/views/html-admin-sidebar.php:81
+msgid "Why should I use the PRO version?"
+msgstr "Miért érdemes a PRO verziót használnod?"
+
+#: includes/class-panel-inbox.php:124
+msgid "WooCommerce + Szamlazz.hu"
+msgstr "WooCommerce + Számlázz.hu"
+
+#: includes/class-panel-inbox.php:168
+msgid "WooCommerce + Szamlazz.hu PRO version"
+msgstr "WooCommerce + Szamlazz.hu PRO verzió"
+
+#: includes/class-panel-inbox.php:144
+msgid "WooCommerce + Szamlazz.hu rating"
+msgstr "WooCommerce + Szamlazz.hu értékelés"
+
+#: includes/compatibility/modules/class-wc-szamlazz-bookings.php:29
+#: includes/compatibility/modules/class-wc-szamlazz-bookings.php:46
+msgid "WooCommerce Bookings"
+msgstr "WooCommerce Bookings"
+
+#: includes/compatibility/modules/class-wc-szamlazz-subscriptions.php:24
+msgid "WooCommerce Subscriptions"
+msgstr "WooCommerce Subscriptions"
+
+#: includes/views/html-notice-migrated.php:9
+msgid ""
+"WooCommerce Számlázz.hu has finished updating its database. Thank you for using the latest version!"
+msgstr ""
+"A WooCommerce Számlázz.hu befejezte az adatbázis frissítését. Köszönöm, hogy a legújabb verziót "
+"használod!"
+
+#: includes/views/html-notice-migrate.php:9
+msgid ""
+"WooCommerce Számlázz.hu updated! For everything to continue to work, the database must also be "
+"updated to the latest version."
+msgstr ""
+"A WooCommerce Számlázz.hu frissítve! Hogy továbbra is működjön minden, az adatbázist is frissíteni "
+"kell a legújabb verzióra."
+
+#: includes/class-settings.php:333
+msgid "WPML, Polylang & Translatepress compatibility"
+msgstr "WPML, Polylang és Translatepress kompatibilitás"
+
+#: includes/views/html-admin-sidebar.php:12
+#, php-format
+msgid ""
+"You are using the default VAT rate and taxes are disabled in WooCommerce, so the VAT rate will be "
+"0% on the invoice."
+msgstr ""
+"Jelenleg az alapértelmezett áfakulcs beállítást használod és a WooCommerce-ben nincs engedélyezve "
+"az adók kalkulálása, így a számlán 0%-os áfakulcs fog szerepelni."
+
+#: includes/class-settings.php:200
+msgid "You can change between AAM and 27% VAT rate while manually creating an invoice."
+msgstr ""
+"Számlázz.hu fiókokhoz külün-külön beállítható áfakulcs, így számlakészítéskor a végösszeg "
+"megtartásával lehet AAM vagy 27% áfatartalom."
+
+#: includes/class-settings.php:470
+msgid ""
+"You can display the original price and the amount of the discount in the comment of the line item. "
+"Use these shortcodes: {eredeti_ar}, {kedvezmeny_merteke}, {kedvezmenyes_ar}"
+msgstr ""
+"A tétel megjegyzésében fel tudod tüntetni az eredeti árat és a kedvezmény mértékét. Használd ezeket "
+"a helyettesítőket: {eredeti_ar}, {kedvezmeny_merteke}, {kedvezmenyes_ar}"
+
+#: includes/class-settings.php:620
+msgid ""
+"You can enter multiple email addresses separated with a comma and every document created will be "
+"forwarded to these addresses. You can use this to setup automation with Zapirt or emailitin.com for "
+"example."
+msgstr ""
+"Vesszővel elválasztva megadhatsz több e-mail címet, amire az elkészült számlákat továbbítani fogja. "
+"Ezt használhatod automatizálásra például a Zapieren vagy az emailitin.com-on keresztül."
+
+#: includes/class-settings.php:627
+msgid ""
+"You can find settings related to the E-Receipt. With this option, you can collect just the name and "
+"email address of the buyer. Instead of an invoice, a simple receipt will be generated that the user "
+"receives via email. Ideal for digital products, tickets. Please consult with your accountant first "
+"to make sure this is a good solution for you. If the buyer wants a regular invoice, a checkbox is "
+"added for that on the checkout form."
+msgstr ""
+"Ebben a szekcióban találod az E-Nyugta készítéshez szükséges beállításokat. Ezzel az opcióval a "
+"pénztár oldalon a vásárlónak csak a nevét és email címét kell megadnia és a vásárlásról nyugta "
+"készül, amit emailben kap meg a vásárló. Ideális jegyvásárláshoz, digitális termékekhez. "
+"Könyvelővel célszerű egyeztetni, megfelel e ez a megoldás. Ha a vásárló szeretne számlát kérni, "
+"akkor megadhatja a számlázási adatait is."
+
+#: includes/views/html-product-options.php:62 includes/views/html-variable-options.php:56
+msgid "You can overwrite the price of the product on the invoice with this option(enter a net price)."
+msgstr "A számlán megjelenő termék árát felülírhatod ezzel az opcióval(nettó árat adj meg)."
+
+#: includes/class-settings.php:195
+msgid ""
+"You can set separate invoice prefixes for each user. Useful feature for orders created by different "
+"salespersons."
+msgstr ""
+"Felhasználók szerinti számlaszám előtag beállítási lehetőség. Hasznos például üzletkötők által "
+"létrehozott rendeléseknél."
+
+#: includes/class-settings.php:237
+msgid "You can set up more accounts based on various conditions, like payment and shipping method."
+msgstr ""
+"Itt beállíthatod, ha egyszerre több számlázz.hu fiókot szeretnél használni fizetési és szállítási "
+"módok alapján."
+
+#: includes/class-settings.php:284
+#| msgid ""
+#| "You can use the following shortcodes in the description that appears on the invoice:"
+#| "<br>{customer_email} - The customer's e-mail address<br>{customer_phone} - The customer's phone "
+#| "number<br>{transaction_id} - Payment's transaction ID<br>{shipping_address} - Customer's "
+#| "shipping address<br>{customer_note} - Customer's order note"
+msgid ""
+"You can use the following shortcodes in the description that appears on the invoice:"
+"<br>{customer_email} - The customer's e-mail address<br>{customer_phone} - The customer's phone "
+"number<br>{transaction_id} - Payment's transaction ID<br>{shipping_address} - Customer's shipping "
+"address<br>{customer_note} - Customer's order note<br>{order_number} - Order number"
+msgstr ""
+"A megjegyzésben használhatod az alábbi helyettesítő kódokat:<br>{customer_email} - A vásárló e-mail "
+"címe<br>{customer_phone} - A vásárló telefonszáma<br>{transaction_id} - A fizetés tranzakciós "
+"azonosítója<br>{shipping_address} - Vásárló szállítási címe<br>{customer_note} - Vásárló által "
+"megadott rendelés megjegyzés<br>{order_number} - Rendelés azonosító"
+
+#: includes/class-ajax.php:91 includes/class-ajax.php:120 includes/class-ajax.php:134
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nincs hozzáférésed ehhez az oldalhoz."
+
+#: includes/views/html-admin-sidebar.php:25
+msgid "You have successfully activated the PRO version."
+msgstr "A PRO verziót sikeresen aktiváltad."
+
+#: includes/class-health-check.php:70
+msgid ""
+"You need to enter the Számla Agent Key in the settings to use the <strong>WooCommerce + Szamlazz."
+"hu</strong> extension."
+msgstr ""
+"A <strong>WooCommerce + Szamlazz.hu</strong> bővítmény használatához add meg a bővítmény "
+"beállításaiban a Számla Agent kulcsot."
+
+#: includes/views/html-modal-generator.php:111
+msgid "You need to select at least one order."
+msgstr "Nem választottál ki egyetlen rendelést sem."
+
+#: includes/views/html-modal-grouped.php:47
+msgid "You need to select at least two orders."
+msgstr "Nem választottál ki egyetlen rendelést sem."
+
+#: includes/class-settings.php:425
+msgid ""
+"Your webshop can get notified when an invoice has been paid. This message is sent by Számlázz.hu to "
+"a specific web address. You can define this address on <a href=\"https://www.szamlazz.hu/szamla/?"
+"action=directlogin&targetpage=beallitasokstep4\" target=\"_blank\">this</a> page."
+msgstr ""
+"Van lehetőség arra, hogy egy számla kifizetettségéről értesítést kapjon a webáruház. Ezt az "
+"üzenetet a Számlázz.hu küldi a fenti címre. Az URL megadható a számlakibocsátó fiókban <a href="
+"\"https://www.szamlazz.hu/szamla/?action=directlogin&targetpage=beallitasokstep4\" target=\"_blank"
+"\">ezen</a> az oldalon."
+
+#: includes/views/html-admin-automations.php:130 includes/views/html-admin-automations.php:212
+msgid "± day"
+msgstr "± nap"
+
+#: includes/class-helpers.php:57
+msgid "ÁKK"
+msgstr "ÁKK"
+
+#: includes/views/html-admin-sidebar.php:110
+msgid "🇭🇺 HuCommerce"
+msgstr "🇭🇺 HuCommerce"

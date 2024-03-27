@@ -1,0 +1,749 @@
+# Copyright (C) 2024 HelloWP.io
+# This file is distributed under the same license as the HelloPack Client plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HelloPack Client 2.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hellopack-client\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-13T13:45:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: hellopack-client\n"
+
+#. Plugin Name of the plugin
+msgid "HelloPack Client"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://hellowp.io/"
+msgstr ""
+
+#. Description of the plugin
+msgid "### BETA VERSION - Use at your own risk! This feature is intended for development purposes only. ### WordPress Theme & Plugin management for the HelloPack Client."
+msgstr ""
+
+#. Author of the plugin
+msgid "HelloWP.io"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hellowp.io"
+msgstr ""
+
+#: hellopack-client.php:86
+msgid ""
+"The HelloPack Client plugin requires PHP version 5.4+, plugin is currently NOT ACTIVE. Please\n"
+"contact the hosting provider to upgrade the version of PHP."
+msgstr ""
+
+#. translators: %s: URL to the correct zip file
+#: hellopack-client.php:105
+msgid "HelloPack Client plugin is not installed correctly. Please delete this plugin and get the correct zip file from %s."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:78
+#: inc/admin/class-hellopack-client-admin.php:88
+#: inc/class-hellopack-client-api.php:80
+#: inc/class-hellopack-client-api.php:90
+#: inc/class-hellopack-client-github.php:87
+#: inc/class-hellopack-client-github.php:97
+#: inc/class-hellopack-client-items.php:100
+#: inc/class-hellopack-client-items.php:110
+#: inc/class-hellopack-client.php:151
+#: inc/class-hellopack-client.php:161
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:285
+msgid "You do not have sufficient permissions to delete transients."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:413
+#: inc/admin/class-hellopack-client-admin.php:414
+msgid "HelloPack"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:483
+msgid "Save"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:484
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:485
+msgid "Cancel"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:486
+msgid "An unknown error occurred. Try again."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:508
+#: inc/admin/view/partials/settings.php:84
+msgid "Test API Connection"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:513
+#: inc/admin/view/callback/setting/items.php:22
+msgid "ID"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:516
+#: inc/admin/functions.php:445
+#: inc/admin/view/callback/setting/items.php:24
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:537
+msgid "Remove Item"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:538
+msgid "You are about to remove the connection between the HelloPack Client API and this item. You cannot undo this action."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:544
+#: inc/admin/view/callback/setting/items.php:37
+msgid "Add Item"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:547
+msgid "Token"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:550
+msgid "Enter the HelloPack API Personal Token."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:552
+msgid "Item ID"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:554
+msgid "Enter the HelloPack Item ID."
+msgstr ""
+
+#. translators: Version %s refers to the version number
+#: inc/admin/class-hellopack-client-admin.php:579
+#: inc/admin/functions.php:184
+#: inc/admin/functions.php:185
+#: inc/admin/functions.php:524
+#: inc/admin/functions.php:525
+msgid "Version %s"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:580
+msgid "Version"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:589
+#: inc/admin/functions.php:195
+#: inc/admin/functions.php:535
+msgid "By"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:596
+#: inc/admin/class-hellopack-client-admin.php:597
+#: inc/admin/functions.php:161
+#: inc/admin/functions.php:505
+msgid "Install"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:620
+msgid "HelloPack activation"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:628
+msgid "API-key"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:637
+msgid "Single Item Tokens (Advanced)"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1064
+#: inc/admin/class-hellopack-client-admin.php:1089
+msgid "Installing Plugin..."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1065
+msgid "You do not have sufficient permissions to install plugins on this site."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1066
+#: inc/admin/class-hellopack-client-admin.php:1091
+#: inc/admin/class-hellopack-client-admin.php:1150
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:114
+msgid "Return to Plugin Installer"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1090
+#: inc/admin/class-hellopack-client-admin.php:1149
+msgid "An error occurred, please check that the item ID is correct."
+msgstr ""
+
+#. translators: %s is the plugin name and version
+#: inc/admin/class-hellopack-client-admin.php:1097
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1123
+#: inc/admin/class-hellopack-client-admin.php:1148
+msgid "Installing Theme..."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1124
+msgid "You do not have sufficient permissions to install themes on this site."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1125
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:68
+msgid "Return to Theme Installer"
+msgstr ""
+
+#. translators: %s is the theme name and version
+#: inc/admin/class-hellopack-client-admin.php:1157
+msgid "Installing Theme: %s"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1185
+msgid "The Token is missing."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1187
+#: inc/admin/class-hellopack-client-admin.php:1288
+msgid "The Item ID is missing."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1198
+msgid "The Token or Item ID is incorrect."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1202
+msgid "The item cannot be downloaded."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1271
+msgid "An unknown error occurred."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1359
+#: inc/admin/class-hellopack-client-admin.php:1388
+#: inc/admin/class-hellopack-client-admin.php:1412
+msgid "Unlimited"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1362
+#: inc/admin/class-hellopack-client-admin.php:1375
+#: inc/admin/class-hellopack-client-admin.php:1391
+#: inc/admin/class-hellopack-client-admin.php:1399
+msgid "PHP Memory Limit:"
+msgstr ""
+
+#. translators: %1$s is the desired memory limit in MB, %2$s is the current memory limit in MB.
+#. translators: %1$s is the current upload limit in MB, %2$s is the desired upload limit in MB.
+#. translators: %s is the current input vars.
+#: inc/admin/class-hellopack-client-admin.php:1365
+#: inc/admin/class-hellopack-client-admin.php:1394
+#: inc/admin/class-hellopack-client-admin.php:1418
+#: inc/admin/class-hellopack-client-admin.php:1439
+msgid "is ok at %s."
+msgstr ""
+
+#. translators: %1$s is the desired memory limit in MB, %2$s is the current memory limit in MB.
+#: inc/admin/class-hellopack-client-admin.php:1369
+msgid "%s may be too small. If you are having issues please set your PHP memory limit to at least 256M - or ask your hosting provider to do this if you're unsure."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1377
+#: inc/admin/class-hellopack-client-admin.php:1401
+msgid "Failed to check memory limit. If you are having issues please ask hosting provider to raise the memory limit for you."
+msgstr ""
+
+#. translators: %1$s is the desired memory limit in MB, %2$s is the current memory limit in MB.
+#: inc/admin/class-hellopack-client-admin.php:1394
+msgid "%1$sM may be enough, however, for proper functioning of Elementor Pro, a minimum of %2$sM memory limit is recommended. If you are having issues please set your PHP memory limit to at least %3$s - or ask your hosting provider to do this if you're unsure."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1416
+#: inc/admin/class-hellopack-client-admin.php:1422
+msgid "PHP Upload Limits:"
+msgstr ""
+
+#. translators: %1$s is the current upload limit in MB, %2$s is the desired upload limit in MB.
+#: inc/admin/class-hellopack-client-admin.php:1418
+msgid "%1$s may be too small. If you are having issues please set your PHP upload limits to at least %2$sM - or ask your hosting provider to do this if you're unsure."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1424
+msgid "Failed to check upload limit. If you are having issues please ask hosting provider to raise the upload limit for you."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1436
+#: inc/admin/class-hellopack-client-admin.php:1450
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+#. translators: %1$s is the current input vars, %2$s is the desired input vars.
+#: inc/admin/class-hellopack-client-admin.php:1443
+msgid "%1$s may be too small. If you are having issues please set your PHP max input vars to at least %2$s - or ask your hosting provider to do this if you're unsure."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1452
+msgid "Failed to check input vars limit. If you are having issues please ask hosting provider to raise the input vars limit for you."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1464
+#: inc/admin/class-hellopack-client-admin.php:1478
+msgid "PHP Execution Time:"
+msgstr ""
+
+#. translators: %s is the current execution time in seconds.
+#: inc/admin/class-hellopack-client-admin.php:1467
+msgid "PHP execution time limit is ok at %s seconds."
+msgstr ""
+
+#. translators: %1$s is the current execution time in seconds, %2$s is the desired execution time in seconds.
+#: inc/admin/class-hellopack-client-admin.php:1471
+msgid "%1$s seconds is too small. Please set your PHP max execution time to at least %2$s seconds - or ask your hosting provider to do this if you're unsure."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1480
+msgid "Failed to check PHP execution time limit. Please ask hosting provider to raise this limit for you."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1491
+msgid "Plugin Update API"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1496
+msgid "HelloWP API"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1501
+msgid "HelloPack Client API"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1519
+msgid "Connected ok."
+msgstr ""
+
+#. translators: %1$s is the response code, %2$s is the host name, %3$s is the error message.
+#: inc/admin/class-hellopack-client-admin.php:1527
+msgid "Connection failed. Status '%1$s'. Please ensure PHP is allowed to connect to the host '%2$s' - or ask your hosting provider to do this if you’re unsure. %3$s"
+msgstr ""
+
+#. translators: %1$s is the host name, %2$s is the error message.
+#: inc/admin/class-hellopack-client-admin.php:1540
+msgid "Connection failed. Please contact the hosting provider and ensure PHP is allowed to connect to the host '%1$s'. %2$s"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1555
+#: inc/admin/class-hellopack-client-admin.php:1561
+#: inc/admin/class-hellopack-client-admin.php:1583
+msgid "HelloPack API Authentication:"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1556
+msgid "Not currently authenticated with the HelloPack API. Please add your API token."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1562
+msgid "Missing API permissions. Please re-create your HelloPack API token with the correct permissions."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1566
+msgid "Default"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1584
+msgid "Authenticated successfully"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1594
+msgid "WP Debug:"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1595
+msgid "If you’re on a production website, it’s best to set WP_DEBUG to false, please ask your hosting provider to do this if you’re unsure."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1595
+msgid "WP Debug is disabled, all ok."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1601
+msgid "ZipArchive Support:"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1602
+msgid "ZipArchive is available."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1602
+msgid "ZipArchive is not available. If you have issues installing or updating items please ask your hosting provider to enable ZipArchive."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1608
+msgid "PHP Version:"
+msgstr ""
+
+#. translators: %s is the current PHP version.
+#: inc/admin/class-hellopack-client-admin.php:1611
+msgid "PHP version is ok at %s."
+msgstr ""
+
+#. translators: %s is the current PHP version.
+#: inc/admin/class-hellopack-client-admin.php:1615
+msgid "Please ask the hosting provider to upgrade your PHP version to at least 7.4 or above."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1623
+msgid "WordPress Filesystem:"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1624
+msgid "Please enable WordPress FS_METHOD direct - or ask your hosting provider to do this if you’re unsure."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1633
+msgid "WordPress File Permissions:"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1634
+msgid "is ok."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1634
+msgid "Please set correct WordPress PHP write permissions for the wp-content directory - or ask your hosting provider to do this if you’re unsure."
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1642
+msgid "Active Plugins:"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-admin.php:1643
+msgid "Please try to reduce the number of active plugins on your WordPress site, as this will slow things down."
+msgstr ""
+
+#. translators: %s: theme name.
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:57
+#: inc/admin/functions.php:145
+msgid "Live Preview"
+msgstr ""
+
+#. translators: %s: theme name.
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:57
+#: inc/admin/functions.php:145
+msgid "Live Preview &#8220;%s&#8221;"
+msgstr ""
+
+#. translators: %s: theme name.
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:62
+#: inc/admin/functions.php:118
+msgid "Network Enable"
+msgstr ""
+
+#. translators: %s: theme name.
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:66
+#: inc/admin/functions.php:138
+#: inc/admin/functions.php:466
+msgid "Activate"
+msgstr ""
+
+#. translators: %s: theme name.
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:66
+#: inc/admin/functions.php:138
+msgid "Activate &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:103
+msgid "Activate Plugin"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-theme-installer-skin.php:110
+#: inc/admin/functions.php:481
+msgid "Network Activate"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-theme-upgrader.php:34
+#: inc/admin/class-hellopack-client-theme-upgrader.php:72
+msgid "Downloading the HelloPack Client upgrade package&#8230;"
+msgstr ""
+
+#: inc/admin/class-hellopack-client-theme-upgrader.php:45
+#: inc/admin/class-hellopack-client-theme-upgrader.php:83
+msgid "Downloading the HelloPack Client install package&#8230;"
+msgstr ""
+
+#. translators: %1$s: theme name, %2$s: theme slug, %3$s: theme version, %4$s: update text.
+#: inc/admin/functions.php:72
+#: inc/admin/functions.php:389
+msgid "Update %s now"
+msgstr ""
+
+#: inc/admin/functions.php:76
+#: inc/admin/functions.php:394
+msgid "Update Available"
+msgstr ""
+
+#. translators: %s: theme version.
+#: inc/admin/functions.php:85
+#: inc/admin/functions.php:402
+msgid "View version %1$s details."
+msgstr ""
+
+#: inc/admin/functions.php:100
+msgid "Customize"
+msgstr ""
+
+#. translators: %s: theme name.
+#: inc/admin/functions.php:102
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#. translators: %s: theme name.
+#: inc/admin/functions.php:120
+msgid "Network Enable &#8220;%s&#8221;"
+msgstr ""
+
+#. translators: %s: theme name.
+#: inc/admin/functions.php:164
+#: inc/admin/functions.php:506
+msgid "Install %s"
+msgstr ""
+
+#. translators: %1$s: total plugins, %2$s: current page, %3$s: total pages.
+#: inc/admin/functions.php:297
+msgid "%1$s plugins found. Page %2$s of %3$s"
+msgstr ""
+
+#: inc/admin/functions.php:313
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/admin/functions.php:323
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/admin/functions.php:424
+msgid "Deactivate"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/admin/functions.php:427
+msgid "Deactivate %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/admin/functions.php:448
+msgid "Delete %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/admin/functions.php:469
+msgid "Activate %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/admin/functions.php:485
+msgid "Network Activate %s"
+msgstr ""
+
+#: inc/admin/view/callback/section/items.php:10
+msgid "Add HelloPack Client themes & plugins using multiple OAuth tokens. This is especially useful when an item has been purchased on behalf of a third-party. This works similarly to the global OAuth Personal Token, but for individual items and additionally requires the HelloPack Client item ID."
+msgstr ""
+
+#: inc/admin/view/callback/section/items.php:12
+msgid "Warning: These tokens can be revoked by the account holder at any time."
+msgstr ""
+
+#: inc/admin/view/callback/setting/token.php:15
+msgid "Enter your API-key for verification. Do not worry, this key can only be used on this website."
+msgstr ""
+
+#: inc/admin/view/notice/error-http.php:11
+msgid "Failed to connect to the HelloPack API. Please contact the hosting providier with this message: \"The HelloPack Client WordPress plugin requires TLS version 1.2 or above, please confirm if this hosting account supports TLS version 1.2 and allows connections from WordPress to the host api.v2.wp-json.app\"."
+msgstr ""
+
+#. translators: %s: link to the downloads page
+#: inc/admin/view/notice/error-missing-zip.php:15
+msgid "Failed to locate the package file for this item.  install/upgrade the item manually from the %s."
+msgstr ""
+
+#: inc/admin/view/notice/error-permissions.php:13
+msgid "Please ensure only the following permissions are enabled: "
+msgstr ""
+
+#: inc/admin/view/notice/error-single-use.php:11
+msgid "One or more Single Use OAuth Personal Tokens could not be verified and should be removed."
+msgstr ""
+
+#: inc/admin/view/notice/error.php:11
+msgid "The OAuth Personal Token could not be verified. Please check that the Token has been entered correctly and has the minimum required permissions."
+msgstr ""
+
+#: inc/admin/view/notice/success-no-items.php:11
+msgid "Your HelloPack API-key has been verified. However, there are no WordPress downloadable items in your account."
+msgstr ""
+
+#: inc/admin/view/notice/success-single-use.php:11
+msgid "All Single Use OAuth Personal Tokens have been verified."
+msgstr ""
+
+#: inc/admin/view/notice/success.php:11
+msgid "Your HelloPack API-key has been verified."
+msgstr ""
+
+#: inc/admin/view/partials/help.php:25
+msgid "Encountered problems? Here you can find the tester and here you can get additional information on how to solve common issues."
+msgstr ""
+
+#: inc/admin/view/partials/intro.php:23
+msgid "Link to hellopack dashboard"
+msgstr ""
+
+#: inc/admin/view/partials/intro.php:27
+msgid "hellopack"
+msgstr ""
+
+#: inc/admin/view/partials/intro.php:44
+#: inc/admin/view/partials/plugins.php:24
+#: inc/admin/view/partials/tabs.php:28
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/view/partials/intro.php:59
+#: inc/admin/view/partials/tabs.php:42
+msgid "Themes"
+msgstr ""
+
+#: inc/admin/view/partials/intro.php:73
+#: inc/admin/view/partials/tabs.php:45
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/view/partials/intro.php:87
+#: inc/admin/view/partials/tabs.php:48
+msgid "Help"
+msgstr ""
+
+#: inc/admin/view/partials/intro.php:94
+msgid "Support"
+msgstr ""
+
+#: inc/admin/view/partials/plugin-search.php:8
+msgid "Search in HelloPack repository..."
+msgstr ""
+
+#: inc/admin/view/partials/plugin-search.php:10
+msgid "Search"
+msgstr ""
+
+#: inc/admin/view/partials/plugins.php:35
+msgid "Here you can find the latest version of the plugins in the HelloPack repository. You can also install and update them."
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:29
+msgid "Here you can set up your API key and make various configurations related to the updater."
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:43
+msgid "Your Website is Registered"
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:45
+msgid "Congratulations, and thank you for registering your website."
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:55
+msgid "HelloPack is not active"
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:57
+msgid "After installing the HelloPack package manager, the next step is to activate it on your website. To do this, you need to create an API key on the HelloWP.io site, which you can then enter in the HelloPack package manager on your WordPress website to activate the plugin. For more details,"
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:57
+msgid "click here"
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:59
+msgid "How to Create an API Key?"
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:61
+msgid "Log in to the HelloWP.io site and click on the"
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:61
+msgid "API Key Generator"
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:61
+msgid "menu item."
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:62
+msgid "Enter the following domain name:"
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:63
+msgid "Copy the received API key here."
+msgstr ""
+
+#: inc/admin/view/partials/settings.php:80
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/view/partials/themes.php:26
+msgid "Here you can find the latest version of the themes in the HelloPack repository. You can also install and update them."
+msgstr ""
+
+#: inc/class-hellopack-client-api.php:127
+msgid "An API token is required."
+msgstr ""
+
+#: inc/class-hellopack-client-api.php:160
+#: inc/class-hellopack-client-api.php:164
+msgid "An unknown API error occurred."
+msgstr ""
+
+#. translators: %1$s and %2$s are the opening and closing <a> tags.
+#: inc/class-hellopack-client-github.php:307
+msgid "%1$sActivate the HelloPack Client plugin%2$s to get updates for your plugins and themes."
+msgstr ""
+
+#. translators: %1$s and %2$s are the opening and closing <a> tags, %3$s is the plugin name.
+#: inc/class-hellopack-client-github.php:322
+msgid "%1$sInstall the HelloPack Client plugin%2$s to get updates for your themes and plugins."
+msgstr ""
+
+#. translators: %s: plugin name
+#: js/updates.js:144
+#: js/updates.js:197
+#: js/updates.js:257
+msgid "Updating %s..."
+msgstr ""
+
+#: js/updates.js:262
+msgid "Updated!"
+msgstr ""
+
+#: js/updates.js:298
+msgid "Updating failed"
+msgstr ""
+
+#. translators: %s: plugin name
+#: js/updates.js:302
+msgid "Updating failed %s..."
+msgstr ""
+
+#: js/updates.js:466
+msgid "Update in progress, really leave?"
+msgstr ""

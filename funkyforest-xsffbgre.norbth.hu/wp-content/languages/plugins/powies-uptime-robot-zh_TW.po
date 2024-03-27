@@ -1,0 +1,112 @@
+# Translation of Plugins - Powie&#039;s Uptime Robot Plugin - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Powie&#039;s Uptime Robot Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-26 01:59:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Powie&#039;s Uptime Robot Plugin - Stable (latest release)\n"
+
+#: pum.php:114
+msgid "unknown"
+msgstr "未知"
+
+#: pum.php:111
+msgid "down"
+msgstr "離線"
+
+#: pum.php:108
+msgid "seems down"
+msgstr "疑似離線"
+
+#: pum.php:105
+msgid "up"
+msgstr "上線"
+
+#: pum.php:102
+msgid "not checked yet"
+msgstr "尚未檢查"
+
+#: pum.php:99
+msgid "paused"
+msgstr "已暫停"
+
+#: pum.php:79
+msgid "Updated at"
+msgstr "更新於"
+
+#: pum.php:61
+msgid "Uptime"
+msgstr "上線時間"
+
+#: pum.php:60
+msgid "Monitor Name"
+msgstr "監控名稱"
+
+#: pum.php:59
+msgid "Status"
+msgstr "網站狀態"
+
+#: pum.php:32
+msgid "Uptime Robot Setup"
+msgstr "Uptime Robot 設定"
+
+#: pum_settings.php:54
+msgid "About"
+msgstr "關於這個外掛"
+
+#: pum_settings.php:49
+msgid "Use <code>[pum monitor=friendlyname]</code> to show the status of a single monitor only."
+msgstr "使用包含 <code>monitor</code> 屬性的 <code>[pum monitor=friendlyname]</code> 短代碼，便能顯示個別網站的監控狀態。"
+
+#: pum_settings.php:48
+msgid "Use the shortcode <code>[pum]</code> to show the status list on a page or post."
+msgstr "請在頁面或文章插入短代碼 <code>[pum]</code> 以顯示網站狀態清單。"
+
+#: pum_settings.php:46
+msgid "Shortcode Usage"
+msgstr "短代碼使用方式"
+
+#: pum_settings.php:40
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: pum_settings.php:35
+msgid "Comma separated list of monitors to hide from displaying"
+msgstr "請以逗號分隔監控狀態清單項目，便能從顯示結果中隱藏指定網站的狀態。"
+
+#: pum_settings.php:31
+msgid "Hide Monitors"
+msgstr "隱藏監控狀態"
+
+#: pum_settings.php:27
+msgid "Display Settings"
+msgstr "顯示設定"
+
+#: pum_settings.php:17
+msgid "API Key"
+msgstr "API 金鑰"
+
+#: pum_settings.php:13
+msgid "API Settings"
+msgstr "API 設定"
+
+#: pum_settings.php:8
+msgid "Post Content"
+msgstr "文章內容"
+
+#: pum_settings.php:3
+msgid "Uptime Robot Settings"
+msgstr "Uptime Robot 設定"
+
+#: status-cloud-widget.php:16
+msgid "Displays Uptime Robot Statuses on the sidebar"
+msgstr "在資訊欄顯示 Uptime Robot 的網站監控狀態。"
+
+#: status-cloud-widget.php:15
+msgid "Uptime Robot Status Cloud"
+msgstr "Uptime Robot 狀態雲"

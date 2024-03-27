@@ -1,0 +1,238 @@
+# Translation of Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-15 03:26:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release)\n"
+
+#. translators: %1$s: button label
+#: src/Notice/CloudflareNotice.php:81
+msgid "Click %1$s."
+msgstr "點擊 %1$s。"
+
+#: templates/components/notices/clear-cache.php:46
+msgid "Done"
+msgstr "完成"
+
+#. translators: %1$s: progress percent
+#: src/Conversion/Cron/CronStatusViewer.php:71
+msgid "Converting images (%s) is in progress."
+msgstr "正在轉換 %s 張圖片。"
+
+#. translators: %1$s: open anchor tag, %2$s: close anchor tag
+#: src/Plugin/PluginLinksGenerator.php:105
+#: src/Settings/Option/ConversionMethodOption.php:72
+#: src/Settings/Option/ImageResizeOption.php:89
+#: src/Settings/Option/OutputFormatsOption.php:77
+msgid "%1$sUpgrade to PRO%2$s"
+msgstr "%1$s升級至 Pro 版%2$s"
+
+#. translators: %1$s: open strong tag, %2$s: close strong tag, %3$s: errors
+#. codes
+#: templates/components/widgets/errors.php:36
+msgid "%1$sError codes:%2$s %3$s"
+msgstr "%1$s錯誤代碼:%2$s %3$s"
+
+#. translators: %1$s: open anchor tag, %2$s: close anchor tag
+#: src/Plugin/PluginLinksGenerator.php:84
+msgid "%1$sSettings%2$s"
+msgstr "%1$s設定%2$s"
+
+#: src/Settings/Option/LoaderTypeOption.php:73
+msgid "via .htaccess"
+msgstr "透過 .htaccess"
+
+#: src/Error/Notice/BypassingApacheNotice.php:74
+#: src/Settings/Option/LoaderTypeOption.php:42
+msgid "Image loading mode"
+msgstr "圖片載入模式"
+
+#: templates/components/widgets/about.php:28
+msgid "The plugin in default loading mode (via .htaccess) does not change file URLs, so there are no problems with saving the page to the cache and the page generation time does not increase."
+msgstr "外掛的預設載入模式為 [透過 .htaccess]，這個模式不會變更檔案網址，因此將頁面進行快取不會產生問題，也不會增加頁面產生時間。"
+
+#: src/Service/DeactivationModalLoader.php:71
+msgid "Skip and Deactivate"
+msgstr "略過並停用"
+
+#: src/Service/DeactivationModalLoader.php:70
+msgid "Submit and Deactivate"
+msgstr "傳送並停用"
+
+#: src/Service/DeactivationModalLoader.php:159
+msgid "Other reason"
+msgstr "其他原因"
+
+#: src/Service/DeactivationModalLoader.php:150
+msgid "This is a temporary deactivation"
+msgstr "暫時停用外掛"
+
+#: src/Service/DeactivationModalLoader.php:141
+msgid "I found a better plugin"
+msgstr "找到更適合的外掛"
+
+#: src/Service/DeactivationModalLoader.php:134
+msgid "What exactly happened?"
+msgstr "煩請告知網站問題的實際狀況。"
+
+#: src/Service/DeactivationModalLoader.php:124
+msgid "This plugin broke my website"
+msgstr "這個外掛造成我的網站停擺"
+
+#: src/Service/DeactivationModalLoader.php:83
+#: templates/components/widgets/errors.php:19
+msgid "Server configuration error"
+msgstr "伺服器組態錯誤"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:44
+msgid "Extra features"
+msgstr "額外功能"
+
+#. translators: %s: loader type
+#: src/Settings/Option/LoaderTypeOption.php:72
+msgid "%s (recommended)"
+msgstr "%s (建議使用)"
+
+#: src/Settings/Option/ConversionMethodOption.php:58
+msgid "Conversion method"
+msgstr "轉換方法"
+
+#: templates/views/settings.php:51
+msgid "Changes were successfully saved!"
+msgstr "設定已成功儲存。"
+
+#: templates/components/widgets/options.php:50
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: src/Service/WpCliManager.php:177
+#: templates/components/widgets/regenerate.php:189
+msgid "The process was completed successfully. Your images have been converted!"
+msgstr "處理程序已完成。這個網站的圖片已完成轉換。"
+
+#. translators: %s progress value
+#: src/Service/WpCliManager.php:184
+#: templates/components/widgets/regenerate.php:164
+msgid "Saving the weight of your images: %s"
+msgstr "正在儲存圖片大小: %s"
+
+#: templates/components/widgets/support.php:17
+msgid "We are waiting for your message"
+msgstr "隨時聆聽使用者意見"
+
+#: src/Conversion/Method/RemoteMethod.php:73
+#: src/Conversion/Method/RemoteMethod.php:78
+msgid "Remote server"
+msgstr "遠端伺服器"
+
+#: src/Error/Notice/AccessTokenInvalidNotice.php:27
+#: src/Settings/Option/AccessTokenOption.php:48
+msgid "Access Token"
+msgstr "存取權杖"
+
+#: src/Error/Notice/AccessTokenInvalidNotice.php:28
+#: templates/components/widgets/options-sidebar.php:53
+msgid "Activate Token"
+msgstr "啟用使用授權"
+
+#: templates/components/widgets/options-sidebar.php:57
+msgid "Deactivate Token"
+msgstr "停用使用授權"
+
+#: templates/views/settings.php:47
+msgid "The access token has been activated!"
+msgstr "存取權杖已啟用。"
+
+#. translators: %1$s: server path
+#: src/Error/Notice/PathHtaccessNotWritableNotice.php:26
+msgid "Unable to create or edit .htaccess file (is_readable() or is_writable() function returns false). Change directory permissions. The current path of the file is: %1$s. Please, contact your server administrator."
+msgstr "無法建立或編輯 .htaccess 檔案 (is_readable() 或 is_writable() 函式傳回 false)。目前的路徑為 %1$s，請變更目錄權限。請聯絡這台主機的伺服器管理員。"
+
+#. translators: %1$s: filter name, %2$s: server path, %3$s: open anchor tag,
+#. %4$s: close anchor tag
+#: src/Error/Notice/PathUploadsUnavailableNotice.php:26
+msgid "The path for /uploads files does not exist (the is_dir() function returns false). Use the %1$s filter to set the correct path. The current path is: %2$s. Please, read %3$sthe plugin FAQ%4$s to learn more."
+msgstr "/uploads 檔案的路徑不存在 (is_dir() 函式傳回 false)。目前的路徑為 %2$s，請使用 %1$s 篩選器以設定正確路徑。請參閱外掛的%3$s常見問題集%4$s以進一步了解相關資訊。"
+
+#. translators: %1$s: filter name, %2$s: server path
+#: src/Error/Notice/PathWebpDuplicatedNotice.php:26
+msgid "The paths for /uploads files and for saving converted WebP files are the same. Change them using the %1$s filter. The current path for them is: %2$s."
+msgstr "/uploads 檔案及儲存轉換完畢的 WebP 檔案路徑相同。目前的路徑為 %2$s，請使用 %1$s 篩選器以設定兩者的路徑。"
+
+#. translators: %1$s: filter name, %2$s: server path, %3$s: open anchor tag,
+#. %4$s: close anchor tag
+#: src/Error/Notice/PathWebpNotWritableNotice.php:26
+msgid "The path for saving converted WebP files does not exist and cannot be created (the is_writable() function returns false). Use the %1$s filter to set the correct path. The current path is: %2$s. Please, read %3$sthe plugin FAQ%4$s to learn more."
+msgstr "儲存 WebP 檔案的路徑不存在或無法建立 (is_writable() 函式傳回 false)。目前的路徑為 %2$s，請使用 %1$s 篩選器以設定正確路徑。請參閱外掛的%3$s常見問題集%4$s以進一步了解相關資訊。"
+
+#: src/Settings/Option/SupportedDirectoriesOption.php:55
+msgid "Files from these directories will be converted to output formats."
+msgstr "這些目錄中的檔案會轉換為輸出格式。"
+
+#: templates/components/notices/thanks.php:36
+msgid "We are glad that you are using our plugin and we hope you are satisfied with it. If you want, you can support us in the development of the plugin by adding a plugin review. This is very important and gives us the opportunity to create even better tools for you. Thank you!"
+msgstr "我們對這個網站使用我們開發的外掛非常開心，也希望使用者感到滿意。如果願意的話，請以撰寫外掛使用者評論的方式支持外掛開發。這對繼續為使用者開發更好的工具至為重要，感謝大家的支持。"
+
+#. translators: %1$s: open anchor tag, %2$s: close anchor tag
+#: templates/components/widgets/regenerate.php:195
+msgid "Do you want to know how the plugin works and how to check if it is working properly? Please, read %1$sour manual%2$s."
+msgstr "如果想進一步了解這個外掛的運作方式及檢查外掛是否正確執行，請參考這份外掛%1$s使用手冊%2$s。"
+
+#. translators: %s: anchor tag
+#: src/Error/Notice/PassthruExecutionNotice.php:29
+msgid "Execution of the PHP file from the \"%s\" path is blocked on your server, or access to this file is blocked. Add an exception and enable this file to be executed via an HTTP request. To do this, check the security plugin settings (if you are using them) or the security settings of your server."
+msgstr "伺服器上 %s 路徑的 PHP 檔案執行已遭封鎖，或存取這個檔案的權限已遭封鎖。請新增例外狀況或啟用這個檔案，以便透過 HTTP 要求執行。要進行這些設定，如果網站使用安全性外掛，請檢查外掛相關設定，或檢查伺服器的相關安全性設定。"
+
+#: src/Error/Notice/PassthruExecutionNotice.php:33
+#: src/Error/Notice/RewritesUploadsBlockedNotice.php:29
+msgid "In this case, please, contact your server administrator."
+msgstr "如果需要檢查伺服器相關安全性設定，請聯絡網站伺服器管理員。"
+
+#. translators: %1$s: loader name
+#: src/Error/Notice/PassthruNotWorkingNotice.php:26
+msgid "The %1$s loading mode is not compatible with your server. Sorry for the inconvenience."
+msgstr "%1$s 載入模式與這台伺服器不相容。很抱歉造成使用上的不便。"
+
+#: src/Error/Notice/SettingsIncorrectNotice.php:24
+msgid "The plugin settings are incorrect! Check them out and save them again. Please, remember that you need to have at least one option selected for each field."
+msgstr "外掛設定不正確，請檢查設定後再次儲存設定。請注意，一定要為每項設定設定至少一個設定值。"
+
+#: src/Service/DeactivationModalLoader.php:101
+msgid "What is your error? Have you been looking for a solution to this issue?"
+msgstr "發生了哪些錯誤？是否尋找過相關問題的解決方案？"
+
+#: src/Service/DeactivationModalLoader.php:143
+msgid "What is the name of this plugin? Why is it better?"
+msgstr "煩請告知這個外掛的名稱。"
+
+#: src/Service/DeactivationModalLoader.php:161
+msgid "What is the reason? What can we improve for you?"
+msgstr "煩請告知原因，以及我們能夠更加改進的部分。"
+
+#. translators: %s: loader type
+#: src/Settings/Option/LoaderTypeOption.php:83
+msgid "%s (without rewrites in .htaccess files or the Nginx configuration)"
+msgstr "%s (在 .htacces 檔或 Nginx 組態檔中沒有重寫規則)"
+
+#: templates/components/notices/thanks.php:45
+msgid "Add a plugin review"
+msgstr "撰寫使用者評論"
+
+#: templates/components/notices/thanks.php:50
+#: templates/components/notices/upgrade.php:62
+msgid "Hide and do not show again"
+msgstr "隱藏，不要再顯示"
+
+#: templates/components/widgets/regenerate.php:26
+msgid "An error occurred while connecting to the REST API. Please, try again."
+msgstr "連接 REST API 時發生錯誤。請再試一次。"
+
+#: templates/components/widgets/regenerate.php:207
+msgid "Additional information about the process:"
+msgstr "關於這個程序的其他資訊:"

@@ -1,0 +1,113 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .pisol-fsnw-close{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    z-index:2;
+ }
+
+ .pisol-fsnw-close:hover{
+     text-decoration:none;
+ }
+
+ .pisol_shortcodes{
+     font-weight:light;
+ }
+
+ #pi-progress-circle{
+     position:fixed;
+     z-index:99999999999999;
+     background-position: center;
+     background-size:50px 50px;
+     background-repeat: no-repeat;
+     cursor:pointer;
+ }
+
+ .pisol-bar-container:after{
+     content:"";
+     width:100%;
+     height:6px;
+     position: absolute;
+     bottom:0;
+     left:0;
+ }
+
+ .ui-progressbar-value{
+    height: 6px;
+    opacity:0.6;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    -webkit-transition: all 0.6s;
+    transition: all 0.6s;
+ }
+
+ /* overwrite jquery-ui styling */
+
+
+ .pisol-bar-container.ui-widget-content{
+    background-image:none !important;
+ }
+
+ .pisol_icon{
+     display:inline-block
+ }
+
+ .mfp-close{
+     background-color: transparent !important;
+ }
+
+ .pisol-popup{
+    background-color:#cccccc; 
+    color:#fff;
+    width:60%;
+    padding:10px 50px 10px 20px;
+    margin:auto;
+    position: relative;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+ }
+
+ .pisol-popup .pisol_shortcodes{
+     color:inherit;
+ }
+
+ @media (max-width:768px){
+    .pisol-popup{
+        width: 100%;
+    }
+}
+
+.pi-fsnw-container{
+    background-color: #cccccc;
+    border-radius:6px;
+    position:relative;
+}
+
+.pi-fsnw-cart-message{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.pi-fsnw-container .pi-inner-content{
+    position:absolute;
+    width:100%;
+    text-align:center;
+    color:#000000;
+    font-size:16px;
+    line-height: 24px;;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.pi-fsnw-container-progress{
+    background-color: #ff0000;
+    opacity:0.5;
+    border-radius:6px;
+}

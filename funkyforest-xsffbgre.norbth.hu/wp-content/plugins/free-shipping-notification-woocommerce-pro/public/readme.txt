@@ -1,0 +1,1 @@
+pisol_fsnw_final_ajax_filter => Use this filter to filter the final message for the ajax 

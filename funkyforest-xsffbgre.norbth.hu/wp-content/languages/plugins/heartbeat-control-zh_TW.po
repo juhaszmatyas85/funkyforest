@@ -1,0 +1,234 @@
+# Translation of Plugins - Heartbeat Control - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Heartbeat Control - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-20 10:08:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Heartbeat Control - Stable (latest release)\n"
+
+#: Settings.php:188
+msgid "Override Heartbeat frequency"
+msgstr "覆寫 Heartbeat API 使用頻率 (每 N 秒/次)"
+
+#: Settings.php:167
+msgid "Your changes have been saved successfully!"
+msgstr "設定已成功儲存。"
+
+#: Settings.php:126
+msgid "Save changes"
+msgstr "儲存設定"
+
+#. translators: %1$s: line break, %2$s %3$s: bold markup.
+#: Settings.php:71
+msgid "%2$sReduces image file sizes%3$s without losing quality.%1$sBy compressing your images you speed up your website and boost your SEO."
+msgstr "以不失真品質的演算法%2$s減少圖片檔案大小%3$s。%1$s壓縮圖片能加速網站並提升網站 SEO。"
+
+#. translators: %1$s %2$s: link markup.
+#: Settings.php:51
+msgid "Integrate more than 80&#x25; of web performance good practices automatically to %1$sreduce your website's loading time.%2$s"
+msgstr "整合超過 80&#x25; 的網站效能最佳做法以自動%1$s減少網站載入時間%2$s。"
+
+#: views/admin-page.php:216
+msgid "Check out our other plugins: we built them all to give a boost to the performance of your website!"
+msgstr "請參考我們開發的其他外掛。我們開發這些外掛，都是為了提高網站的效能。"
+
+#: views/admin-page.php:215
+msgid "We develop plugins that make the web a better place - faster, lighter, and easier to use."
+msgstr "我們開發能讓網站變的更好的外掛，讓網站更快，更輕量化及更易於使用。"
+
+#: views/admin-page.php:214
+msgid "Founded in 2014 in beautiful Lyon (France), WP Media is now a distributed company of more than 20 WordPress lovers living in the four corners of the world."
+msgstr "WP Media 於 2014 年在風景優美的法國里昂創立，目前是一家擁有超過 20 位來自世界各地 WordPress 遠端工作開發者的公司。"
+
+#: views/admin-page.php:213
+msgid "Welcome to WP Media!"
+msgstr "感謝採用 WP Media 的產品！"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:187
+msgid "Forget complicated settings and headaches, and %1$senjoy the fastest speed results%2$s your site has ever had!"
+msgstr "請忘記那些複雜又令人心煩的設定，盡情感受%1$s未曾有過的網站速度體驗%2$s。"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:153
+msgid "Improve %1$sconversions and revenue%2$s thanks to a stunning web performance"
+msgstr "透過出色的網站效能改善%1$s轉換率及收益%2$s"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:138
+msgid "%1$sBoost your SEO%2$s by preloading your pages and make them faster for Google's bots"
+msgstr "透過預先載入網頁讓 Google 檢索器讀取更快速，藉以%1$s提升網站 SEO%2$s"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:123
+msgid "Help improve your %1$sGoogle PageSpeed%2$s score"
+msgstr "協助網站改進 %1$sGoogle PageSpeed%2$s 分數"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:108
+msgid "Automatically apply more than %1$s80&#x25;%2$s of web performance best practices"
+msgstr "自動套用超過 %1$s80&#x25;%2$s 網站效能最佳做法"
+
+#. translators: %1$s %2$s: bold markup.
+#: views/admin-page.php:94
+msgid "Recognized as the %1$smost powerful caching plugin%2$s by WordPress experts"
+msgstr "WordPress 專家一致推薦、%1$s功能最強大的快取外掛%2$s"
+
+#: views/admin-page.php:80 views/admin-page.php:200 Settings.php:59
+msgid "Get WP Rocket"
+msgstr "購買 WP Rocket"
+
+#: views/admin-page.php:76 views/admin-page.php:196
+msgid "Activate Now"
+msgstr "立即啟用"
+
+#. translators: %1$s: line break, %2$s %3$s: bold markup.
+#: views/admin-page.php:66
+msgid "Looking for more optimization?%1$sThen you should use %2$sWP Rocket%3$s, and your site will be cached and optimized without you lifting a finger!"
+msgstr "網站需要更進一步的最佳化嗎？%1$s這時需要採取的策略便是採用 %2$sWP Rocket%3$s，使用它便能不費吹灰之力的為網站完成快取及最佳化。"
+
+#: views/admin-page.php:50
+msgid "About us"
+msgstr "關於我們"
+
+#: views/admin-page.php:48
+msgid "More optimization"
+msgstr "進階最佳化"
+
+#: views/admin-page.php:46
+msgid "General settings"
+msgstr "一般設定"
+
+#. translators: %1$s %2$s: link markup.
+#: views/admin-page.php:27
+msgid "Please, take a few seconds to %1$srate it on WordPress.org%2$s"
+msgstr "請花一點時間%1$s在 WordPress.org 上為外掛評分%2$s"
+
+#: views/admin-page.php:22
+msgid "Do you like this plugin ?"
+msgstr "這個外掛對網站是否有幫助？"
+
+#. translators: %1$s: status (not installed, installed or activated).
+#: Plugin_Card_Helper.php:625
+msgid "Status : %1$s"
+msgstr "外掛狀態: %1$s"
+
+#. translators: %1$s: plugin title.
+#: Plugin_Card_Helper.php:521
+msgid "%1$s has been successfully activated."
+msgstr "%1$s 已完成啟用。"
+
+#. translators: %1$s: plugin title.
+#: Plugin_Card_Helper.php:485
+msgid "%1$s has been successfully installed."
+msgstr "%1$s 已完成安裝。"
+
+#. translators: %1$s: plugin title.
+#: Plugin_Card_Helper.php:476
+msgid "%1$s has been successfully installed and activated."
+msgstr "%1$s 已完成安裝並啟用。"
+
+#: Plugin_Card_Helper.php:287
+msgid "Install plugin"
+msgstr "安裝外掛"
+
+#: Plugin_Card_Helper.php:286
+msgid "Activate plugin"
+msgstr "啟用外掛"
+
+#: Plugin_Card_Helper.php:285
+msgid "Already activated"
+msgstr "已啟用"
+
+#: Plugin_Card_Helper.php:268
+msgid "not installed"
+msgstr "尚未安裝"
+
+#: Plugin_Card_Helper.php:267
+msgid "installed"
+msgstr "已安裝"
+
+#: Plugin_Card_Helper.php:266
+msgid "activated"
+msgstr "已啟用"
+
+#: Imagify_Partner.php:535
+msgid "Go back"
+msgstr "返回"
+
+#: Imagify_Partner.php:534
+msgid "Plugin install failed."
+msgstr "外掛安裝失敗。"
+
+#: Imagify_Partner.php:533
+msgid "Sorry, you are not allowed to do that."
+msgstr "很抱歉，目前的登入身分沒有進行這項操作的權限。"
+
+#: Imagify_Partner.php:532
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "很抱歉，目前的登入身分沒有在這個網站上安裝外掛的權限。"
+
+#: Imagify_Partner.php:531
+msgid "Plugin installed successfully."
+msgstr "外掛已成功安裝。"
+
+#: heartbeat-control.php:173
+msgid "Heartbeat Control data have been migrated successfully!"
+msgstr "Heartbeat Control 外掛資料已成功移轉。"
+
+#. Plugin Name of the plugin
+msgid "Heartbeat Control by WP Rocket"
+msgstr "Heartbeat Control by WP Rocket"
+
+#. Author URI of the plugin
+msgid "https://wp-rocket.me"
+msgstr "https://wp-rocket.me"
+
+#. Author of the plugin
+msgid "WP Rocket"
+msgstr "WP Rocket"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/heartbeat-control/"
+msgstr "https://tw.wordpress.org/plugins/heartbeat-control/"
+
+#. Description of the plugin
+msgid "Completely controls the WordPress heartbeat."
+msgstr "這個外掛賦予網站管理員對 WordPress Heartbeat API 的完全控制權。"
+
+#: Settings.php:201
+msgid "Heartbeat Control"
+msgstr "控管 Heartbeat API"
+
+#: Settings.php:242
+msgid "Post editor"
+msgstr "內容編輯器"
+
+#: Settings.php:229
+msgid "Frontend"
+msgstr "網站前端"
+
+#: Settings.php:216
+msgid "WordPress Dashboard"
+msgstr "WordPress 控制台"
+
+#: Settings.php:183
+msgid "Modify Heartbeat"
+msgstr "自訂 Heartbeat API"
+
+#: Settings.php:182
+msgid "Disable Heartbeat"
+msgstr "停用 Heartbeat API"
+
+#: Settings.php:181
+msgid "Allow Heartbeat"
+msgstr "啟用 Heartbeat API"
+
+#: Settings.php:175
+msgid "Heartbeat Behavior"
+msgstr "Heartbeat API 行為"

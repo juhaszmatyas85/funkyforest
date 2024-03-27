@@ -1,0 +1,17 @@
+.slider {
+    padding: 0 0 5px;
+}
+.slider .slides img {
+    height: auto;
+    width: 100%;
+}
+.slider.is-admin:before {
+    display: block;
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 40px;
+    position: absolute;
+    z-index: 1;
+}

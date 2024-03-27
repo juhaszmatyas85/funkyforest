@@ -1,0 +1,102 @@
+{
+  "apiVersion": 2,
+  "name": "flexguten/post-grid-one",
+  "version": "0.1.0",
+  "title": "Post Grid",
+  "category": "flex-guten",
+  "description": "A simple post grid block for gutenberg editor.",
+  "supports": {
+    "html": true,
+    "anchor": false
+  },
+  "attributes": {
+    "id": {
+      "type": "string"
+    },
+    "customClases": {
+      "type": "string"
+    },
+    "headingTag": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string",
+      "default": "Hello World!"
+    },
+    "contentBg": {
+      "type": "string"
+    },
+    "containerBg": {
+      "type": "string"
+    },
+    "headingColor": {
+      "type": "string"
+    },
+    "excerptColor": {
+      "type": "string"
+    },
+    "readMoreColor": {
+      "type": "string"
+    },
+    "gridCols": {
+      "type": "number",
+      "default": 5
+    },
+    "gridGap": {
+      "type": "number",
+      "default": 5
+    },
+    "numberOfPosts": {
+      "type": "number",
+      "default": 5
+    },
+    "conatainerPadding": {
+      "type": "number",
+      "default": 0
+    },
+    "numberofRows": {
+      "type": "number",
+      "default": 3
+    },
+    "postFilter": {
+      "type": "string",
+      "default": "latest"
+    },
+    "categories": {
+      "type": "array",
+      "default": []
+    },
+    "posts": {
+      "type": "array",
+      "default": []
+    },
+    "headingFontSizes": {
+      "type": "object",
+      "default": {
+        "desktop": 24,
+        "tablet": 20,
+        "mobile": 16
+      }
+    },
+    "excerptFontSizes": {
+      "type": "object",
+      "default": {
+        "desktop": 18,
+        "tablet": 16,
+        "mobile": 14
+      }
+    },
+    "readMoreFontSizes": {
+      "type": "object",
+      "default": {
+        "desktop": 16,
+        "tablet": 14,
+        "mobile": 12
+      }
+    }
+  },
+  "textdomain": "flexguten",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

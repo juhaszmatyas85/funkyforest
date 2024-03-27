@@ -1,0 +1,25 @@
+div.pont, div.ponta {
+    position: relative;
+    overflow: visible;
+    margin-bottom:25px;
+    width: 100%;
+}
+
+div.pont {
+	display: none;
+}
+
+.pont #map{
+	height:350px;
+    }
+.pont #openmap{
+   height:250px;
+}
+
+span.infoTitle{
+    display: block;
+}
+span.marTitle{
+    display: inline-block;
+    font-weight: 500;
+}

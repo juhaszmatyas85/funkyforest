@@ -1,0 +1,90 @@
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Sharp Sans"), url("./sharp-sans/Italic.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Sharp Sans"), url("./sharp-sans/Sharp-Sans.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 280;
+	src: local("Sharp Sans"),
+		url("./sharp-sans/Thin-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 280;
+	src: local("Sharp Sans"), url("./sharp-sans/Thin.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 300;
+	src: local("Sharp Sans"),
+		url("./sharp-sans/Light-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 300;
+	src: local("Sharp Sans"), url("./sharp-sans/Light.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 500;
+	src: local("Sharp Sans"),
+		url("./sharp-sans/Medium-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 500;
+	src: local("Sharp Sans"), url("./sharp-sans/Medium.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 600;
+	src: local("Sharp Sans"),
+		url("./sharp-sans/Semibold-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 600;
+	src: local("Sharp Sans"), url("./sharp-sans/Semibold.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Sharp Sans"),
+		url("./sharp-sans/Bold-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: local("Sharp Sans"), url("./sharp-sans/Bold.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 800;
+	src: local("Sharp Sans"),
+		url("./sharp-sans/ExtraBold-Italic.woff") format("woff");
+}
+@font-face {
+	font-family: "Sharp Sans";
+	font-style: normal;
+	font-weight: 800;
+	src: local("Sharp Sans"), url("./sharp-sans/Extrabold.woff") format("woff");
+}
