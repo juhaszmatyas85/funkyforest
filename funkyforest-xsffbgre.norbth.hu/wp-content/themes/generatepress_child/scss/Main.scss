@@ -32,6 +32,7 @@
 }
 
 @import 'common/layout';
+@import 'pages/blog';
 
 body {
 	font-family: var(--font-barlow);
@@ -665,6 +666,81 @@ li {
 		font-style: normal;
 		font-weight: 400;
 		line-height: 140%;
+	}
+}
+
+.sidebar-products {
+	.wc-block-components-product-image {
+		img {
+			height: 100%;
+			width: auto;
+			max-height: 340px;
+		}
+	}
+
+	.wc-block-grid__product-image {
+		background-color: var(--product-background);
+		border-radius: var(--border-radius-image);
+	}
+
+	.wp-block-group__inner-container {
+		padding: 0px 0px 0px 25px;
+		padding-top: 20px;
+	}
+
+	ul {
+		li {
+			&.wc-block-product {
+				display: block;
+
+				&:not(last-child) {
+					margin-bottom: 3em;
+				}
+			}
+		}
+	}
+
+	.wp-block-post-title {
+		text-align: left;
+
+		a {
+			font-size: 24px;
+			font-style: normal;
+			font-weight: 600;
+			line-height: 120%;
+			text-transform: uppercase;
+			padding-top: 20px;
+			color: #000;
+		}
+	}
+
+	.wc-block-components-product-price {
+		text-align: left;
+		font-size: 22px !important;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 140%;
+		margin-bottom: 1rem;
+	}
+
+	.wp-block-post-excerpt__excerpt {
+		font-size: 14px !important;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 140%;
+		text-align: left;
+		margin-bottom: 1rem;
+	}
+
+	.wp-block-post-excerpt__more-text {
+		text-align: left;
+
+		a {
+			color: var(--funky-green);
+			font-weight: 700;
+			font-size: 14px;
+			text-transform: uppercase;
+		}
 	}
 }
 

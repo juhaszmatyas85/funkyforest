@@ -38,6 +38,40 @@
   margin-right: auto;
 }
 
+.page-featured-image {
+  border-radius: 30px;
+  overflow: hidden;
+  max-width: 1200px;
+  margin: 166px auto 2rem auto;
+  padding: 10px, 12px, 10px, 18px;
+}
+
+.blog-title {
+  font-family: var(--font-barlow);
+  font-weight: 700;
+  font-size: 52px;
+}
+
+.blog-header-meta {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19.6px;
+  text-align: left;
+  padding-bottom: 1em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid rgba(208, 208, 208, 0.5019607843);
+}
+.blog-header-meta .meta-texts .gb-headline:not(last-child)::after {
+  content: "•";
+  margin: 0 0.5em;
+}
+.blog-header-meta .btn-share {
+  background-color: var(--product-background);
+  color: #000000;
+  border-radius: 1000px;
+  cursor: pointer;
+}
+
 body {
   font-family: var(--font-barlow);
   font-size: 22px;
@@ -587,6 +621,63 @@ li.wc-block-product {
   font-style: normal;
   font-weight: 400;
   line-height: 140%;
+}
+
+.sidebar-products .wc-block-components-product-image img {
+  height: 100%;
+  width: auto;
+  max-height: 340px;
+}
+.sidebar-products .wc-block-grid__product-image {
+  background-color: var(--product-background);
+  border-radius: var(--border-radius-image);
+}
+.sidebar-products .wp-block-group__inner-container {
+  padding: 0px 0px 0px 25px;
+  padding-top: 20px;
+}
+.sidebar-products ul li.wc-block-product {
+  display: block;
+}
+.sidebar-products ul li.wc-block-product:not(last-child) {
+  margin-bottom: 3em;
+}
+.sidebar-products .wp-block-post-title {
+  text-align: left;
+}
+.sidebar-products .wp-block-post-title a {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  text-transform: uppercase;
+  padding-top: 20px;
+  color: #000;
+}
+.sidebar-products .wc-block-components-product-price {
+  text-align: left;
+  font-size: 22px !important;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  margin-bottom: 1rem;
+}
+.sidebar-products .wp-block-post-excerpt__excerpt {
+  font-size: 14px !important;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+.sidebar-products .wp-block-post-excerpt__more-text {
+  text-align: left;
+}
+.sidebar-products .wp-block-post-excerpt__more-text a {
+  color: var(--funky-green);
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
 }
 
 #menu-footer-menu {

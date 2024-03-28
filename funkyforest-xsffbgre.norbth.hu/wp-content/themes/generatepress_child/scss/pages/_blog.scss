@@ -1,0 +1,52 @@
+.page-featured-image {
+    border-radius: 30px;
+    overflow: hidden;
+    max-width: 1200px;
+    margin: 166px auto 2rem auto;
+    padding: 10px, 12px, 10px, 18px;
+}
+
+.blog-title {
+    font-family: var(--font-barlow);
+    font-weight: 700;
+    font-size: 52px;
+}
+
+.blog-header-meta {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19.6px;
+    text-align: left;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #D0D0D080;
+
+    .meta-texts {
+        .gb-headline {
+            &:not(last-child) {
+                &::after {
+                    content: "•";
+                    margin: 0 0.5em;
+                }
+            }
+        }
+    }
+
+    .category {
+    }
+
+    .author {
+
+    }
+
+    .date {
+
+    }
+
+    .btn-share {
+        background-color: var(--product-background);
+        color: #000000;
+        border-radius: 1000px;
+        cursor: pointer;
+    }
+}
